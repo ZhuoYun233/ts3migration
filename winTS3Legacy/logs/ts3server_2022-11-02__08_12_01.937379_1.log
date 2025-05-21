@@ -1,0 +1,1331 @@
+2022-11-02 08:12:03.528379|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 28), Error was: channel name is already in use
+2022-11-02 08:12:03.528379|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 6), Error was: invalid channel order
+2022-11-02 08:12:03.528379|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 34), Error was: invalid channel order
+2022-11-02 08:12:03.529343|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 5), Error was: invalid channel order
+2022-11-02 08:12:03.529343|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 19), Error was: invalid channel order
+2022-11-02 08:12:03.529343|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 31), Error was: invalid channel order
+2022-11-02 08:12:03.529343|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 40), Error was: invalid channel order
+2022-11-02 08:12:03.529343|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 51), Error was: invalid channel order
+2022-11-02 08:12:03.529343|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 48), Error was: invalid channel order
+2022-11-02 08:12:03.529343|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 49), Error was: invalid channel order
+2022-11-02 08:12:03.529343|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2022-11-02 20:11:25.230343|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2022-11-03 03:16:24.784852|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2022-11-03 03:16:24.784852|INFO    |PktHandler    |1  |Dropping client 3 because of resend timeout
+2022-11-03 03:22:18.080166|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2022-11-03 03:22:18.080166|INFO    |PktHandler    |1  |Dropping client 7 because of resend timeout
+2022-11-03 07:43:24.134373|INFO    |PktHandler    |1  |Dropping client 4 because of ping timeout 19 0 0
+2022-11-03 20:11:33.330615|INFO    |PktHandler    |1  |Dropping client 2 because of ping timeout 19 0 0
+2022-11-04 08:43:14.468410|INFO    |PktHandler    |1  |Dropping client 25 because of ping timeout 19 0 0
+2022-11-04 09:23:19.080672|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2022-11-04 11:58:00.122069|INFO    |PktHandler    |1  |Dropping client 27 because of ping timeout 19 0 0
+2022-11-04 14:13:36.855767|INFO    |PktHandler    |1  |Dropping client 29 because of ping timeout 19 0 0
+2022-11-04 14:20:19.621574|INFO    |PktHandler    |1  |Dropping client 23 because of ping timeout 19 0 0
+2022-11-05 01:22:50.872504|INFO    |PktHandler    |1  |Dropping client 31 because of ping timeout 19 0 0
+2022-11-05 03:16:45.879803|INFO    |PktHandler    |1  |Dropping client 32 because of ping timeout 19 0 0
+2022-11-05 05:17:42.736792|INFO    |PktHandler    |1  |Dropping client 34 because of ping timeout 19 0 0
+2022-11-05 05:36:39.126481|INFO    |PktHandler    |1  |Dropping client 38 because of ping timeout 19 0 0
+2022-11-05 06:09:17.615354|INFO    |PktHandler    |1  |Dropping client 41 because of ping timeout 19 0 0
+2022-11-05 08:47:56.883161|INFO    |PktHandler    |1  |Dropping client 42 because of ping timeout 19 0 0
+2022-11-05 10:46:45.774395|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2022-11-05 10:46:45.774395|INFO    |PktHandler    |1  |Dropping client 44 because of resend timeout
+2022-11-05 11:01:48.341600|INFO    |PktHandler    |1  |Dropping client 43 because of ping timeout 19 0 0
+2022-11-05 13:37:29.791699|INFO    |PktHandler    |1  |Dropping client 47 because of ping timeout 19 0 0
+2022-11-06 03:36:07.812498|INFO    |PktHandler    |1  |Dropping client 58 because of ping timeout 19 0 0
+2022-11-07 02:23:55.120740|INFO    |PktHandler    |1  |Dropping client 74 because of ping timeout 19 0 0
+2022-11-07 07:13:28.081880|INFO    |PktHandler    |1  |Dropping client 77 because of ping timeout 19 0 0
+2022-11-07 08:22:37.841521|INFO    |PktHandler    |1  |Dropping client 78 because of ping timeout 19 0 0
+2022-11-07 12:55:42.978345|INFO    |PktHandler    |1  |Dropping client 76 because of ping timeout 19 0 0
+2022-11-09 11:23:23.566335|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-11-09 11:23:23.566335|INFO    |PktHandler    |1  |Dropping client 100 because of resend timeout
+2022-11-12 08:11:46.687456|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-11-12 08:11:46.687456|INFO    |PktHandler    |1  |Dropping client 128 because of resend timeout
+2022-11-13 12:01:19.613637|INFO    |PktHandler    |1  |Dropping client 150 because of ping timeout 19 0 0
+2022-11-13 12:14:56.060256|INFO    |PktHandler    |1  |Dropping client 156 because of ping timeout 19 0 0
+2022-11-15 15:33:25.839672|INFO    |PktHandler    |1  |Dropping client 174 because of ping timeout 19 0 0
+2022-11-16 10:35:52.202113|INFO    |PktHandler    |1  |Dropping client 193 because of ping timeout 19 0 0
+2022-11-18 12:43:10.405400|INFO    |PktHandler    |1  |Dropping client 208 because of ping timeout 19 0 0
+2022-11-19 15:59:43.727039|INFO    |PktHandler    |1  |Dropping client 225 because of ping timeout 19 0 0
+2022-11-20 13:02:22.971188|INFO    |PktHandler    |1  |Dropping client 236 because of ping timeout 19 0 0
+2022-11-25 13:39:34.450417|INFO    |PktHandler    |1  |Dropping client 279 because of ping timeout 19 0 0
+2022-11-25 13:40:19.186636|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2022-11-25 13:40:19.186636|INFO    |PktHandler    |1  |Dropping client 281 because of resend timeout
+2022-11-25 13:47:41.913452|INFO    |PktHandler    |1  |Dropping client 282 because of ping timeout 19 0 0
+2022-11-26 06:38:06.791099|INFO    |PktHandler    |1  |Dropping client 288 because of ping timeout 19 0 0
+2022-11-26 08:41:19.085970|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:1160098412) was added by 'Zhuo_Yun'(id:75) to channel '吃饭区'(id:209)
+2022-11-28 07:08:00.369625|INFO    |PktHandler    |1  |Dropping client 311 because of ping timeout 19 0 0
+2022-12-03 07:09:51.883007|INFO    |PktHandler    |1  |Dropping client 380 because of ping timeout 19 0 0
+2022-12-03 13:42:50.491840|INFO    |PktHandler    |1  |Dropping client 385 because of ping timeout 19 0 0
+2022-12-06 04:46:10.668220|INFO    |PktHandler    |1  |Dropping client 412 because of ping timeout 19 0 0
+2022-12-06 04:47:56.738310|INFO    |PktHandler    |1  |Dropping client 413 because of ping timeout 19 0 0
+2022-12-06 12:10:14.493087|INFO    |PktHandler    |1  |Dropping client 416 because of ping timeout 19 0 0
+2022-12-06 13:34:43.744544|INFO    |PktHandler    |1  |Dropping client 421 because of ping timeout 19 0 0
+2022-12-07 07:50:11.912333|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-12-07 07:50:11.912333|INFO    |PktHandler    |1  |Dropping client 432 because of resend timeout
+2022-12-07 11:05:51.839927|INFO    |PktHandler    |1  |Dropping client 437 because of ping timeout 19 0 0
+2022-12-08 15:59:53.016452|INFO    |PktHandler    |1  |Dropping client 448 because of ping timeout 19 0 0
+2022-12-10 08:07:18.009684|INFO    |PktHandler    |1  |Dropping client 474 because of ping timeout 19 0 0
+2022-12-12 12:29:19.000272|INFO    |PktHandler    |1  |Dropping client 503 because of ping timeout 19 0 0
+2022-12-12 14:53:46.420076|INFO    |PktHandler    |1  |Dropping client 501 because of ping timeout 19 0 0
+2022-12-12 15:00:34.907817|INFO    |PktHandler    |1  |Dropping client 512 because of ping timeout 19 0 0
+2022-12-12 15:43:03.676986|INFO    |PktHandler    |1  |Dropping client 511 because of ping timeout 19 0 0
+2022-12-12 15:44:19.260845|INFO    |PktHandler    |1  |Dropping client 513 because of ping timeout 19 0 0
+2022-12-14 14:08:52.865877|INFO    |PktHandler    |1  |Dropping client 539 because of ping timeout 19 0 0
+2022-12-14 14:57:08.773604|INFO    |VirtualServer |1  |permission 'i_client_max_clones_uid'(id:176) with values (value:2, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:57:17.633036|INFO    |VirtualServer |1  |permission 'b_client_request_talker'(id:187) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:57:17.742394|INFO    |VirtualServer |1  |permission 'b_client_request_talker'(id:187) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:57:18.242406|INFO    |VirtualServer |1  |permission 'b_client_request_talker'(id:187) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:57:43.222012|INFO    |VirtualServer |1  |permission 'i_ft_file_upload_power'(id:235) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:57:46.177093|INFO    |VirtualServer |1  |permission 'i_ft_file_download_power'(id:237) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:57:47.632203|INFO    |VirtualServer |1  |permission 'i_ft_file_delete_power'(id:239) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:57:49.775747|INFO    |VirtualServer |1  |permission 'i_ft_file_rename_power'(id:241) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:57:53.572656|INFO    |VirtualServer |1  |permission 'i_ft_file_browse_power'(id:243) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:57:56.416413|INFO    |VirtualServer |1  |permission 'i_ft_directory_create_power'(id:245) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:02.072694|INFO    |VirtualServer |1  |permission 'i_ft_quota_mb_upload_per_client'(id:248) with values (value:20, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:04.072698|INFO    |VirtualServer |1  |permission 'i_ft_quota_mb_download_per_client'(id:247) with values (value:-1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:20.979033|INFO    |VirtualServer |1  |permission 'i_client_poke_power'(id:223) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:26.197819|INFO    |VirtualServer |1  |permission 'b_client_channel_textmessage_send'(id:219) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:27.057188|INFO    |VirtualServer |1  |permission 'b_client_offline_textmessage_send'(id:220) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:27.135310|INFO    |VirtualServer |1  |permission 'b_client_offline_textmessage_send'(id:220) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:28.057192|INFO    |VirtualServer |1  |permission 'b_client_offline_textmessage_send'(id:220) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:34.474219|INFO    |VirtualServer |1  |permission 'i_client_private_textmessage_power'(id:216) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:44.648088|INFO    |VirtualServer |1  |permission 'b_client_permissionoverview_view'(id:192) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:45.739885|INFO    |VirtualServer |1  |permission 'b_client_permissionoverview_own'(id:193) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:55.191123|INFO    |VirtualServer |1  |permission 'i_client_needed_kick_from_server_power'(id:199) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:58:57.972379|INFO    |VirtualServer |1  |permission 'i_client_needed_kick_from_channel_power'(id:201) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:03.534909|INFO    |VirtualServer |1  |permission 'i_client_needed_ban_power'(id:203) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:10.503685|INFO    |VirtualServer |1  |permission 'i_client_needed_move_power'(id:205) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:12.331812|INFO    |VirtualServer |1  |permission 'i_client_complain_power'(id:206) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:15.816213|INFO    |VirtualServer |1  |permission 'i_client_needed_complain_power'(id:207) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:24.425636|INFO    |VirtualServer |1  |permission 'i_group_auto_update_type'(id:149) with values (value:30, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:36.621007|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_list'(id:153) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:36.700111|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_list'(id:153) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:37.590738|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_list'(id:153) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:38.365146|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_client_list'(id:155) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:38.455964|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_client_list'(id:155) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:39.304602|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_client_list'(id:155) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:39.843665|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_list'(id:156) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:39.940343|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_list'(id:156) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:40.424721|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_list'(id:156) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:45.010696|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_client_list'(id:158) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:45.073188|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_client_list'(id:158) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-14 14:59:45.760700|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_client_list'(id:158) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-12-16 14:45:36.599870|INFO    |PktHandler    |1  |Dropping client 568 because of ping timeout 19 0 0
+2022-12-17 06:28:47.460392|INFO    |PktHandler    |1  |Dropping client 574 because of ping timeout 19 0 0
+2022-12-17 07:03:45.605096|INFO    |PktHandler    |1  |Dropping client 576 because of ping timeout 19 0 0
+2022-12-18 05:41:51.765500|INFO    |PktHandler    |1  |Dropping client 593 because of ping timeout 19 0 0
+2022-12-20 05:38:24.202583|INFO    |PktHandler    |1  |Dropping client 613 because of ping timeout 19 0 0
+2022-12-20 11:09:16.023589|INFO    |PktHandler    |1  |Dropping client 622 because of ping timeout 19 0 0
+2022-12-20 13:34:20.260739|INFO    |PktHandler    |1  |Dropping client 623 because of ping timeout 19 0 0
+2022-12-21 05:23:46.090674|INFO    |VirtualServer |1  |client 'LegotenXXJ'(id:151) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-12-21 07:48:00.819940|INFO    |PktHandler    |1  |Dropping client 634 because of ping timeout 19 0 0
+2022-12-22 06:59:01.129905|INFO    |PktHandler    |1  |Dropping client 648 because of ping timeout 19 0 0
+2022-12-22 07:33:08.981879|INFO    |PktHandler    |1  |Dropping client 649 because of ping timeout 19 0 0
+2022-12-23 09:27:33.843792|INFO    |PktHandler    |1  |Dropping client 667 because of ping timeout 19 0 0
+2022-12-23 10:38:32.267492|INFO    |PktHandler    |1  |Dropping client 668 because of ping timeout 19 0 0
+2022-12-23 11:32:29.580109|INFO    |PktHandler    |1  |Dropping client 670 because of ping timeout 19 0 0
+2022-12-23 11:35:30.567077|INFO    |PktHandler    |1  |Dropping client 672 because of ping timeout 19 0 0
+2022-12-25 04:51:55.308027|INFO    |PktHandler    |1  |Dropping client 704 because of ping timeout 19 0 0
+2022-12-25 05:08:13.076989|INFO    |PktHandler    |1  |Dropping client 705 because of ping timeout 19 0 0
+2022-12-25 05:10:59.882186|INFO    |PktHandler    |1  |Dropping client 706 because of ping timeout 19 0 0
+2022-12-26 07:48:07.463247|INFO    |PktHandler    |1  |Dropping client 730 because of ping timeout 19 0 0
+2022-12-26 13:17:12.308502|INFO    |PktHandler    |1  |Dropping client 740 because of ping timeout 19 0 0
+2022-12-27 03:42:04.762117|INFO    |PktHandler    |1  |Dropping client 745 because of ping timeout 19 0 0
+2022-12-27 03:43:16.411820|INFO    |PktHandler    |1  |Dropping client 746 because of ping timeout 19 0 0
+2022-12-27 08:22:12.935092|INFO    |PktHandler    |1  |Dropping client 748 because of ping timeout 19 0 0
+2022-12-27 13:57:06.924537|INFO    |PktHandler    |1  |Dropping client 756 because of ping timeout 19 0 0
+2022-12-27 14:19:18.002699|INFO    |PktHandler    |1  |Dropping client 759 because of ping timeout 19 0 0
+2022-12-29 14:57:11.849448|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2022-12-29 14:57:11.849448|INFO    |PktHandler    |1  |Dropping client 782 because of resend timeout
+2022-12-30 02:48:43.375927|INFO    |PktHandler    |1  |Dropping client 797 because of ping timeout 19 0 0
+2022-12-30 08:55:15.585367|INFO    |PktHandler    |1  |Dropping client 807 because of ping timeout 19 0 0
+2022-12-30 12:50:31.305172|INFO    |PktHandler    |1  |Dropping client 800 because of ping timeout 19 0 0
+2022-12-31 04:21:45.857467|INFO    |PktHandler    |1  |Dropping client 825 because of ping timeout 19 0 0
+2023-01-01 02:00:14.645215|INFO    |PktHandler    |1  |Dropping client 845 because of ping timeout 19 0 0
+2023-01-01 05:07:17.645768|INFO    |PktHandler    |1  |Dropping client 847 because of ping timeout 19 0 0
+2023-01-01 06:36:51.316188|INFO    |PktHandler    |1  |Dropping client 856 because of ping timeout 19 0 0
+2023-01-01 14:33:48.488445|INFO    |PktHandler    |1  |Dropping client 863 because of ping timeout 19 0 0
+2023-01-01 15:19:12.854619|INFO    |PktHandler    |1  |Dropping client 864 because of ping timeout 19 0 0
+2023-01-01 15:54:29.473293|INFO    |PktHandler    |1  |Dropping client 865 because of ping timeout 19 0 0
+2023-01-02 02:36:06.088003|INFO    |PktHandler    |1  |Dropping client 871 because of ping timeout 19 0 0
+2023-01-02 04:22:37.352921|INFO    |PktHandler    |1  |Dropping client 876 because of ping timeout 19 0 0
+2023-01-04 06:05:52.737279|INFO    |PktHandler    |1  |Dropping client 897 because of ping timeout 19 0 0
+2023-01-04 10:25:15.388047|INFO    |PktHandler    |1  |Dropping client 899 because of ping timeout 19 0 0
+2023-01-04 11:18:56.898320|INFO    |PktHandler    |1  |Dropping client 904 because of ping timeout 19 0 0
+2023-01-04 14:10:48.429469|INFO    |PktHandler    |1  |Dropping client 910 because of ping timeout 19 0 0
+2023-01-05 07:59:53.715626|INFO    |PktHandler    |1  |Dropping client 918 because of ping timeout 19 0 0
+2023-01-05 14:16:01.379761|INFO    |PktHandler    |1  |Dropping client 922 because of ping timeout 19 0 0
+2023-01-05 14:30:59.331108|INFO    |PktHandler    |1  |Dropping client 929 because of ping timeout 19 0 0
+2023-01-06 12:02:27.107121|INFO    |PktHandler    |1  |Dropping client 941 because of ping timeout 19 0 0
+2023-01-06 14:17:36.970291|INFO    |PktHandler    |1  |Dropping client 946 because of ping timeout 19 0 0
+2023-01-06 15:01:50.569211|INFO    |PktHandler    |1  |Dropping client 948 because of ping timeout 19 0 0
+2023-01-07 09:36:40.632954|INFO    |PktHandler    |1  |Dropping client 953 because of ping timeout 19 0 0
+2023-01-08 13:42:52.984277|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2023-01-08 13:42:59.593633|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Channel Admin'(id:5) by client 'Zhuo_Yun'(id:75) in channel '挂机区'(id:27)
+2023-01-08 13:43:03.218629|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was removed from servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-01-08 13:43:06.187371|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was removed from servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2023-01-08 13:43:10.156115|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-01-08 13:43:14.086755|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2023-01-09 09:28:12.835319|INFO    |PktHandler    |1  |Dropping client 983 because of ping timeout 19 0 0
+2023-01-11 09:53:11.676546|INFO    |PktHandler    |1  |Dropping client 1024 because of ping timeout 19 0 0
+2023-01-11 10:04:57.181883|INFO    |PktHandler    |1  |Dropping client 1017 because of ping timeout 19 0 0
+2023-01-11 10:12:08.245525|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-01-11 10:12:08.245525|INFO    |PktHandler    |1  |Dropping client 1027 because of resend timeout
+2023-01-11 10:43:05.979826|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-01-11 10:43:05.979826|INFO    |PktHandler    |1  |Dropping client 1030 because of resend timeout
+2023-01-11 17:06:17.988575|INFO    |PktHandler    |1  |Dropping client 1031 because of ping timeout 19 0 0
+2023-01-12 08:24:59.814130|INFO    |PktHandler    |1  |Dropping client 1039 because of ping timeout 19 0 0
+2023-01-13 09:12:06.090213|INFO    |PktHandler    |1  |Dropping client 1051 because of ping timeout 19 0 0
+2023-01-14 08:39:41.624562|INFO    |PktHandler    |1  |Dropping client 1070 because of ping timeout 19 0 0
+2023-01-15 06:14:32.359854|INFO    |PktHandler    |1  |Dropping client 1089 because of ping timeout 19 0 0
+2023-01-15 06:39:25.132267|INFO    |PktHandler    |1  |Dropping client 1092 because of ping timeout 19 0 0
+2023-01-16 15:24:49.169741|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-01-16 15:24:49.169741|INFO    |PktHandler    |1  |Dropping client 1116 because of resend timeout
+2023-01-16 16:11:06.033055|INFO    |PktHandler    |1  |Dropping client 1112 because of ping timeout 19 0 0
+2023-01-19 03:55:42.699546|INFO    |PktHandler    |1  |Dropping client 1154 because of ping timeout 19 0 0
+2023-01-20 05:48:05.319506|INFO    |PktHandler    |1  |Dropping client 1173 because of ping timeout 19 0 0
+2023-01-20 08:38:31.316207|INFO    |PktHandler    |1  |Dropping client 1174 because of ping timeout 19 0 0
+2023-01-21 02:47:59.488680|INFO    |PktHandler    |1  |Dropping client 1182 because of ping timeout 19 0 0
+2023-01-21 12:41:50.580017|INFO    |VirtualServer |1  |client '音乐大师'(id:5) was removed from servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2023-01-21 12:42:05.889560|INFO    |VirtualServer |1  |client '音乐大师'(id:5) was added to channelgroup 'Bot'(id:9) by client 'Zhuo_Yun'(id:75) in channel '歌房'(id:45)
+2023-01-22 13:41:02.982570|INFO    |PktHandler    |1  |Dropping client 1208 because of ping timeout 19 0 0
+2023-01-23 02:26:45.889994|INFO    |PktHandler    |1  |Dropping client 1214 because of ping timeout 19 0 0
+2023-01-23 12:18:58.597022|INFO    |PktHandler    |1  |Dropping client 1235 because of ping timeout 19 0 0
+2023-01-23 13:40:30.198720|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-01-23 13:40:30.198720|INFO    |PktHandler    |1  |Dropping client 1239 because of resend timeout
+2023-01-23 13:47:21.636374|INFO    |PktHandler    |1  |Dropping client 1244 because of ping timeout 19 0 0
+2023-01-24 02:23:05.147669|INFO    |PktHandler    |1  |Dropping client 1248 because of ping timeout 19 0 0
+2023-01-24 02:24:18.733439|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-01-24 02:24:18.733439|INFO    |PktHandler    |1  |Dropping client 1249 because of resend timeout
+2023-01-24 03:12:12.725120|INFO    |PktHandler    |1  |Dropping client 1250 because of ping timeout 19 0 0
+2023-01-24 16:24:58.558361|INFO    |PktHandler    |1  |Dropping client 1264 because of ping timeout 19 0 0
+2023-01-25 08:20:29.793767|INFO    |PktHandler    |1  |Dropping client 1272 because of ping timeout 19 0 0
+2023-01-25 08:36:19.773457|INFO    |PktHandler    |1  |Dropping client 1275 because of ping timeout 19 0 0
+2023-01-26 01:42:16.646885|INFO    |PktHandler    |1  |Dropping client 1286 because of ping timeout 19 0 0
+2023-01-26 13:45:19.332977|INFO    |PktHandler    |1  |Dropping client 1293 because of ping timeout 19 0 0
+2023-01-27 05:20:36.950229|INFO    |PktHandler    |1  |Dropping client 1299 because of ping timeout 19 0 0
+2023-01-27 05:21:19.071416|INFO    |PktHandler    |1  |Dropping client 1301 because of ping timeout 19 0 0
+2023-01-27 08:17:11.228253|INFO    |PktHandler    |1  |Dropping client 1302 because of ping timeout 19 0 0
+2023-01-27 13:11:20.105335|INFO    |PktHandler    |1  |Dropping client 1309 because of ping timeout 19 0 0
+2023-01-27 14:35:45.716074|INFO    |PktHandler    |1  |Dropping client 1316 because of ping timeout 19 0 0
+2023-01-28 12:36:10.973081|INFO    |PktHandler    |1  |Dropping client 1332 because of ping timeout 19 0 0
+2023-01-28 12:52:51.789509|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2023-01-28 12:52:51.789509|INFO    |PktHandler    |1  |Dropping client 1328 because of resend timeout
+2023-01-28 13:51:11.002068|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-01-28 13:51:11.002068|INFO    |PktHandler    |1  |Dropping client 1327 because of resend timeout
+2023-01-28 15:09:07.253275|INFO    |PktHandler    |1  |Dropping client 1337 because of ping timeout 19 0 0
+2023-01-30 11:40:42.712468|INFO    |PktHandler    |1  |Dropping client 1374 because of ping timeout 19 0 0
+2023-02-01 12:56:02.102874|INFO    |PktHandler    |1  |Dropping client 1410 because of ping timeout 19 0 0
+2023-02-02 07:23:50.451642|INFO    |PktHandler    |1  |Dropping client 1413 because of ping timeout 19 0 0
+2023-02-03 03:21:13.208265|INFO    |PktHandler    |1  |Dropping client 1431 because of ping timeout 19 0 0
+2023-02-04 10:27:05.444028|INFO    |PktHandler    |1  |Dropping client 1451 because of ping timeout 19 0 0
+2023-02-05 05:56:18.425386|INFO    |PktHandler    |1  |Dropping client 1476 because of ping timeout 19 0 0
+2023-02-05 10:49:01.286708|INFO    |PktHandler    |1  |Dropping client 1478 because of ping timeout 19 0 0
+2023-02-07 11:32:56.404934|INFO    |PktHandler    |1  |Dropping client 1530 because of ping timeout 19 0 0
+2023-02-08 07:11:35.789299|INFO    |PktHandler    |1  |Dropping client 1542 because of ping timeout 19 0 0
+2023-02-09 14:21:47.768513|INFO    |PktHandler    |1  |Dropping client 1560 because of ping timeout 19 0 0
+2023-02-09 16:32:01.505172|INFO    |PktHandler    |1  |Dropping client 1571 because of ping timeout 19 0 0
+2023-02-12 11:19:07.212166|INFO    |PktHandler    |1  |Dropping client 1618 because of ping timeout 19 0 0
+2023-02-13 13:54:51.999516|INFO    |PktHandler    |1  |Dropping client 1639 because of ping timeout 19 0 0
+2023-02-13 13:56:10.046509|INFO    |PktHandler    |1  |Dropping client 1640 because of ping timeout 19 0 0
+2023-02-13 14:27:29.310087|INFO    |PktHandler    |1  |Dropping client 1641 because of ping timeout 19 0 0
+2023-02-14 12:58:55.947740|INFO    |PktHandler    |1  |Dropping client 1657 because of ping timeout 19 0 0
+2023-02-14 15:42:21.532423|INFO    |PktHandler    |1  |Dropping client 1662 because of ping timeout 19 0 0
+2023-02-17 09:09:30.407169|INFO    |PktHandler    |1  |Dropping client 1699 because of ping timeout 19 0 0
+2023-02-17 09:19:53.319281|INFO    |PktHandler    |1  |Dropping client 1700 because of ping timeout 19 0 0
+2023-02-19 12:06:27.327982|INFO    |PktHandler    |1  |Dropping client 1739 because of ping timeout 19 0 0
+2023-02-21 08:24:52.454250|INFO    |PktHandler    |1  |Dropping client 1768 because of ping timeout 19 0 0
+2023-02-21 08:30:52.255219|INFO    |PktHandler    |1  |Dropping client 1773 because of ping timeout 19 0 0
+2023-02-21 13:57:57.973165|INFO    |PktHandler    |1  |Dropping client 1776 because of ping timeout 19 0 0
+2023-02-22 06:26:50.189130|INFO    |PktHandler    |1  |Dropping client 1783 because of ping timeout 19 0 0
+2023-02-22 07:12:11.259801|INFO    |PktHandler    |1  |Dropping client 1784 because of ping timeout 19 0 0
+2023-02-22 12:11:14.510763|INFO    |PktHandler    |1  |Dropping client 1785 because of ping timeout 19 0 0
+2023-02-22 14:43:20.910804|INFO    |PktHandler    |1  |Dropping client 1792 because of ping timeout 19 0 0
+2023-02-22 15:00:36.221623|INFO    |PktHandler    |1  |Dropping client 1790 because of ping timeout 19 0 0
+2023-02-22 21:30:41.582026|INFO    |PktHandler    |1  |Dropping client 1797 because of ping timeout 19 0 0
+2023-02-23 03:04:15.839844|INFO    |PktHandler    |1  |Dropping client 1800 because of ping timeout 19 0 0
+2023-02-23 05:34:39.891068|INFO    |PktHandler    |1  |Dropping client 1801 because of ping timeout 19 0 0
+2023-02-23 05:42:32.250410|INFO    |PktHandler    |1  |Dropping client 1803 because of ping timeout 19 0 0
+2023-02-23 06:16:37.396647|INFO    |PktHandler    |1  |Dropping client 1798 because of ping timeout 19 0 0
+2023-02-23 06:36:10.485106|INFO    |PktHandler    |1  |Dropping client 1804 because of ping timeout 19 0 0
+2023-02-26 08:04:22.497367|INFO    |PktHandler    |1  |Dropping client 1849 because of ping timeout 19 0 0
+2023-02-27 15:25:20.392484|INFO    |PktHandler    |1  |Dropping client 1873 because of ping timeout 19 0 0
+2023-03-01 11:04:40.764927|INFO    |PktHandler    |1  |Dropping client 1892 because of ping timeout 19 0 0
+2023-03-01 12:22:56.687085|INFO    |PktHandler    |1  |Dropping client 1895 because of ping timeout 19 0 0
+2023-03-04 02:35:12.288309|INFO    |PktHandler    |1  |Dropping client 1923 because of ping timeout 19 0 0
+2023-03-04 11:38:40.175469|INFO    |PktHandler    |1  |Dropping client 1928 because of ping timeout 19 0 0
+2023-03-07 14:23:30.733745|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-03-07 14:23:30.733745|INFO    |PktHandler    |1  |Dropping client 1977 because of resend timeout
+2023-03-09 09:32:34.983769|INFO    |PktHandler    |1  |Dropping client 1998 because of ping timeout 19 0 0
+2023-03-09 09:40:03.878050|INFO    |PktHandler    |1  |Dropping client 2000 because of ping timeout 19 0 0
+2023-03-09 13:40:32.306153|INFO    |PktHandler    |1  |Dropping client 2006 because of ping timeout 19 0 0
+2023-03-09 14:55:38.769843|INFO    |PktHandler    |1  |Dropping client 2018 because of ping timeout 19 0 0
+2023-03-09 15:00:41.874662|INFO    |PktHandler    |1  |Dropping client 2019 because of ping timeout 19 0 0
+2023-03-10 12:59:26.078426|INFO    |PktHandler    |1  |Dropping client 2026 because of ping timeout 19 0 0
+2023-03-10 15:59:56.897038|INFO    |PktHandler    |1  |Dropping client 2030 because of ping timeout 19 0 0
+2023-03-12 08:50:22.656747|INFO    |PktHandler    |1  |Dropping client 2061 because of ping timeout 19 0 0
+2023-03-12 09:35:46.017136|INFO    |PktHandler    |1  |Dropping client 2045 because of ping timeout 19 0 0
+2023-03-13 12:47:08.258507|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-03-13 12:47:08.258507|INFO    |PktHandler    |1  |Dropping client 2080 because of resend timeout
+2023-03-13 14:57:57.295744|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) with values (value:1) was added by '管材班'(id:110) for client (id:110) and channel 'Apex啦'(id:10)
+2023-03-13 14:58:04.991074|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) was deleted by '管材班'(id:110) for client (id:110) and channel 'Apex啦'(id:10)
+2023-03-15 12:54:56.848488|INFO    |PktHandler    |1  |Dropping client 2108 because of ping timeout 19 0 0
+2023-03-15 14:19:03.372630|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-03-15 14:19:03.372630|INFO    |PktHandler    |1  |Dropping client 2109 because of resend timeout
+2023-03-15 14:53:09.521461|INFO    |PktHandler    |1  |Dropping client 2103 because of ping timeout 19 0 0
+2023-03-15 15:23:41.109312|INFO    |PktHandler    |1  |Dropping client 2107 because of ping timeout 19 0 0
+2023-03-17 15:59:38.656849|INFO    |PktHandler    |1  |Dropping client 2124 because of ping timeout 19 0 0
+2023-03-19 05:49:54.189352|INFO    |PktHandler    |1  |Dropping client 2141 because of ping timeout 19 0 0
+2023-03-19 07:44:09.435328|INFO    |PktHandler    |1  |Dropping client 2145 because of ping timeout 19 0 0
+2023-03-19 12:25:24.233191|INFO    |PktHandler    |1  |Dropping client 2152 because of ping timeout 19 0 0
+2023-03-20 12:36:40.060996|INFO    |PktHandler    |1  |Dropping client 2160 because of ping timeout 19 0 0
+2023-03-21 10:36:29.923983|INFO    |PktHandler    |1  |Dropping client 2170 because of ping timeout 19 0 0
+2023-03-24 12:57:45.008176|INFO    |PktHandler    |1  |Dropping client 2186 because of ping timeout 19 0 0
+2023-03-25 09:48:17.805234|INFO    |PktHandler    |1  |Dropping client 2192 because of ping timeout 19 0 0
+2023-03-26 14:41:46.208146|INFO    |PktHandler    |1  |Dropping client 2223 because of ping timeout 19 0 0
+2023-04-02 14:33:44.811430|INFO    |PktHandler    |1  |Dropping client 2287 because of ping timeout 19 0 0
+2023-04-04 13:52:02.454258|INFO    |PktHandler    |1  |Dropping client 2300 because of ping timeout 19 0 0
+2023-04-05 06:28:29.558045|INFO    |PktHandler    |1  |Dropping client 2309 because of ping timeout 19 0 0
+2023-04-06 10:35:53.519616|INFO    |PktHandler    |1  |Dropping client 2113 because of ping timeout 19 0 0
+2023-04-06 15:04:06.008573|INFO    |PktHandler    |1  |Dropping client 2331 because of ping timeout 19 0 0
+2023-04-06 20:31:52.223273|INFO    |PktHandler    |1  |Dropping client 2325 because of ping timeout 19 0 0
+2023-04-08 06:21:18.281367|INFO    |PktHandler    |1  |Dropping client 2345 because of ping timeout 19 0 0
+2023-04-08 06:26:21.384073|INFO    |PktHandler    |1  |Dropping client 2348 because of ping timeout 19 0 0
+2023-04-08 12:26:21.464939|INFO    |PktHandler    |1  |Dropping client 2351 because of ping timeout 19 0 0
+2023-04-09 08:13:22.437601|INFO    |PktHandler    |1  |Dropping client 2357 because of ping timeout 19 0 0
+2023-04-09 11:34:20.472821|INFO    |PktHandler    |1  |Dropping client 2359 because of ping timeout 19 0 0
+2023-04-09 12:15:04.746111|INFO    |PktHandler    |1  |Dropping client 2358 because of ping timeout 19 0 0
+2023-04-10 13:08:40.198794|INFO    |PktHandler    |1  |Dropping client 2367 because of ping timeout 19 0 0
+2023-04-10 14:39:29.224431|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-04-10 14:39:29.224431|INFO    |PktHandler    |1  |Dropping client 2372 because of resend timeout
+2023-04-10 15:19:06.273520|INFO    |PktHandler    |1  |Dropping client 2369 because of ping timeout 19 0 0
+2023-04-11 07:43:09.382937|INFO    |PktHandler    |1  |Dropping client 2376 because of ping timeout 19 0 0
+2023-04-11 13:45:51.865148|INFO    |PktHandler    |1  |Dropping client 2383 because of ping timeout 19 0 0
+2023-04-11 13:52:53.755289|INFO    |PktHandler    |1  |Dropping client 2387 because of ping timeout 19 0 0
+2023-04-11 14:37:35.538610|INFO    |PktHandler    |1  |Dropping client 2388 because of ping timeout 19 0 0
+2023-04-12 11:55:28.720115|INFO    |PktHandler    |1  |Dropping client 2390 because of ping timeout 19 0 0
+2023-04-12 11:56:50.273833|INFO    |PktHandler    |1  |Dropping client 2392 because of ping timeout 19 0 0
+2023-04-15 14:10:16.025609|INFO    |PktHandler    |1  |Cleaning up connection because of 1 resends of COMMAND packet
+2023-04-15 14:10:16.025609|INFO    |PktHandler    |1  |Dropping client 2420 because of resend timeout
+2023-04-15 14:11:28.975802|INFO    |PktHandler    |1  |Dropping client 2426 because of ping timeout 19 0 0
+2023-04-17 09:27:58.459987|INFO    |PktHandler    |1  |Dropping client 2451 because of ping timeout 19 0 0
+2023-04-17 09:32:31.564378|INFO    |PktHandler    |1  |Dropping client 2330 because of ping timeout 19 0 0
+2023-04-17 14:05:48.534211|INFO    |PktHandler    |1  |Dropping client 2452 because of ping timeout 19 0 0
+2023-04-18 14:18:43.192901|INFO    |PktHandler    |1  |Dropping client 2466 because of ping timeout 19 0 0
+2023-04-20 06:06:23.100872|INFO    |VirtualServer |1  |client 'Sherry'(id:182) was added to servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2023-04-21 14:37:33.510995|INFO    |PktHandler    |1  |Dropping client 2499 because of ping timeout 19 0 0
+2023-04-22 04:26:23.386979|INFO    |PktHandler    |1  |Dropping client 2502 because of ping timeout 19 0 0
+2023-04-23 14:11:32.953666|INFO    |PktHandler    |1  |Dropping client 2527 because of ping timeout 19 0 0
+2023-04-23 14:15:21.643179|INFO    |PktHandler    |1  |Dropping client 2520 because of ping timeout 19 0 0
+2023-04-23 14:53:06.283341|INFO    |PktHandler    |1  |Dropping client 2523 because of ping timeout 19 0 0
+2023-04-23 16:02:23.963127|INFO    |PktHandler    |1  |Dropping client 2531 because of ping timeout 19 0 0
+2023-04-24 11:32:47.215577|INFO    |PktHandler    |1  |Dropping client 2533 because of ping timeout 19 0 0
+2023-04-25 13:43:10.452948|INFO    |PktHandler    |1  |Dropping client 2554 because of ping timeout 19 0 0
+2023-04-26 13:51:26.392629|INFO    |PktHandler    |1  |Cleaning up connection because of 5 resends of COMMAND packet
+2023-04-26 13:51:26.392629|INFO    |PktHandler    |1  |Dropping client 2566 because of resend timeout
+2023-04-26 15:00:58.880911|INFO    |PktHandler    |1  |Dropping client 2567 because of ping timeout 19 0 0
+2023-04-27 09:42:42.589985|INFO    |PktHandler    |1  |Dropping client 2576 because of ping timeout 19 0 0
+2023-04-27 12:48:33.902372|INFO    |PktHandler    |1  |Dropping client 2581 because of ping timeout 19 0 0
+2023-04-27 13:51:49.100192|INFO    |PktHandler    |1  |Dropping client 2580 because of ping timeout 19 0 0
+2023-04-28 12:18:06.273044|INFO    |PktHandler    |1  |Dropping client 2591 because of ping timeout 19 0 0
+2023-04-30 06:02:28.856797|INFO    |PktHandler    |1  |Dropping client 2617 because of ping timeout 19 0 0
+2023-04-30 11:40:08.588568|INFO    |PktHandler    |1  |Dropping client 2619 because of ping timeout 19 0 0
+2023-05-03 08:30:49.745663|INFO    |PktHandler    |1  |Dropping client 2635 because of ping timeout 19 0 0
+2023-05-04 15:00:51.173317|INFO    |PktHandler    |1  |Dropping client 2658 because of ping timeout 19 0 0
+2023-05-04 15:01:03.214335|INFO    |PktHandler    |1  |Dropping client 2653 because of ping timeout 19 0 0
+2023-05-05 16:21:06.442904|INFO    |PktHandler    |1  |Dropping client 2662 because of ping timeout 19 0 0
+2023-05-06 12:45:47.398229|INFO    |PktHandler    |1  |Dropping client 2673 because of ping timeout 19 0 0
+2023-05-06 13:36:00.949519|INFO    |PktHandler    |1  |Dropping client 2674 because of ping timeout 19 0 0
+2023-05-07 03:31:12.289871|INFO    |PktHandler    |1  |Dropping client 2678 because of ping timeout 19 0 0
+2023-05-07 03:39:29.730461|INFO    |PktHandler    |1  |Dropping client 2679 because of ping timeout 19 0 0
+2023-05-07 05:09:17.155137|INFO    |PktHandler    |1  |Dropping client 2680 because of ping timeout 19 0 0
+2023-05-07 12:10:54.309059|INFO    |PktHandler    |1  |Dropping client 2692 because of ping timeout 19 0 0
+2023-05-08 14:31:45.082462|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-05-08 14:31:45.082462|INFO    |PktHandler    |1  |Dropping client 2708 because of resend timeout
+2023-05-08 14:52:34.465127|INFO    |PktHandler    |1  |Dropping client 2707 because of ping timeout 19 0 0
+2023-05-08 15:33:31.141301|INFO    |PktHandler    |1  |Dropping client 2709 because of ping timeout 19 0 0
+2023-05-09 12:17:58.096908|INFO    |PktHandler    |1  |Dropping client 2717 because of ping timeout 19 0 0
+2023-05-09 12:18:18.460201|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-05-09 12:18:18.460201|INFO    |PktHandler    |1  |Dropping client 2718 because of resend timeout
+2023-05-09 12:18:51.184822|INFO    |PktHandler    |1  |Dropping client 2719 because of ping timeout 19 0 0
+2023-05-09 14:51:02.218614|INFO    |PktHandler    |1  |Dropping client 2720 because of ping timeout 19 0 0
+2023-05-09 15:00:36.923868|INFO    |PktHandler    |1  |Dropping client 2712 because of ping timeout 19 0 0
+2023-05-11 15:42:49.926306|INFO    |PktHandler    |1  |Dropping client 2753 because of ping timeout 19 0 0
+2023-05-12 15:59:37.142319|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-05-12 15:59:37.142319|INFO    |PktHandler    |1  |Dropping client 2762 because of resend timeout
+2023-05-13 14:55:22.721781|INFO    |PktHandler    |1  |Dropping client 2776 because of ping timeout 19 0 0
+2023-05-14 15:41:48.523167|INFO    |PktHandler    |1  |Dropping client 2792 because of ping timeout 19 0 0
+2023-05-15 15:00:43.572074|INFO    |PktHandler    |1  |Dropping client 2799 because of ping timeout 19 0 0
+2023-05-16 10:54:54.670207|INFO    |PktHandler    |1  |Dropping client 2806 because of ping timeout 19 0 0
+2023-05-17 15:04:36.874543|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2023-05-17 15:04:36.874543|INFO    |PktHandler    |1  |Dropping client 2826 because of resend timeout
+2023-05-17 15:10:32.285754|INFO    |PktHandler    |1  |Dropping client 2833 because of ping timeout 19 0 0
+2023-05-17 15:11:36.180307|INFO    |PktHandler    |1  |Dropping client 2834 because of ping timeout 19 0 0
+2023-05-17 15:12:38.041651|INFO    |PktHandler    |1  |Dropping client 2835 because of ping timeout 19 0 0
+2023-05-17 15:13:58.505541|INFO    |PktHandler    |1  |Dropping client 2836 because of ping timeout 19 0 0
+2023-05-17 15:16:38.853244|INFO    |PktHandler    |1  |Dropping client 2837 because of ping timeout 19 0 0
+2023-05-17 15:18:49.123774|INFO    |PktHandler    |1  |Dropping client 2832 because of ping timeout 19 0 0
+2023-05-17 15:34:16.757796|INFO    |PktHandler    |1  |Dropping client 2838 because of ping timeout 19 0 0
+2023-05-19 09:31:16.815620|INFO    |PktHandler    |1  |Dropping client 2854 because of ping timeout 19 0 0
+2023-05-19 10:16:13.394319|INFO    |PktHandler    |1  |Dropping client 2857 because of ping timeout 19 0 0
+2023-05-19 15:32:45.028511|INFO    |PktHandler    |1  |Dropping client 2852 because of ping timeout 19 0 0
+2023-05-20 12:41:43.101292|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-05-20 12:41:43.101292|INFO    |PktHandler    |1  |Dropping client 2880 because of resend timeout
+2023-05-20 15:59:46.685579|INFO    |PktHandler    |1  |Dropping client 2874 because of ping timeout 19 0 0
+2023-05-21 16:03:25.037082|INFO    |PktHandler    |1  |Dropping client 2898 because of ping timeout 19 0 0
+2023-05-22 12:08:59.244441|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-05-22 12:08:59.244441|INFO    |PktHandler    |1  |Dropping client 2911 because of resend timeout
+2023-05-23 10:27:44.097454|INFO    |PktHandler    |1  |Dropping client 2925 because of ping timeout 19 0 0
+2023-05-23 11:40:19.853883|INFO    |PktHandler    |1  |Dropping client 2926 because of ping timeout 19 0 0
+2023-05-23 12:56:48.518571|INFO    |PktHandler    |1  |Dropping client 2931 because of ping timeout 19 0 0
+2023-05-23 13:09:24.286131|INFO    |PktHandler    |1  |Dropping client 2933 because of ping timeout 19 0 0
+2023-05-23 13:53:49.956935|INFO    |PktHandler    |1  |Dropping client 2934 because of ping timeout 19 0 0
+2023-05-23 14:40:54.665728|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-05-23 14:40:54.665728|INFO    |PktHandler    |1  |Dropping client 2935 because of resend timeout
+2023-05-24 12:00:06.213261|INFO    |PktHandler    |1  |Dropping client 2946 because of ping timeout 19 0 0
+2023-05-24 15:00:50.026301|INFO    |PktHandler    |1  |Dropping client 2952 because of ping timeout 19 0 0
+2023-05-25 14:34:10.948294|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-05-25 14:34:10.948294|INFO    |PktHandler    |1  |Dropping client 2960 because of resend timeout
+2023-05-25 14:49:54.060582|INFO    |PktHandler    |1  |Dropping client 2969 because of ping timeout 19 0 0
+2023-05-25 15:06:38.919347|INFO    |PktHandler    |1  |Dropping client 2972 because of ping timeout 19 0 0
+2023-05-25 15:37:20.058317|INFO    |PktHandler    |1  |Dropping client 2959 because of ping timeout 19 0 0
+2023-05-25 15:46:23.830680|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-05-25 15:46:23.830680|INFO    |PktHandler    |1  |Dropping client 2970 because of resend timeout
+2023-05-26 13:23:47.879702|INFO    |PktHandler    |1  |Dropping client 2974 because of ping timeout 19 0 0
+2023-05-26 16:06:32.821720|INFO    |PktHandler    |1  |Dropping client 2982 because of ping timeout 19 0 0
+2023-05-30 09:50:50.013576|INFO    |PktHandler    |1  |Dropping client 3039 because of ping timeout 19 0 0
+2023-05-30 09:53:22.175656|INFO    |PktHandler    |1  |Dropping client 3042 because of ping timeout 19 0 0
+2023-05-30 10:33:15.393334|INFO    |PktHandler    |1  |Dropping client 3043 because of ping timeout 19 0 0
+2023-05-30 12:27:09.052096|INFO    |PktHandler    |1  |Dropping client 3044 because of ping timeout 19 0 0
+2023-05-31 09:41:00.195071|INFO    |PktHandler    |1  |Dropping client 3060 because of ping timeout 19 0 0
+2023-05-31 15:00:55.516354|INFO    |PktHandler    |1  |Dropping client 3064 because of ping timeout 19 0 0
+2023-06-01 15:00:51.133300|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-06-01 15:00:51.133300|INFO    |PktHandler    |1  |Dropping client 3076 because of resend timeout
+2023-06-02 12:54:38.943333|INFO    |PktHandler    |1  |Dropping client 3094 because of ping timeout 19 0 0
+2023-06-02 12:55:22.172826|INFO    |PktHandler    |1  |Dropping client 3095 because of ping timeout 19 0 0
+2023-06-02 12:57:09.416009|INFO    |PktHandler    |1  |Dropping client 3096 because of ping timeout 19 0 0
+2023-06-02 15:59:32.806684|INFO    |PktHandler    |1  |Dropping client 3100 because of ping timeout 19 0 0
+2023-06-02 15:59:55.241262|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-06-02 15:59:55.241262|INFO    |PktHandler    |1  |Dropping client 3090 because of resend timeout
+2023-06-02 23:24:18.716789|INFO    |PktHandler    |1  |Dropping client 3103 because of ping timeout 19 0 0
+2023-06-03 02:26:46.449700|INFO    |PktHandler    |1  |Dropping client 3106 because of ping timeout 19 0 0
+2023-06-03 02:42:36.016289|INFO    |PktHandler    |1  |Dropping client 3107 because of ping timeout 19 0 0
+2023-06-03 03:39:48.776740|INFO    |PktHandler    |1  |Dropping client 3108 because of ping timeout 19 0 0
+2023-06-03 04:30:23.906120|INFO    |PktHandler    |1  |Dropping client 3110 because of ping timeout 19 0 0
+2023-06-03 05:05:26.955316|INFO    |PktHandler    |1  |Dropping client 3111 because of ping timeout 19 0 0
+2023-06-03 05:19:35.915415|INFO    |PktHandler    |1  |Dropping client 3112 because of ping timeout 19 0 0
+2023-06-03 05:23:48.146903|INFO    |PktHandler    |1  |Dropping client 3114 because of ping timeout 19 0 0
+2023-06-03 06:12:46.115337|INFO    |PktHandler    |1  |Dropping client 3113 because of ping timeout 19 0 0
+2023-06-03 09:20:35.554622|INFO    |PktHandler    |1  |Dropping client 3118 because of ping timeout 19 0 0
+2023-06-03 10:34:08.872249|INFO    |PktHandler    |1  |Dropping client 3120 because of ping timeout 19 0 0
+2023-06-03 11:12:03.213402|INFO    |PktHandler    |1  |Dropping client 3122 because of ping timeout 19 0 0
+2023-06-03 11:23:23.646146|INFO    |PktHandler    |1  |Dropping client 3125 because of ping timeout 19 0 0
+2023-06-03 11:34:04.454871|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2023-06-03 11:34:04.454871|INFO    |PktHandler    |1  |Dropping client 3126 because of resend timeout
+2023-06-03 11:42:24.095594|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2023-06-03 11:42:24.095594|INFO    |PktHandler    |1  |Dropping client 3127 because of resend timeout
+2023-06-03 12:38:55.990848|INFO    |PktHandler    |1  |Dropping client 3132 because of ping timeout 19 0 0
+2023-06-03 12:45:34.893268|INFO    |PktHandler    |1  |Dropping client 3135 because of ping timeout 19 0 0
+2023-06-03 13:27:00.433737|INFO    |PktHandler    |1  |Dropping client 3141 because of ping timeout 19 0 0
+2023-06-04 09:56:42.887058|INFO    |PktHandler    |1  |Dropping client 3148 because of ping timeout 19 0 0
+2023-06-04 21:38:17.450403|INFO    |PktHandler    |1  |Dropping client 3105 because of ping timeout 19 0 0
+2023-06-05 15:18:04.668236|INFO    |PktHandler    |1  |Dropping client 3168 because of ping timeout 19 0 0
+2023-06-06 12:20:39.061714|INFO    |PktHandler    |1  |Dropping client 3180 because of ping timeout 19 0 0
+2023-06-06 15:01:01.522013|INFO    |PktHandler    |1  |Dropping client 3185 because of ping timeout 19 0 0
+2023-06-07 08:10:57.024547|INFO    |PktHandler    |1  |Dropping client 3192 because of ping timeout 19 0 0
+2023-06-07 10:28:49.287393|INFO    |PktHandler    |1  |Dropping client 3196 because of ping timeout 19 0 0
+2023-06-07 16:45:08.430978|INFO    |PktHandler    |1  |Dropping client 3188 because of ping timeout 19 0 0
+2023-06-08 15:01:04.569499|INFO    |PktHandler    |1  |Dropping client 3221 because of ping timeout 19 0 0
+2023-06-09 13:08:47.774304|INFO    |PktHandler    |1  |Dropping client 3229 because of ping timeout 19 0 0
+2023-06-09 13:43:47.398725|INFO    |PktHandler    |1  |Dropping client 3233 because of ping timeout 19 0 0
+2023-06-10 13:48:43.559993|INFO    |PktHandler    |1  |Dropping client 3250 because of ping timeout 19 0 0
+2023-06-10 13:51:20.019913|INFO    |PktHandler    |1  |Dropping client 3251 because of ping timeout 19 0 0
+2023-06-10 13:51:29.666380|INFO    |PktHandler    |1  |Dropping client 3240 because of ping timeout 19 0 0
+2023-06-10 15:59:36.530347|INFO    |PktHandler    |1  |Dropping client 3242 because of ping timeout 19 0 0
+2023-06-11 05:17:43.155007|INFO    |PktHandler    |1  |Dropping client 3255 because of ping timeout 19 0 0
+2023-06-11 13:44:22.508309|INFO    |PktHandler    |1  |Dropping client 3266 because of ping timeout 19 0 0
+2023-06-11 14:08:39.086080|INFO    |PktHandler    |1  |Dropping client 3263 because of ping timeout 19 0 0
+2023-06-12 15:00:36.143663|INFO    |PktHandler    |1  |Dropping client 3283 because of ping timeout 19 0 0
+2023-06-12 15:11:24.923042|INFO    |PktHandler    |1  |Dropping client 3277 because of ping timeout 19 0 0
+2023-06-13 13:19:14.938307|INFO    |PktHandler    |1  |Dropping client 3295 because of ping timeout 19 0 0
+2023-06-14 11:27:39.353377|INFO    |PktHandler    |1  |Dropping client 3304 because of ping timeout 19 0 0
+2023-06-14 12:10:49.044817|INFO    |PktHandler    |1  |Dropping client 3306 because of ping timeout 19 0 0
+2023-06-14 15:00:40.155223|INFO    |PktHandler    |1  |Dropping client 3313 because of ping timeout 19 0 0
+2023-06-15 15:00:40.634402|INFO    |PktHandler    |1  |Dropping client 3324 because of ping timeout 19 0 0
+2023-06-16 08:43:36.725419|INFO    |PktHandler    |1  |Dropping client 3339 because of ping timeout 19 0 0
+2023-06-17 04:41:20.487171|INFO    |PktHandler    |1  |Dropping client 3356 because of ping timeout 19 0 0
+2023-06-17 06:41:24.235129|INFO    |PktHandler    |1  |Dropping client 3359 because of ping timeout 19 0 0
+2023-06-17 09:01:30.602784|INFO    |PktHandler    |1  |Dropping client 3363 because of ping timeout 19 0 0
+2023-06-17 09:09:58.571596|INFO    |PktHandler    |1  |Dropping client 3365 because of ping timeout 19 0 0
+2023-06-17 09:39:17.364744|INFO    |PktHandler    |1  |Dropping client 3360 because of ping timeout 19 0 0
+2023-06-17 10:19:04.453614|INFO    |PktHandler    |1  |Dropping client 3355 because of ping timeout 19 0 0
+2023-06-17 13:11:19.408226|INFO    |PktHandler    |1  |Dropping client 3369 because of ping timeout 19 0 0
+2023-06-18 01:12:58.162738|INFO    |PktHandler    |1  |Dropping client 3376 because of ping timeout 19 0 0
+2023-06-18 05:22:15.224783|INFO    |PktHandler    |1  |Dropping client 3385 because of ping timeout 19 0 0
+2023-06-18 05:35:59.625123|INFO    |PktHandler    |1  |Dropping client 3387 because of ping timeout 19 0 0
+2023-06-18 06:30:32.451443|INFO    |PktHandler    |1  |Dropping client 3386 because of ping timeout 19 0 0
+2023-06-18 15:00:43.375696|INFO    |PktHandler    |1  |Dropping client 3393 because of ping timeout 19 0 0
+2023-06-18 15:00:53.214570|INFO    |PktHandler    |1  |Dropping client 3394 because of ping timeout 19 0 0
+2023-06-19 09:54:09.078231|INFO    |PktHandler    |1  |Dropping client 3404 because of ping timeout 19 0 0
+2023-06-19 10:25:05.953741|INFO    |PktHandler    |1  |Dropping client 3406 because of ping timeout 19 0 0
+2023-06-19 10:26:29.956673|INFO    |PktHandler    |1  |Dropping client 3407 because of ping timeout 19 0 0
+2023-06-19 13:21:30.984912|INFO    |PktHandler    |1  |Dropping client 3410 because of ping timeout 19 0 0
+2023-06-19 15:00:43.587830|INFO    |PktHandler    |1  |Dropping client 3414 because of ping timeout 19 0 0
+2023-06-20 04:41:08.324737|INFO    |PktHandler    |1  |Dropping client 3421 because of ping timeout 19 0 0
+2023-06-20 15:00:45.775947|INFO    |PktHandler    |1  |Dropping client 3428 because of ping timeout 19 0 0
+2023-06-20 15:09:07.056342|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-06-20 15:09:07.056342|INFO    |PktHandler    |1  |Dropping client 3426 because of resend timeout
+2023-06-21 08:37:42.142415|INFO    |PktHandler    |1  |Dropping client 3440 because of ping timeout 19 0 0
+2023-06-21 11:45:44.107041|INFO    |PktHandler    |1  |Dropping client 3445 because of ping timeout 19 0 0
+2023-06-21 12:21:35.036405|INFO    |PktHandler    |1  |Dropping client 3447 because of ping timeout 19 0 0
+2023-06-21 15:59:45.742469|INFO    |PktHandler    |1  |Dropping client 3442 because of ping timeout 19 0 0
+2023-06-22 07:45:18.250845|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-06-22 07:45:18.250845|INFO    |PktHandler    |1  |Dropping client 3465 because of resend timeout
+2023-06-22 08:00:16.099123|INFO    |PktHandler    |1  |Dropping client 3467 because of ping timeout 19 0 0
+2023-06-22 08:38:24.684526|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-06-22 08:38:24.684526|INFO    |PktHandler    |1  |Dropping client 3468 because of resend timeout
+2023-06-22 11:26:43.980400|INFO    |PktHandler    |1  |Dropping client 3459 because of ping timeout 19 0 0
+2023-06-22 13:59:10.516347|INFO    |PktHandler    |1  |Dropping client 3474 because of ping timeout 19 0 0
+2023-06-22 14:10:07.146400|INFO    |PktHandler    |1  |Dropping client 3471 because of ping timeout 19 0 0
+2023-06-22 14:10:26.215824|INFO    |PktHandler    |1  |Dropping client 3484 because of ping timeout 19 0 0
+2023-06-22 16:06:20.754925|INFO    |PktHandler    |1  |Dropping client 3478 because of ping timeout 19 0 0
+2023-06-23 03:34:14.998882|INFO    |PktHandler    |1  |Dropping client 3491 because of ping timeout 19 0 0
+2023-06-23 04:03:32.077754|INFO    |PktHandler    |1  |Dropping client 3492 because of ping timeout 19 0 0
+2023-06-23 04:57:23.850237|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-06-23 04:57:23.850237|INFO    |PktHandler    |1  |Dropping client 3496 because of resend timeout
+2023-06-23 04:57:36.055298|INFO    |PktHandler    |1  |Dropping client 3497 because of ping timeout 19 0 0
+2023-06-23 06:07:14.182977|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-06-23 06:07:14.182977|INFO    |PktHandler    |1  |Dropping client 3495 because of resend timeout
+2023-06-23 08:03:18.614192|INFO    |PktHandler    |1  |Dropping client 3503 because of ping timeout 19 0 0
+2023-06-23 10:06:54.621370|INFO    |PktHandler    |1  |Dropping client 3500 because of ping timeout 19 0 0
+2023-06-23 13:21:29.557859|INFO    |PktHandler    |1  |Dropping client 3499 because of ping timeout 19 0 0
+2023-06-23 16:46:03.332504|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-06-23 16:46:03.332504|INFO    |PktHandler    |1  |Dropping client 3508 because of resend timeout
+2023-06-24 05:19:29.171586|INFO    |PktHandler    |1  |Dropping client 3530 because of ping timeout 19 0 0
+2023-06-24 12:47:03.253647|INFO    |PktHandler    |1  |Dropping client 3538 because of ping timeout 19 0 0
+2023-06-24 13:18:51.631993|INFO    |PktHandler    |1  |Dropping client 3549 because of ping timeout 19 0 0
+2023-06-24 13:25:14.430907|INFO    |PktHandler    |1  |Dropping client 3550 because of ping timeout 19 0 0
+2023-06-24 13:27:12.776624|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-06-24 13:27:12.776624|INFO    |PktHandler    |1  |Dropping client 3551 because of resend timeout
+2023-06-24 13:28:42.243461|INFO    |PktHandler    |1  |Dropping client 3547 because of ping timeout 19 0 0
+2023-06-24 13:47:38.272914|INFO    |PktHandler    |1  |Dropping client 3552 because of ping timeout 19 0 0
+2023-06-24 15:00:48.908105|INFO    |PktHandler    |1  |Dropping client 3554 because of ping timeout 19 0 0
+2023-06-25 11:51:28.709743|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-06-25 11:51:28.709743|INFO    |PktHandler    |1  |Dropping client 3560 because of resend timeout
+2023-06-26 11:09:47.841178|INFO    |PktHandler    |1  |Dropping client 3572 because of ping timeout 19 0 0
+2023-06-26 13:11:17.994197|INFO    |PktHandler    |1  |Dropping client 3575 because of ping timeout 19 0 0
+2023-06-27 11:12:07.496095|INFO    |PktHandler    |1  |Dropping client 3584 because of ping timeout 19 0 0
+2023-06-27 11:27:48.829362|INFO    |PktHandler    |1  |Dropping client 3585 because of ping timeout 19 0 0
+2023-06-27 15:00:51.801995|INFO    |PktHandler    |1  |Dropping client 3587 because of ping timeout 19 0 0
+2023-06-27 15:23:30.940691|INFO    |PktHandler    |1  |Dropping client 3590 because of ping timeout 19 0 0
+2023-06-28 12:23:43.644518|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-06-28 12:23:43.644518|INFO    |PktHandler    |1  |Dropping client 3602 because of resend timeout
+2023-06-28 14:12:23.268131|INFO    |PktHandler    |1  |Dropping client 3603 because of ping timeout 19 0 0
+2023-06-29 11:59:46.228811|INFO    |PktHandler    |1  |Dropping client 3616 because of ping timeout 19 0 0
+2023-06-29 14:50:59.879292|INFO    |PktHandler    |1  |Dropping client 3624 because of ping timeout 19 0 0
+2023-06-30 09:39:03.464155|INFO    |PktHandler    |1  |Dropping client 3635 because of ping timeout 19 0 0
+2023-06-30 14:33:20.719507|INFO    |PktHandler    |1  |Dropping client 3637 because of ping timeout 19 0 0
+2023-06-30 15:29:50.767265|INFO    |PktHandler    |1  |Dropping client 3641 because of ping timeout 19 0 0
+2023-06-30 15:59:43.390306|INFO    |PktHandler    |1  |Dropping client 3638 because of ping timeout 19 0 0
+2023-07-01 02:37:27.288935|INFO    |PktHandler    |1  |Dropping client 3644 because of ping timeout 19 0 0
+2023-07-01 04:18:42.941994|INFO    |PktHandler    |1  |Dropping client 3652 because of ping timeout 19 0 0
+2023-07-01 05:00:25.806394|INFO    |PktHandler    |1  |Dropping client 3650 because of ping timeout 19 0 0
+2023-07-01 05:22:47.426592|INFO    |PktHandler    |1  |Dropping client 3655 because of ping timeout 19 0 0
+2023-07-01 06:01:06.368189|INFO    |PktHandler    |1  |Dropping client 3658 because of ping timeout 19 0 0
+2023-07-01 06:11:04.960012|INFO    |PktHandler    |1  |Dropping client 3659 because of ping timeout 19 0 0
+2023-07-01 09:28:08.203671|INFO    |PktHandler    |1  |Dropping client 3662 because of ping timeout 19 0 0
+2023-07-01 14:53:02.825326|INFO    |PktHandler    |1  |Dropping client 3677 because of ping timeout 19 0 0
+2023-07-02 10:27:14.293893|INFO    |PktHandler    |1  |Dropping client 3694 because of ping timeout 19 0 0
+2023-07-02 11:33:54.853610|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-07-02 11:33:54.853610|INFO    |PktHandler    |1  |Dropping client 3697 because of resend timeout
+2023-07-02 11:58:03.765750|INFO    |PktHandler    |1  |Dropping client 3690 because of ping timeout 19 0 0
+2023-07-02 11:59:00.002081|INFO    |PktHandler    |1  |Dropping client 3705 because of ping timeout 19 0 0
+2023-07-02 11:59:25.060702|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-02 11:59:25.060702|INFO    |PktHandler    |1  |Dropping client 3706 because of resend timeout
+2023-07-02 13:08:40.789320|INFO    |PktHandler    |1  |Dropping client 3707 because of ping timeout 19 0 0
+2023-07-03 06:48:12.009858|INFO    |PktHandler    |1  |Dropping client 3712 because of ping timeout 19 0 0
+2023-07-03 08:36:44.426194|INFO    |PktHandler    |1  |Dropping client 3715 because of ping timeout 19 0 0
+2023-07-03 09:11:12.705550|INFO    |PktHandler    |1  |Dropping client 3714 because of ping timeout 19 0 0
+2023-07-03 13:07:04.133158|INFO    |PktHandler    |1  |Dropping client 3725 because of ping timeout 19 0 0
+2023-07-03 13:25:01.921209|INFO    |PktHandler    |1  |Dropping client 3723 because of ping timeout 19 0 0
+2023-07-03 15:00:57.261641|INFO    |PktHandler    |1  |Dropping client 3722 because of ping timeout 19 0 0
+2023-07-04 05:28:02.557012|INFO    |PktHandler    |1  |Dropping client 3733 because of ping timeout 19 0 0
+2023-07-05 03:30:10.767467|INFO    |PktHandler    |1  |Dropping client 3752 because of ping timeout 19 0 0
+2023-07-05 03:59:35.508782|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2023-07-05 03:59:35.508782|INFO    |PktHandler    |1  |Dropping client 3753 because of resend timeout
+2023-07-05 04:14:06.631866|INFO    |PktHandler    |1  |Dropping client 3754 because of ping timeout 19 0 0
+2023-07-05 04:16:49.017636|INFO    |PktHandler    |1  |Dropping client 3755 because of ping timeout 19 0 0
+2023-07-05 05:29:32.764016|INFO    |PktHandler    |1  |Dropping client 3756 because of ping timeout 19 0 0
+2023-07-05 09:59:54.580016|INFO    |PktHandler    |1  |Dropping client 3757 because of ping timeout 19 0 0
+2023-07-05 10:03:32.212837|INFO    |PktHandler    |1  |Dropping client 3759 because of ping timeout 19 0 0
+2023-07-05 10:22:55.287083|INFO    |PktHandler    |1  |Dropping client 3760 because of ping timeout 19 0 0
+2023-07-05 10:48:02.787181|INFO    |PktHandler    |1  |Dropping client 3762 because of ping timeout 19 0 0
+2023-07-05 11:10:36.855615|INFO    |PktHandler    |1  |Dropping client 3764 because of ping timeout 19 0 0
+2023-07-06 00:39:12.192234|INFO    |PktHandler    |1  |Dropping client 3765 because of ping timeout 19 0 0
+2023-07-06 08:51:02.750392|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-07-06 08:51:02.750392|INFO    |PktHandler    |1  |Dropping client 3768 because of resend timeout
+2023-07-06 10:47:39.197857|INFO    |PktHandler    |1  |Dropping client 3769 because of ping timeout 19 0 0
+2023-07-06 13:10:19.772221|INFO    |PktHandler    |1  |Dropping client 3779 because of ping timeout 19 0 0
+2023-07-06 20:31:15.571178|INFO    |PktHandler    |1  |Dropping client 3773 because of ping timeout 19 0 0
+2023-07-07 00:55:18.940380|INFO    |PktHandler    |1  |Dropping client 3790 because of ping timeout 19 0 0
+2023-07-07 11:37:16.308763|INFO    |PktHandler    |1  |Dropping client 3795 because of ping timeout 19 0 0
+2023-07-08 19:35:09.887153|INFO    |PktHandler    |1  |Dropping client 3828 because of ping timeout 19 0 0
+2023-07-09 12:07:39.228037|INFO    |PktHandler    |1  |Dropping client 3845 because of ping timeout 19 0 0
+2023-07-09 13:08:59.970128|INFO    |PktHandler    |1  |Dropping client 3847 because of ping timeout 19 0 0
+2023-07-11 17:01:08.783953|INFO    |PktHandler    |1  |Dropping client 3876 because of ping timeout 19 0 0
+2023-07-12 13:40:42.463076|INFO    |PktHandler    |1  |Dropping client 3892 because of ping timeout 19 0 0
+2023-07-12 13:54:50.272548|INFO    |PktHandler    |1  |Dropping client 3895 because of ping timeout 19 0 0
+2023-07-12 15:00:54.829656|INFO    |PktHandler    |1  |Dropping client 3896 because of ping timeout 19 0 0
+2023-07-12 15:01:33.676310|INFO    |PktHandler    |1  |Dropping client 3894 because of ping timeout 19 0 0
+2023-07-13 01:58:58.590557|INFO    |PktHandler    |1  |Dropping client 3859 because of ping timeout 19 0 0
+2023-07-13 10:47:44.389727|INFO    |PktHandler    |1  |Dropping client 3908 because of ping timeout 19 0 0
+2023-07-13 10:57:11.084008|INFO    |PktHandler    |1  |Dropping client 3910 because of ping timeout 19 0 0
+2023-07-13 12:49:00.982643|INFO    |PktHandler    |1  |Dropping client 3915 because of ping timeout 19 0 0
+2023-07-14 14:52:52.083325|INFO    |PktHandler    |1  |Cleaning up connection because of 7 resends of COMMAND packet
+2023-07-14 14:52:52.083325|INFO    |PktHandler    |1  |Dropping client 3933 because of resend timeout
+2023-07-14 15:07:41.391789|INFO    |PktHandler    |1  |Dropping client 3934 because of ping timeout 19 0 0
+2023-07-15 03:55:40.313772|INFO    |PktHandler    |1  |Dropping client 3944 because of ping timeout 19 0 0
+2023-07-15 04:25:44.045134|INFO    |PktHandler    |1  |Dropping client 3945 because of ping timeout 19 0 0
+2023-07-15 06:26:04.873053|INFO    |PktHandler    |1  |Dropping client 3947 because of ping timeout 19 0 0
+2023-07-15 08:26:22.504532|INFO    |PktHandler    |1  |Dropping client 3948 because of ping timeout 19 0 0
+2023-07-15 08:56:27.072782|INFO    |PktHandler    |1  |Dropping client 3949 because of ping timeout 19 0 0
+2023-07-16 20:01:41.151023|INFO    |PktHandler    |1  |Dropping client 3972 because of ping timeout 19 0 0
+2023-07-17 12:50:34.949583|INFO    |PktHandler    |1  |Dropping client 3978 because of ping timeout 19 0 0
+2023-07-18 09:04:46.780428|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-18 09:04:46.780428|INFO    |PktHandler    |1  |Dropping client 3990 because of resend timeout
+2023-07-19 09:04:35.909032|INFO    |PktHandler    |1  |Dropping client 4009 because of ping timeout 19 0 0
+2023-07-19 09:07:56.331011|INFO    |PktHandler    |1  |Dropping client 4014 because of ping timeout 19 0 0
+2023-07-19 09:13:06.248137|INFO    |PktHandler    |1  |Dropping client 4015 because of ping timeout 19 0 0
+2023-07-19 09:14:57.891724|INFO    |PktHandler    |1  |Dropping client 4016 because of ping timeout 19 0 0
+2023-07-19 09:16:58.304858|INFO    |PktHandler    |1  |Dropping client 4017 because of ping timeout 19 0 0
+2023-07-19 09:21:09.485616|INFO    |PktHandler    |1  |Dropping client 4018 because of ping timeout 19 0 0
+2023-07-19 09:23:35.111639|INFO    |PktHandler    |1  |Dropping client 4019 because of ping timeout 19 0 0
+2023-07-19 09:28:51.460379|INFO    |PktHandler    |1  |Dropping client 4021 because of ping timeout 19 0 0
+2023-07-19 09:30:07.505331|INFO    |PktHandler    |1  |Dropping client 4022 because of ping timeout 19 0 0
+2023-07-19 09:31:47.109859|INFO    |PktHandler    |1  |Dropping client 4023 because of ping timeout 19 0 0
+2023-07-19 09:32:50.055201|INFO    |PktHandler    |1  |Dropping client 4024 because of ping timeout 19 0 0
+2023-07-19 09:36:53.075784|INFO    |PktHandler    |1  |Dropping client 4025 because of ping timeout 19 0 0
+2023-07-19 09:39:07.153966|INFO    |PktHandler    |1  |Dropping client 4026 because of ping timeout 19 0 0
+2023-07-19 09:42:23.623756|INFO    |PktHandler    |1  |Dropping client 4027 because of ping timeout 19 0 0
+2023-07-19 09:43:06.854244|INFO    |PktHandler    |1  |Dropping client 4028 because of ping timeout 19 0 0
+2023-07-19 09:43:50.948001|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-19 09:43:50.948001|INFO    |PktHandler    |1  |Dropping client 4029 because of resend timeout
+2023-07-19 09:45:06.931431|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-19 09:45:06.931431|INFO    |PktHandler    |1  |Dropping client 4030 because of resend timeout
+2023-07-19 09:47:49.223470|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-19 09:47:49.223470|INFO    |PktHandler    |1  |Dropping client 4031 because of resend timeout
+2023-07-19 09:50:35.829983|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-19 09:50:35.829983|INFO    |PktHandler    |1  |Dropping client 4032 because of resend timeout
+2023-07-19 09:56:52.347678|INFO    |PktHandler    |1  |Dropping client 4033 because of ping timeout 19 0 0
+2023-07-19 09:57:59.676812|INFO    |PktHandler    |1  |Dropping client 4034 because of ping timeout 19 0 0
+2023-07-19 09:59:56.770595|INFO    |PktHandler    |1  |Dropping client 4036 because of ping timeout 19 0 0
+2023-07-19 10:01:12.857523|INFO    |PktHandler    |1  |Dropping client 4037 because of ping timeout 19 0 0
+2023-07-19 10:05:04.882006|INFO    |PktHandler    |1  |Dropping client 4038 because of ping timeout 19 0 0
+2023-07-19 10:16:32.451560|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-19 10:16:32.451560|INFO    |PktHandler    |1  |Dropping client 4039 because of resend timeout
+2023-07-19 10:29:26.948867|INFO    |PktHandler    |1  |Dropping client 4042 because of ping timeout 19 0 0
+2023-07-19 10:30:04.690076|INFO    |PktHandler    |1  |Dropping client 4043 because of ping timeout 19 0 0
+2023-07-19 10:30:39.359028|INFO    |PktHandler    |1  |Dropping client 4044 because of ping timeout 19 0 0
+2023-07-19 10:46:30.345761|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-19 10:46:30.345761|INFO    |PktHandler    |1  |Dropping client 4046 because of resend timeout
+2023-07-19 10:50:44.934698|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-19 10:50:44.934698|INFO    |PktHandler    |1  |Dropping client 4047 because of resend timeout
+2023-07-19 10:53:01.958166|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-19 10:53:01.958166|INFO    |PktHandler    |1  |Dropping client 4048 because of resend timeout
+2023-07-19 11:11:39.126418|INFO    |PktHandler    |1  |Dropping client 4045 because of ping timeout 19 0 0
+2023-07-19 11:26:47.584617|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-07-19 11:26:47.584617|INFO    |PktHandler    |1  |Dropping client 4051 because of resend timeout
+2023-07-20 12:51:33.883792|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-07-20 12:51:33.883792|INFO    |PktHandler    |1  |Dropping client 4072 because of resend timeout
+2023-07-20 13:40:44.914314|INFO    |PktHandler    |1  |Dropping client 4080 because of ping timeout 19 0 0
+2023-07-20 16:08:55.977002|INFO    |PktHandler    |1  |Dropping client 4071 because of ping timeout 19 0 0
+2023-07-20 16:18:01.099141|INFO    |PktHandler    |1  |Dropping client 4088 because of ping timeout 19 0 0
+2023-07-20 16:25:14.495693|INFO    |PktHandler    |1  |Dropping client 4089 because of ping timeout 19 0 0
+2023-07-21 09:46:39.376641|INFO    |PktHandler    |1  |Dropping client 4093 because of ping timeout 19 0 0
+2023-07-21 15:46:02.291342|INFO    |PktHandler    |1  |Dropping client 4103 because of ping timeout 19 0 0
+2023-07-22 14:55:16.520016|INFO    |PktHandler    |1  |Dropping client 4119 because of ping timeout 19 0 0
+2023-07-23 10:22:26.978917|INFO    |PktHandler    |1  |Dropping client 4130 because of ping timeout 19 0 0
+2023-07-27 13:14:35.743406|INFO    |PktHandler    |1  |Dropping client 4192 because of ping timeout 19 0 0
+2023-07-27 14:35:56.668017|INFO    |PktHandler    |1  |Dropping client 4198 because of ping timeout 19 0 0
+2023-07-27 15:01:05.931082|INFO    |PktHandler    |1  |Dropping client 4188 because of ping timeout 19 0 0
+2023-07-27 15:01:05.931082|INFO    |PktHandler    |1  |Dropping client 4200 because of ping timeout 19 0 0
+2023-07-29 02:37:58.169904|INFO    |PktHandler    |1  |Dropping client 4227 because of ping timeout 19 0 0
+2023-07-29 08:50:52.684780|INFO    |PktHandler    |1  |Dropping client 4240 because of ping timeout 19 0 0
+2023-07-29 09:55:25.267810|INFO    |PktHandler    |1  |Dropping client 4232 because of ping timeout 19 0 0
+2023-07-31 13:24:52.985836|INFO    |PktHandler    |1  |Dropping client 4290 because of ping timeout 19 0 0
+2023-07-31 14:06:22.403478|INFO    |PktHandler    |1  |Dropping client 4292 because of ping timeout 19 0 0
+2023-08-01 11:41:44.007922|INFO    |PktHandler    |1  |Dropping client 4294 because of ping timeout 19 0 0
+2023-08-01 12:32:51.656045|INFO    |PktHandler    |1  |Dropping client 4299 because of ping timeout 19 0 0
+2023-08-01 13:18:42.199616|INFO    |PktHandler    |1  |Dropping client 4295 because of ping timeout 19 0 0
+2023-08-01 13:47:21.226374|INFO    |PktHandler    |1  |Dropping client 4308 because of ping timeout 19 0 0
+2023-08-02 12:59:54.040877|INFO    |PktHandler    |1  |Dropping client 4322 because of ping timeout 19 0 0
+2023-08-03 10:29:16.152716|INFO    |PktHandler    |1  |Dropping client 4329 because of ping timeout 19 0 0
+2023-08-04 16:18:10.108658|INFO    |PktHandler    |1  |Dropping client 4348 because of ping timeout 19 0 0
+2023-08-05 13:09:25.567706|INFO    |PktHandler    |1  |Dropping client 4368 because of ping timeout 19 0 0
+2023-08-05 13:16:11.839249|INFO    |VirtualServer |1  |client 'Sherry'(id:210) was added to servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2023-08-05 13:20:02.082455|INFO    |PktHandler    |1  |Dropping client 4371 because of ping timeout 19 0 0
+2023-08-05 14:23:18.811557|INFO    |PktHandler    |1  |Dropping client 4370 because of ping timeout 19 0 0
+2023-08-06 04:56:25.635803|INFO    |PktHandler    |1  |Dropping client 4381 because of ping timeout 19 0 0
+2023-08-06 14:29:35.164878|INFO    |PktHandler    |1  |Dropping client 4389 because of ping timeout 19 0 0
+2023-08-06 14:36:42.342643|INFO    |PktHandler    |1  |Dropping client 4391 because of ping timeout 19 0 0
+2023-08-07 13:22:09.437179|INFO    |PktHandler    |1  |Dropping client 4408 because of ping timeout 19 0 0
+2023-08-08 10:26:42.576323|INFO    |PktHandler    |1  |Dropping client 4415 because of ping timeout 19 0 0
+2023-08-09 11:11:47.838510|INFO    |PktHandler    |1  |Dropping client 4429 because of ping timeout 19 0 0
+2023-08-09 13:24:34.807226|INFO    |PktHandler    |1  |Dropping client 4439 because of ping timeout 19 0 0
+2023-08-10 12:31:51.532976|INFO    |PktHandler    |1  |Dropping client 4460 because of ping timeout 19 0 0
+2023-08-11 05:30:14.380434|INFO    |PktHandler    |1  |Dropping client 4459 because of ping timeout 19 0 0
+2023-08-11 10:15:44.350388|INFO    |PktHandler    |1  |Dropping client 4475 because of ping timeout 19 0 0
+2023-08-11 10:17:55.177564|INFO    |PktHandler    |1  |Dropping client 4477 because of ping timeout 19 0 0
+2023-08-11 11:58:09.432954|INFO    |PktHandler    |1  |Dropping client 4470 because of ping timeout 19 0 0
+2023-08-11 13:07:33.093411|INFO    |PktHandler    |1  |Dropping client 4472 because of ping timeout 19 0 0
+2023-08-12 02:58:17.118371|INFO    |PktHandler    |1  |Dropping client 4494 because of ping timeout 19 0 0
+2023-08-12 05:03:15.035281|INFO    |PktHandler    |1  |Dropping client 4499 because of ping timeout 19 0 0
+2023-08-12 05:39:58.104871|INFO    |PktHandler    |1  |Dropping client 4501 because of ping timeout 19 0 0
+2023-08-12 05:43:54.576580|INFO    |VirtualServer |1  |client 'plrs、huawei'(id:200) was added to servergroup 'Guest (Copy)'(id:12) by client 'plrs、huawei'(id:200)
+2023-08-12 12:21:53.776354|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-08-12 12:21:53.776354|INFO    |PktHandler    |1  |Dropping client 4514 because of resend timeout
+2023-08-12 13:17:11.083335|INFO    |PktHandler    |1  |Cleaning up connection because of 3 resends of COMMAND packet
+2023-08-12 13:17:11.083335|INFO    |PktHandler    |1  |Dropping client 4517 because of resend timeout
+2023-08-13 01:27:37.095172|INFO    |PktHandler    |1  |Dropping client 4521 because of ping timeout 19 0 0
+2023-08-13 15:25:37.913503|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-08-13 15:25:37.913503|INFO    |PktHandler    |1  |Dropping client 4542 because of resend timeout
+2023-08-13 15:25:38.684015|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-08-13 15:25:38.684015|INFO    |PktHandler    |1  |Dropping client 4544 because of resend timeout
+2023-08-14 13:17:56.419580|INFO    |PktHandler    |1  |Dropping client 4560 because of ping timeout 19 0 0
+2023-08-15 15:04:08.692188|INFO    |PktHandler    |1  |Dropping client 4584 because of ping timeout 19 0 0
+2023-08-18 13:18:10.114145|INFO    |PktHandler    |1  |Dropping client 4645 because of ping timeout 19 0 0
+2023-08-18 13:56:39.101360|INFO    |PktHandler    |1  |Dropping client 4651 because of ping timeout 19 0 0
+2023-08-19 10:07:27.444461|INFO    |PktHandler    |1  |Dropping client 4666 because of ping timeout 19 0 0
+2023-08-21 12:38:17.217791|INFO    |PktHandler    |1  |Dropping client 4709 because of ping timeout 19 0 0
+2023-08-21 14:32:33.335741|INFO    |PktHandler    |1  |Dropping client 4711 because of ping timeout 19 0 0
+2023-08-22 05:26:03.946721|INFO    |PktHandler    |1  |Dropping client 4717 because of ping timeout 19 0 0
+2023-08-24 13:41:50.185402|INFO    |PktHandler    |1  |Dropping client 4744 because of ping timeout 19 0 0
+2023-08-25 06:23:43.480532|INFO    |PktHandler    |1  |Dropping client 4755 because of ping timeout 19 0 0
+2023-08-25 10:35:27.993459|INFO    |PktHandler    |1  |Dropping client 4759 because of ping timeout 19 0 0
+2023-08-25 10:37:44.303023|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-08-25 10:37:44.303023|INFO    |PktHandler    |1  |Dropping client 4760 because of resend timeout
+2023-08-25 12:34:25.012783|INFO    |PktHandler    |1  |Dropping client 4766 because of ping timeout 19 0 0
+2023-08-26 12:31:32.382249|INFO    |PktHandler    |1  |Dropping client 4775 because of ping timeout 19 0 0
+2023-08-26 12:49:57.938897|INFO    |PktHandler    |1  |Dropping client 4776 because of ping timeout 19 0 0
+2023-08-26 12:51:21.449640|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-08-26 12:51:21.449640|INFO    |PktHandler    |1  |Dropping client 4777 because of resend timeout
+2023-08-27 12:25:07.026338|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2023-08-27 12:25:07.026338|INFO    |PktHandler    |1  |Dropping client 4789 because of resend timeout
+2023-09-01 11:49:34.948642|INFO    |PktHandler    |1  |Dropping client 4844 because of ping timeout 19 0 0
+2023-09-03 12:11:31.835249|INFO    |PktHandler    |1  |Dropping client 4877 because of ping timeout 19 0 0
+2023-09-03 12:24:36.559956|INFO    |PktHandler    |1  |Dropping client 4878 because of ping timeout 19 0 0
+2023-09-03 13:00:44.220550|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-09-03 13:00:44.220550|INFO    |PktHandler    |1  |Dropping client 4879 because of resend timeout
+2023-09-03 13:13:53.292919|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2023-09-03 13:13:53.292919|INFO    |PktHandler    |1  |Dropping client 4884 because of resend timeout
+2023-09-04 15:00:47.224028|INFO    |PktHandler    |1  |Dropping client 4902 because of ping timeout 19 0 0
+2023-09-05 09:43:50.785941|INFO    |PktHandler    |1  |Dropping client 4905 because of ping timeout 19 0 0
+2023-09-05 09:44:26.365051|INFO    |PktHandler    |1  |Dropping client 4907 because of ping timeout 19 0 0
+2023-09-05 09:45:12.864098|INFO    |PktHandler    |1  |Dropping client 4906 because of ping timeout 19 0 0
+2023-09-05 21:41:38.784904|INFO    |PktHandler    |1  |Dropping client 4918 because of ping timeout 19 0 0
+2023-09-06 16:39:29.895189|INFO    |PktHandler    |1  |Dropping client 4942 because of ping timeout 19 0 0
+2023-09-07 12:22:42.900548|INFO    |PktHandler    |1  |Dropping client 4948 because of ping timeout 19 0 0
+2023-09-07 14:14:33.853669|INFO    |PktHandler    |1  |Dropping client 4958 because of ping timeout 19 0 0
+2023-09-07 14:15:08.692575|INFO    |PktHandler    |1  |Dropping client 4959 because of ping timeout 19 0 0
+2023-09-08 12:35:12.564328|INFO    |PktHandler    |1  |Dropping client 4969 because of ping timeout 19 0 0
+2023-09-08 13:23:45.461345|INFO    |VirtualServer |1  |client 'XueZi'(id:213) was added to servergroup 'Guest (Copy)'(id:12) by client 'XueZi'(id:213)
+2023-09-08 15:27:00.676396|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-09-08 15:27:00.676396|INFO    |PktHandler    |1  |Dropping client 4989 because of resend timeout
+2023-09-08 15:59:49.521551|INFO    |PktHandler    |1  |Dropping client 4968 because of ping timeout 19 0 0
+2023-09-09 13:13:11.610716|INFO    |PktHandler    |1  |Dropping client 5018 because of ping timeout 19 0 0
+2023-09-09 13:16:13.839259|INFO    |PktHandler    |1  |Dropping client 5023 because of ping timeout 19 0 0
+2023-09-10 03:19:24.047404|INFO    |PktHandler    |1  |Dropping client 5034 because of ping timeout 19 0 0
+2023-09-10 03:28:45.397102|INFO    |PktHandler    |1  |Dropping client 5032 because of ping timeout 19 0 0
+2023-09-10 09:11:30.202159|INFO    |PktHandler    |1  |Dropping client 5043 because of ping timeout 19 0 0
+2023-09-10 09:16:51.287179|INFO    |PktHandler    |1  |Dropping client 5044 because of ping timeout 19 0 0
+2023-09-10 09:36:50.988462|INFO    |PktHandler    |1  |Dropping client 5045 because of ping timeout 19 0 0
+2023-09-10 14:30:31.685409|INFO    |PktHandler    |1  |Dropping client 5051 because of ping timeout 19 0 0
+2023-09-11 14:58:36.511967|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-09-11 14:58:36.511967|INFO    |PktHandler    |1  |Dropping client 5064 because of resend timeout
+2023-09-12 11:45:03.294304|INFO    |PktHandler    |1  |Dropping client 5068 because of ping timeout 19 0 0
+2023-09-13 10:59:00.934046|INFO    |PktHandler    |1  |Dropping client 5081 because of ping timeout 19 0 0
+2023-09-14 10:59:58.962821|INFO    |PktHandler    |1  |Dropping client 5100 because of ping timeout 19 0 0
+2023-09-14 11:21:35.186725|INFO    |PktHandler    |1  |Dropping client 5103 because of ping timeout 19 0 0
+2023-09-14 11:24:05.144751|INFO    |PktHandler    |1  |Cleaning up connection because of 4 resends of COMMAND packet
+2023-09-14 11:24:05.144751|INFO    |PktHandler    |1  |Dropping client 5104 because of resend timeout
+2023-09-14 11:27:55.592074|INFO    |PktHandler    |1  |Dropping client 5105 because of ping timeout 19 0 0
+2023-09-14 12:05:06.235161|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-09-14 12:05:06.235161|INFO    |PktHandler    |1  |Dropping client 5108 because of resend timeout
+2023-09-14 12:05:38.766409|INFO    |PktHandler    |1  |Dropping client 5107 because of ping timeout 19 0 0
+2023-09-15 06:58:22.693217|INFO    |VirtualServer |1  |client '管材班'(id:110) was added to servergroup '1'(id:9) by client '管材班'(id:110)
+2023-09-15 08:19:32.372080|INFO    |PktHandler    |1  |Dropping client 5118 because of ping timeout 19 0 0
+2023-09-16 15:05:38.365659|INFO    |PktHandler    |1  |Dropping client 5147 because of ping timeout 19 0 0
+2023-09-16 15:07:37.243623|INFO    |PktHandler    |1  |Dropping client 5148 because of ping timeout 19 0 0
+2023-09-18 09:12:43.862225|INFO    |PktHandler    |1  |Dropping client 5170 because of ping timeout 19 0 0
+2023-09-18 09:14:43.160100|INFO    |PktHandler    |1  |Dropping client 5171 because of ping timeout 19 0 0
+2023-09-18 09:18:39.185511|INFO    |PktHandler    |1  |Dropping client 5172 because of ping timeout 19 0 0
+2023-09-18 09:21:04.663083|INFO    |PktHandler    |1  |Dropping client 5173 because of ping timeout 19 0 0
+2023-09-20 20:54:10.412318|INFO    |PktHandler    |1  |Dropping client 5208 because of ping timeout 19 0 0
+2023-09-22 12:00:12.433834|INFO    |PktHandler    |1  |Dropping client 5221 because of ping timeout 19 0 0
+2023-09-25 12:56:02.697281|INFO    |PktHandler    |1  |Dropping client 5277 because of ping timeout 19 0 0
+2023-09-25 13:58:54.267995|INFO    |PktHandler    |1  |Dropping client 5281 because of ping timeout 19 0 0
+2023-09-25 15:00:34.135603|INFO    |PktHandler    |1  |Dropping client 5284 because of ping timeout 19 0 0
+2023-09-25 15:01:55.173716|INFO    |PktHandler    |1  |Dropping client 5257 because of ping timeout 19 0 0
+2023-09-26 12:03:11.297281|INFO    |PktHandler    |1  |Dropping client 5293 because of ping timeout 19 0 0
+2023-09-27 14:28:11.092736|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-09-27 14:28:11.092736|INFO    |PktHandler    |1  |Dropping client 5326 because of resend timeout
+2023-09-28 04:58:12.706985|INFO    |PktHandler    |1  |Dropping client 5332 because of ping timeout 19 0 0
+2023-09-29 08:13:07.478004|INFO    |PktHandler    |1  |Dropping client 5358 because of ping timeout 19 0 0
+2023-09-29 12:10:05.322540|INFO    |PktHandler    |1  |Dropping client 5360 because of ping timeout 19 0 0
+2023-09-30 07:10:34.488497|INFO    |PktHandler    |1  |Dropping client 5372 because of ping timeout 19 0 0
+2023-09-30 14:37:50.236486|INFO    |PktHandler    |1  |Dropping client 5380 because of ping timeout 19 0 0
+2023-09-30 15:34:30.259057|INFO    |PktHandler    |1  |Dropping client 5385 because of ping timeout 19 0 0
+2023-09-30 15:36:14.246377|INFO    |PktHandler    |1  |Dropping client 5387 because of ping timeout 19 0 0
+2023-10-04 09:56:26.488676|INFO    |PktHandler    |1  |Dropping client 5431 because of ping timeout 19 0 0
+2023-10-04 10:05:40.831529|INFO    |PktHandler    |1  |Dropping client 5433 because of ping timeout 19 0 0
+2023-10-04 11:18:37.834197|INFO    |PktHandler    |1  |Dropping client 5435 because of ping timeout 19 0 0
+2023-10-05 10:55:05.967099|INFO    |PktHandler    |1  |Dropping client 5453 because of ping timeout 19 0 0
+2023-10-05 14:15:25.152888|INFO    |PktHandler    |1  |Dropping client 5457 because of ping timeout 19 0 0
+2023-10-05 14:30:20.620796|INFO    |PktHandler    |1  |Dropping client 5454 because of ping timeout 19 0 0
+2023-10-06 12:38:10.025648|INFO    |PktHandler    |1  |Dropping client 5478 because of ping timeout 19 0 0
+2023-10-06 12:43:18.754214|INFO    |PktHandler    |1  |Dropping client 5482 because of ping timeout 19 0 0
+2023-10-06 14:50:46.564532|INFO    |PktHandler    |1  |Dropping client 5486 because of ping timeout 19 0 0
+2023-10-08 05:18:41.244009|INFO    |PktHandler    |1  |Dropping client 5497 because of ping timeout 19 0 0
+2023-10-08 13:02:09.137861|INFO    |PktHandler    |1  |Dropping client 5512 because of ping timeout 19 0 0
+2023-10-08 13:18:18.052049|INFO    |PktHandler    |1  |Dropping client 5524 because of ping timeout 19 0 0
+2023-10-08 15:00:47.104833|INFO    |PktHandler    |1  |Dropping client 5520 because of ping timeout 19 0 0
+2023-10-09 12:32:52.848465|INFO    |PktHandler    |1  |Dropping client 5530 because of ping timeout 19 0 0
+2023-10-09 12:33:55.786958|INFO    |PktHandler    |1  |Dropping client 5532 because of ping timeout 19 0 0
+2023-10-09 12:34:54.363156|INFO    |PktHandler    |1  |Dropping client 5534 because of ping timeout 19 0 0
+2023-10-09 12:43:46.932612|INFO    |PktHandler    |1  |Dropping client 5536 because of ping timeout 19 0 0
+2023-10-09 12:45:09.213869|INFO    |PktHandler    |1  |Dropping client 5537 because of ping timeout 19 0 0
+2023-10-09 12:48:53.377025|INFO    |PktHandler    |1  |Dropping client 5538 because of ping timeout 19 0 0
+2023-10-09 12:50:31.862395|INFO    |PktHandler    |1  |Dropping client 5539 because of ping timeout 19 0 0
+2023-10-09 12:54:11.876122|INFO    |PktHandler    |1  |Dropping client 5540 because of ping timeout 19 0 0
+2023-10-09 12:56:04.985528|INFO    |PktHandler    |1  |Dropping client 5541 because of ping timeout 19 0 0
+2023-10-09 12:57:01.354683|INFO    |PktHandler    |1  |Dropping client 5542 because of ping timeout 19 0 0
+2023-10-09 13:01:57.993447|INFO    |PktHandler    |1  |Dropping client 5543 because of ping timeout 19 0 0
+2023-10-09 13:03:15.179966|INFO    |PktHandler    |1  |Dropping client 5544 because of ping timeout 19 0 0
+2023-10-09 13:03:50.758101|INFO    |PktHandler    |1  |Dropping client 5545 because of ping timeout 19 0 0
+2023-10-09 13:08:36.484727|INFO    |PktHandler    |1  |Dropping client 5546 because of ping timeout 19 0 0
+2023-10-09 13:10:13.949608|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-10-09 13:10:13.949608|INFO    |PktHandler    |1  |Dropping client 5547 because of resend timeout
+2023-10-09 13:11:09.236721|INFO    |PktHandler    |1  |Dropping client 5548 because of ping timeout 19 0 0
+2023-10-09 13:13:03.078545|INFO    |PktHandler    |1  |Dropping client 5549 because of ping timeout 19 0 0
+2023-10-09 13:15:33.607891|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-10-09 13:15:33.607891|INFO    |PktHandler    |1  |Dropping client 5550 because of resend timeout
+2023-10-09 13:44:47.647308|INFO    |PktHandler    |1  |Dropping client 5551 because of ping timeout 19 0 0
+2023-10-10 11:33:18.986301|INFO    |PktHandler    |1  |Dropping client 5561 because of ping timeout 19 0 0
+2023-10-10 12:34:11.362246|INFO    |PktHandler    |1  |Dropping client 5565 because of ping timeout 19 0 0
+2023-10-10 13:06:12.113233|INFO    |PktHandler    |1  |Dropping client 5562 because of ping timeout 19 0 0
+2023-10-10 13:08:20.730414|INFO    |PktHandler    |1  |Dropping client 5569 because of ping timeout 19 0 0
+2023-10-10 15:13:34.056159|INFO    |PktHandler    |1  |Dropping client 5559 because of ping timeout 19 0 0
+2023-10-11 03:48:49.131054|INFO    |PktHandler    |1  |Dropping client 5573 because of ping timeout 19 0 0
+2023-10-11 03:49:36.798042|INFO    |PktHandler    |1  |Dropping client 5574 because of ping timeout 19 0 0
+2023-10-11 06:17:12.508789|INFO    |PktHandler    |1  |Dropping client 5579 because of ping timeout 19 0 0
+2023-10-11 06:19:34.298856|INFO    |PktHandler    |1  |Dropping client 5582 because of ping timeout 19 0 0
+2023-10-11 06:23:57.466859|INFO    |PktHandler    |1  |Dropping client 5583 because of ping timeout 19 0 0
+2023-10-11 08:19:28.992213|INFO    |PktHandler    |1  |Dropping client 5584 because of ping timeout 19 0 0
+2023-10-11 10:59:05.346658|INFO    |PktHandler    |1  |Dropping client 5588 because of ping timeout 19 0 0
+2023-10-12 10:08:31.223501|INFO    |PktHandler    |1  |Dropping client 5607 because of ping timeout 19 0 0
+2023-10-12 10:11:28.611218|INFO    |PktHandler    |1  |Dropping client 5608 because of ping timeout 19 0 0
+2023-10-12 10:43:57.680772|INFO    |PktHandler    |1  |Dropping client 5610 because of ping timeout 19 0 0
+2023-10-12 11:41:49.395977|INFO    |PktHandler    |1  |Dropping client 5611 because of ping timeout 19 0 0
+2023-10-12 11:42:37.020001|INFO    |PktHandler    |1  |Dropping client 5616 because of ping timeout 19 0 0
+2023-10-12 11:43:13.676272|INFO    |PktHandler    |1  |Dropping client 5617 because of ping timeout 19 0 0
+2023-10-12 11:49:59.771025|INFO    |PktHandler    |1  |Dropping client 5618 because of ping timeout 19 0 0
+2023-10-12 12:00:09.538648|INFO    |PktHandler    |1  |Dropping client 5613 because of ping timeout 19 0 0
+2023-10-12 12:01:04.831627|INFO    |PktHandler    |1  |Dropping client 5619 because of ping timeout 19 0 0
+2023-10-12 12:02:10.902897|INFO    |PktHandler    |1  |Dropping client 5620 because of ping timeout 19 0 0
+2023-10-12 12:02:48.834564|INFO    |PktHandler    |1  |Dropping client 5603 because of ping timeout 19 0 0
+2023-10-12 12:03:08.852142|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-10-12 12:03:08.852142|INFO    |PktHandler    |1  |Dropping client 5621 because of resend timeout
+2023-10-12 12:03:16.294518|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-10-12 12:03:16.294518|INFO    |PktHandler    |1  |Dropping client 5622 because of resend timeout
+2023-10-12 12:03:39.509369|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-10-12 12:03:39.509369|INFO    |PktHandler    |1  |Dropping client 5605 because of resend timeout
+2023-10-12 12:03:52.555250|INFO    |PktHandler    |1  |Dropping client 5624 because of ping timeout 19 0 0
+2023-10-12 12:06:32.686135|INFO    |PktHandler    |1  |Dropping client 5625 because of ping timeout 19 0 0
+2023-10-12 12:06:47.575784|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-10-12 12:06:47.575784|INFO    |PktHandler    |1  |Dropping client 5628 because of resend timeout
+2023-10-12 12:07:56.415633|INFO    |PktHandler    |1  |Dropping client 5629 because of ping timeout 19 0 0
+2023-10-12 12:08:46.143171|INFO    |PktHandler    |1  |Dropping client 5630 because of ping timeout 19 0 0
+2023-10-12 12:11:33.618765|INFO    |PktHandler    |1  |Dropping client 5631 because of ping timeout 19 0 0
+2023-10-13 06:13:07.991090|INFO    |PktHandler    |1  |Dropping client 5635 because of ping timeout 19 0 0
+2023-10-13 11:26:13.543938|INFO    |PktHandler    |1  |Dropping client 5643 because of ping timeout 19 0 0
+2023-10-13 11:45:34.391606|INFO    |PktHandler    |1  |Dropping client 5647 because of ping timeout 19 0 0
+2023-10-13 11:48:29.536130|INFO    |PktHandler    |1  |Dropping client 5649 because of ping timeout 19 0 0
+2023-10-13 13:38:28.586900|INFO    |PktHandler    |1  |Dropping client 5657 because of ping timeout 19 0 0
+2023-10-13 13:39:28.767565|INFO    |PktHandler    |1  |Dropping client 5658 because of ping timeout 19 0 0
+2023-10-13 13:40:19.676740|INFO    |PktHandler    |1  |Dropping client 5659 because of ping timeout 19 0 0
+2023-10-13 13:41:48.904301|INFO    |PktHandler    |1  |Dropping client 5660 because of ping timeout 19 0 0
+2023-10-13 13:46:02.082008|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-10-13 13:46:02.082008|INFO    |PktHandler    |1  |Dropping client 5662 because of resend timeout
+2023-10-13 13:46:42.960928|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-10-13 13:46:42.960928|INFO    |PktHandler    |1  |Dropping client 5663 because of resend timeout
+2023-10-13 13:48:20.817362|INFO    |PktHandler    |1  |Dropping client 5664 because of ping timeout 19 0 0
+2023-10-13 13:49:47.300763|INFO    |PktHandler    |1  |Dropping client 5665 because of ping timeout 19 0 0
+2023-10-14 04:03:15.635220|INFO    |PktHandler    |1  |Dropping client 5671 because of ping timeout 19 0 0
+2023-10-14 07:07:18.882225|INFO    |PktHandler    |1  |Dropping client 5678 because of ping timeout 19 0 0
+2023-10-14 07:45:09.785857|INFO    |PktHandler    |1  |Dropping client 5679 because of ping timeout 19 0 0
+2023-10-14 12:39:07.408262|INFO    |PktHandler    |1  |Dropping client 5685 because of ping timeout 19 0 0
+2023-10-14 12:41:23.988332|INFO    |PktHandler    |1  |Dropping client 5686 because of ping timeout 19 0 0
+2023-10-14 12:43:10.992259|INFO    |PktHandler    |1  |Dropping client 5687 because of ping timeout 19 0 0
+2023-10-14 12:43:38.370173|INFO    |PktHandler    |1  |Dropping client 5689 because of ping timeout 19 0 0
+2023-10-14 12:44:54.958081|INFO    |PktHandler    |1  |Dropping client 5690 because of ping timeout 19 0 0
+2023-10-14 12:45:27.366283|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2023-10-14 12:45:27.366283|INFO    |PktHandler    |1  |Dropping client 5691 because of resend timeout
+2023-10-14 12:46:45.507901|INFO    |PktHandler    |1  |Dropping client 5692 because of ping timeout 19 0 0
+2023-10-14 14:09:47.621675|INFO    |PktHandler    |1  |Dropping client 5696 because of ping timeout 19 0 0
+2023-10-14 15:01:18.914954|INFO    |PktHandler    |1  |Dropping client 5695 because of ping timeout 19 0 0
+2023-10-15 12:59:30.987781|INFO    |PktHandler    |1  |Dropping client 5711 because of ping timeout 19 0 0
+2023-10-15 13:23:27.363983|INFO    |PktHandler    |1  |Dropping client 5721 because of ping timeout 19 0 0
+2023-10-17 09:07:21.764514|INFO    |PktHandler    |1  |Dropping client 5742 because of ping timeout 19 0 0
+2023-10-17 09:41:48.302599|INFO    |PktHandler    |1  |Dropping client 5743 because of ping timeout 19 0 0
+2023-10-17 12:34:08.875066|INFO    |PktHandler    |1  |Dropping client 5749 because of ping timeout 19 0 0
+2023-10-17 13:23:57.239880|INFO    |PktHandler    |1  |Dropping client 5744 because of ping timeout 19 0 0
+2023-10-17 15:00:54.551674|INFO    |PktHandler    |1  |Dropping client 5752 because of ping timeout 19 0 0
+2023-10-18 09:59:10.775632|INFO    |PktHandler    |1  |Dropping client 5756 because of ping timeout 19 0 0
+2023-10-18 12:10:41.882218|INFO    |PktHandler    |1  |Dropping client 5766 because of ping timeout 19 0 0
+2023-10-18 12:32:34.499699|INFO    |PktHandler    |1  |Dropping client 5769 because of ping timeout 19 0 0
+2023-10-18 12:58:59.485562|INFO    |PktHandler    |1  |Dropping client 5771 because of ping timeout 19 0 0
+2023-10-18 12:59:52.099839|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-10-18 12:59:52.099839|INFO    |PktHandler    |1  |Dropping client 5772 because of resend timeout
+2023-10-18 14:26:08.653317|INFO    |PktHandler    |1  |Dropping client 5774 because of ping timeout 19 0 0
+2023-10-18 14:55:02.687669|INFO    |PktHandler    |1  |Dropping client 5775 because of ping timeout 19 0 0
+2023-10-20 02:42:45.570657|INFO    |PktHandler    |1  |Dropping client 5789 because of ping timeout 19 0 0
+2023-10-20 11:07:59.179799|INFO    |PktHandler    |1  |Dropping client 5793 because of ping timeout 19 0 0
+2023-10-20 11:09:11.591894|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-10-20 11:09:11.591894|INFO    |PktHandler    |1  |Dropping client 5797 because of resend timeout
+2023-10-21 14:20:14.059967|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-10-21 14:20:14.059967|INFO    |PktHandler    |1  |Dropping client 5816 because of resend timeout
+2023-10-22 11:06:32.711631|INFO    |PktHandler    |1  |Dropping client 5835 because of ping timeout 19 0 0
+2023-10-22 15:00:57.391004|INFO    |PktHandler    |1  |Dropping client 5841 because of ping timeout 19 0 0
+2023-10-24 09:41:56.465529|INFO    |PktHandler    |1  |Dropping client 5865 because of ping timeout 19 0 0
+2023-10-24 12:11:12.771471|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'clown'(id:19) by client 'Zhuo_Yun'(id:75)
+2023-10-24 12:11:22.568330|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'clown (Copy)'(id:20) by client 'Zhuo_Yun'(id:75)
+2023-10-24 12:11:28.866176|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'clown (Copy) (Copy) (Copy)'(id:22) by client 'Zhuo_Yun'(id:75)
+2023-10-24 12:11:33.834919|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was removed from servergroup 'clown (Copy) (Copy) (Copy)'(id:22) by client 'Zhuo_Yun'(id:75)
+2023-10-24 12:11:38.350544|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'clown (Copy) (Copy) (Copy)'(id:22) by client 'Zhuo_Yun'(id:75)
+2023-10-24 12:11:41.616170|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'clown (Copy) (Copy) (Co (Copy)'(id:23) by client 'Zhuo_Yun'(id:75)
+2023-10-24 12:11:45.350534|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'clown (Copy) (Copy) ( (Copy 2)'(id:24) by client 'Zhuo_Yun'(id:75)
+2023-10-24 12:11:48.724546|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'clown (Copy) (Copy) ( ( (Copy)'(id:25) by client 'Zhuo_Yun'(id:75)
+2023-10-24 12:14:50.828905|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-10-24 12:20:28.530781|INFO    |VirtualServer |1  |client 'tiantian'(id:235) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-10-24 14:21:03.158890|INFO    |PktHandler    |1  |Dropping client 5883 because of ping timeout 19 0 0
+2023-10-28 05:59:03.885087|INFO    |PktHandler    |1  |Dropping client 5935 because of ping timeout 19 0 0
+2023-10-28 05:59:36.153628|INFO    |PktHandler    |1  |Dropping client 5936 because of ping timeout 19 0 0
+2023-10-28 07:56:27.321619|INFO    |PktHandler    |1  |Dropping client 5941 because of ping timeout 19 0 0
+2023-10-28 08:48:16.379257|INFO    |PktHandler    |1  |Dropping client 5938 because of ping timeout 19 0 0
+2023-10-31 15:00:36.405788|INFO    |PktHandler    |1  |Dropping client 5997 because of ping timeout 19 0 0
+2023-11-02 15:00:50.662220|INFO    |PktHandler    |1  |Dropping client 6015 because of ping timeout 19 0 0
+2023-11-04 08:56:56.342754|INFO    |PktHandler    |1  |Dropping client 6049 because of ping timeout 19 0 0
+2023-11-04 10:22:14.513397|INFO    |PktHandler    |1  |Dropping client 6060 because of ping timeout 19 0 0
+2023-11-04 10:39:11.687483|INFO    |PktHandler    |1  |Dropping client 6062 because of ping timeout 19 0 0
+2023-11-08 14:40:49.048283|INFO    |VirtualServer |1  |client 'Mercury'(id:174) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-11-08 14:40:53.527792|INFO    |VirtualServer |1  |client 'Legolas'(id:237) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-11-08 14:40:56.590280|INFO    |VirtualServer |1  |client 'daddy'(id:231) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-11-08 14:40:59.715279|INFO    |VirtualServer |1  |client 'smh12'(id:137) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-11-08 14:41:04.465297|INFO    |VirtualServer |1  |client 'plrs、huawei'(id:200) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-11-09 13:55:34.140683|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-11-09 13:55:34.140683|INFO    |PktHandler    |1  |Dropping client 6161 because of resend timeout
+2023-11-09 13:56:34.506940|INFO    |PktHandler    |1  |Dropping client 6162 because of ping timeout 19 0 0
+2023-11-09 13:58:39.828325|INFO    |PktHandler    |1  |Dropping client 6163 because of ping timeout 19 0 0
+2023-11-10 15:26:12.579434|INFO    |PktHandler    |1  |Dropping client 6182 because of ping timeout 19 0 0
+2023-11-10 15:27:06.332402|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-11-10 15:27:06.332402|INFO    |PktHandler    |1  |Dropping client 6183 because of resend timeout
+2023-11-11 03:03:55.768351|INFO    |PktHandler    |1  |Dropping client 6180 because of ping timeout 19 0 0
+2023-11-11 03:07:18.141025|INFO    |PktHandler    |1  |Dropping client 6185 because of ping timeout 19 0 0
+2023-11-11 03:09:53.977114|INFO    |PktHandler    |1  |Dropping client 6186 because of ping timeout 19 0 0
+2023-11-11 03:13:44.568934|INFO    |PktHandler    |1  |Dropping client 6187 because of ping timeout 19 0 0
+2023-11-11 03:21:44.844864|INFO    |PktHandler    |1  |Dropping client 6188 because of ping timeout 19 0 0
+2023-11-11 03:34:29.913096|INFO    |PktHandler    |1  |Dropping client 6189 because of ping timeout 19 0 0
+2023-11-11 05:40:31.771379|INFO    |PktHandler    |1  |Dropping client 6190 because of ping timeout 19 0 0
+2023-11-11 05:58:35.569696|INFO    |PktHandler    |1  |Dropping client 6192 because of ping timeout 19 0 0
+2023-11-11 07:50:44.573480|INFO    |PktHandler    |1  |Dropping client 6194 because of ping timeout 19 0 0
+2023-11-11 16:08:44.028760|INFO    |PktHandler    |1  |Dropping client 6191 because of ping timeout 19 0 0
+2023-11-12 13:16:32.481791|INFO    |PktHandler    |1  |Dropping client 6220 because of ping timeout 19 0 0
+2023-11-13 11:49:27.011594|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was removed from servergroup 'clown (Copy) (Copy) (Co (Copy)'(id:23) by client 'Zhuo_Yun'(id:75)
+2023-11-13 11:49:31.167868|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was removed from servergroup 'clown (Copy) (Copy) ( ( (Copy)'(id:25) by client 'Zhuo_Yun'(id:75)
+2023-11-13 11:49:34.355363|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'clown (Copy) (Copy)'(id:21) by client 'Zhuo_Yun'(id:75)
+2023-11-13 11:49:37.324104|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was removed from servergroup 'clown (Copy) (Copy)'(id:21) by client 'Zhuo_Yun'(id:75)
+2023-11-13 15:40:31.643994|INFO    |PktHandler    |1  |Dropping client 6258 because of ping timeout 19 0 0
+2023-11-13 15:41:06.311988|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-11-13 15:41:06.311988|INFO    |PktHandler    |1  |Dropping client 6262 because of resend timeout
+2023-11-13 17:48:22.555657|INFO    |PktHandler    |1  |Dropping client 6263 because of ping timeout 19 0 0
+2023-11-13 17:50:23.939552|INFO    |PktHandler    |1  |Dropping client 6264 because of ping timeout 19 0 0
+2023-11-13 19:17:06.963753|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2023-11-13 19:17:06.963753|INFO    |PktHandler    |1  |Dropping client 6265 because of resend timeout
+2023-11-14 12:44:03.623765|INFO    |PktHandler    |1  |Dropping client 6266 because of ping timeout 19 0 0
+2023-11-14 12:46:39.472554|INFO    |PktHandler    |1  |Dropping client 6269 because of ping timeout 19 0 0
+2023-11-14 12:48:42.490251|INFO    |PktHandler    |1  |Dropping client 6270 because of ping timeout 19 0 0
+2023-11-14 12:51:01.581204|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-11-14 12:51:01.581204|INFO    |PktHandler    |1  |Dropping client 6272 because of resend timeout
+2023-11-14 12:52:32.138917|INFO    |PktHandler    |1  |Dropping client 6274 because of ping timeout 19 0 0
+2023-11-14 14:18:43.308318|INFO    |PktHandler    |1  |Dropping client 6282 because of ping timeout 19 0 0
+2023-11-15 13:58:49.963801|INFO    |PktHandler    |1  |Cleaning up connection because of 1 resends of COMMAND packet
+2023-11-15 13:58:49.963801|INFO    |PktHandler    |1  |Dropping client 6307 because of resend timeout
+2023-11-15 15:00:49.357203|INFO    |PktHandler    |1  |Dropping client 6304 because of ping timeout 19 0 0
+2023-11-16 13:47:21.059806|INFO    |PktHandler    |1  |Dropping client 6318 because of ping timeout 19 0 0
+2023-11-16 15:06:10.450405|INFO    |PktHandler    |1  |Dropping client 6322 because of ping timeout 19 0 0
+2023-11-16 16:32:02.964279|INFO    |PktHandler    |1  |Dropping client 6319 because of ping timeout 19 0 0
+2023-11-17 13:02:41.063648|INFO    |PktHandler    |1  |Dropping client 6336 because of ping timeout 19 0 0
+2023-11-18 07:35:47.189111|INFO    |PktHandler    |1  |Dropping client 6352 because of ping timeout 19 0 0
+2023-11-18 11:18:00.188339|INFO    |PktHandler    |1  |Dropping client 6354 because of ping timeout 19 0 0
+2023-11-18 14:50:27.472979|INFO    |PktHandler    |1  |Dropping client 6389 because of ping timeout 19 0 0
+2023-11-20 12:49:09.860638|INFO    |PktHandler    |1  |Dropping client 6442 because of ping timeout 19 0 0
+2023-11-22 10:32:45.106327|INFO    |PktHandler    |1  |Dropping client 6463 because of ping timeout 19 0 0
+2023-11-22 10:33:33.777266|INFO    |PktHandler    |1  |Dropping client 6464 because of ping timeout 19 0 0
+2023-11-22 10:34:23.304652|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-11-22 10:34:23.304652|INFO    |PktHandler    |1  |Dropping client 6465 because of resend timeout
+2023-11-22 10:40:51.678355|INFO    |PktHandler    |1  |Dropping client 6469 because of ping timeout 19 0 0
+2023-11-25 06:21:34.069407|INFO    |PktHandler    |1  |Dropping client 6515 because of ping timeout 19 0 0
+2023-11-26 10:26:33.770561|INFO    |PktHandler    |1  |Dropping client 6540 because of ping timeout 19 0 0
+2023-11-26 11:39:22.170391|INFO    |PktHandler    |1  |Dropping client 6557 because of ping timeout 19 0 0
+2023-11-26 15:00:54.833234|INFO    |PktHandler    |1  |Dropping client 6561 because of ping timeout 19 0 0
+2023-11-27 07:16:13.128822|INFO    |PktHandler    |1  |Dropping client 6573 because of ping timeout 19 0 0
+2023-11-29 10:54:20.801975|INFO    |PktHandler    |1  |Dropping client 6610 because of ping timeout 19 0 0
+2023-12-02 07:13:41.864048|INFO    |PktHandler    |1  |Dropping client 6671 because of ping timeout 19 0 0
+2023-12-02 08:46:37.755783|INFO    |PktHandler    |1  |Dropping client 6666 because of ping timeout 19 0 0
+2023-12-02 09:05:30.210991|INFO    |PktHandler    |1  |Dropping client 6665 because of ping timeout 19 0 0
+2023-12-02 09:17:58.810359|INFO    |PktHandler    |1  |Dropping client 6675 because of ping timeout 19 0 0
+2023-12-03 13:54:23.079429|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-12-03 13:54:23.079429|INFO    |PktHandler    |1  |Dropping client 6714 because of resend timeout
+2023-12-03 13:55:04.541379|INFO    |PktHandler    |1  |Dropping client 6715 because of ping timeout 19 0 0
+2023-12-04 06:37:11.650514|INFO    |PktHandler    |1  |Dropping client 6721 because of ping timeout 19 0 0
+2023-12-04 07:48:14.842619|INFO    |PktHandler    |1  |Dropping client 6728 because of ping timeout 19 0 0
+2023-12-04 11:50:18.693628|INFO    |PktHandler    |1  |Dropping client 6694 because of ping timeout 19 0 0
+2023-12-05 13:37:57.297650|INFO    |VirtualServer |1  |client 'xzz'(id:234) was added to channelgroup 'Channel Admin'(id:5) by client 'Zhuo_Yun'(id:75) in channel 'Overwatch'(id:1)
+2023-12-05 13:38:02.198994|INFO    |VirtualServer |1  |client 'xzz'(id:234) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-12-05 13:38:05.871847|INFO    |VirtualServer |1  |client 'm87'(id:183) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2023-12-07 10:29:40.501353|INFO    |PktHandler    |1  |Dropping client 6795 because of ping timeout 19 0 0
+2023-12-07 10:30:00.956456|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-12-07 10:30:00.956456|INFO    |PktHandler    |1  |Dropping client 6794 because of resend timeout
+2023-12-07 10:31:51.416416|INFO    |PktHandler    |1  |Dropping client 6797 because of ping timeout 19 0 0
+2023-12-07 15:15:36.876955|INFO    |PktHandler    |1  |Dropping client 6793 because of ping timeout 19 0 0
+2023-12-08 15:38:09.925315|INFO    |PktHandler    |1  |Dropping client 6823 because of ping timeout 19 0 0
+2023-12-09 12:47:35.488540|INFO    |PktHandler    |1  |Dropping client 6834 because of ping timeout 19 0 0
+2023-12-09 14:20:28.755978|INFO    |PktHandler    |1  |Dropping client 6849 because of ping timeout 19 0 0
+2023-12-09 16:00:03.810861|INFO    |PktHandler    |1  |Dropping client 6848 because of ping timeout 19 0 0
+2023-12-10 14:23:07.972620|INFO    |PktHandler    |1  |Dropping client 6869 because of ping timeout 19 0 0
+2023-12-11 12:23:27.410394|INFO    |PktHandler    |1  |Dropping client 6880 because of ping timeout 19 0 0
+2023-12-11 14:58:03.746732|INFO    |PktHandler    |1  |Dropping client 6885 because of ping timeout 19 0 0
+2023-12-13 09:23:05.581230|INFO    |PktHandler    |1  |Dropping client 6912 because of ping timeout 19 0 0
+2023-12-15 10:15:52.349821|INFO    |PktHandler    |1  |Dropping client 6967 because of ping timeout 19 0 0
+2023-12-15 10:16:54.564712|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-12-15 10:16:54.564712|INFO    |PktHandler    |1  |Dropping client 6970 because of resend timeout
+2023-12-15 13:04:11.262664|INFO    |PktHandler    |1  |Dropping client 6972 because of ping timeout 19 0 0
+2023-12-15 13:12:52.409233|INFO    |PktHandler    |1  |Dropping client 6974 because of ping timeout 19 0 0
+2023-12-15 14:07:55.275032|INFO    |PktHandler    |1  |Dropping client 6983 because of ping timeout 19 0 0
+2023-12-15 14:10:04.289810|INFO    |PktHandler    |1  |Dropping client 6984 because of ping timeout 19 0 0
+2023-12-15 14:29:41.761657|INFO    |PktHandler    |1  |Dropping client 6985 because of ping timeout 19 0 0
+2023-12-15 15:13:18.451078|INFO    |PktHandler    |1  |Dropping client 6986 because of ping timeout 19 0 0
+2023-12-15 15:15:30.253083|INFO    |PktHandler    |1  |Dropping client 6987 because of ping timeout 19 0 0
+2023-12-15 16:02:03.596006|INFO    |PktHandler    |1  |Dropping client 6964 because of ping timeout 19 0 0
+2023-12-16 11:08:12.876714|INFO    |PktHandler    |1  |Dropping client 7007 because of ping timeout 19 0 0
+2023-12-17 14:54:12.774187|INFO    |PktHandler    |1  |Dropping client 7017 because of ping timeout 19 0 0
+2023-12-18 13:37:46.892700|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-12-18 13:37:46.892700|INFO    |PktHandler    |1  |Dropping client 7041 because of resend timeout
+2023-12-18 14:09:41.812595|INFO    |PktHandler    |1  |Dropping client 7043 because of ping timeout 19 0 0
+2023-12-18 14:13:37.493475|INFO    |PktHandler    |1  |Dropping client 7044 because of ping timeout 19 0 0
+2023-12-19 14:02:35.632807|INFO    |PktHandler    |1  |Dropping client 7059 because of ping timeout 19 0 0
+2023-12-20 12:57:36.049405|INFO    |PktHandler    |1  |Dropping client 7079 because of ping timeout 19 0 0
+2023-12-20 12:58:04.919345|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2023-12-20 12:58:04.919345|INFO    |PktHandler    |1  |Dropping client 7080 because of resend timeout
+2023-12-20 14:14:15.512563|INFO    |PktHandler    |1  |Dropping client 7081 because of ping timeout 19 0 0
+2023-12-20 14:26:55.006736|INFO    |PktHandler    |1  |Dropping client 7082 because of ping timeout 19 0 0
+2023-12-20 14:29:36.335014|INFO    |PktHandler    |1  |Dropping client 7083 because of ping timeout 19 0 0
+2023-12-20 14:33:27.701430|INFO    |PktHandler    |1  |Dropping client 7084 because of ping timeout 19 0 0
+2023-12-20 14:47:53.308496|INFO    |PktHandler    |1  |Dropping client 7085 because of ping timeout 19 0 0
+2023-12-20 14:48:40.874655|INFO    |PktHandler    |1  |Dropping client 7086 because of ping timeout 19 0 0
+2023-12-20 15:01:17.171051|INFO    |PktHandler    |1  |Dropping client 7074 because of ping timeout 19 0 0
+2023-12-20 15:08:53.769156|INFO    |PktHandler    |1  |Dropping client 7088 because of ping timeout 19 0 0
+2023-12-20 15:24:39.360862|INFO    |PktHandler    |1  |Dropping client 7089 because of ping timeout 19 0 0
+2023-12-21 02:20:13.272472|INFO    |PktHandler    |1  |Dropping client 7091 because of ping timeout 19 0 0
+2023-12-21 15:00:41.437404|INFO    |PktHandler    |1  |Dropping client 7102 because of ping timeout 19 0 0
+2023-12-22 15:17:23.117851|INFO    |PktHandler    |1  |Dropping client 7115 because of ping timeout 19 0 0
+2023-12-23 20:23:00.093698|INFO    |PktHandler    |1  |Dropping client 7145 because of ping timeout 19 0 0
+2023-12-24 14:39:22.936213|INFO    |PktHandler    |1  |Dropping client 7159 because of ping timeout 19 0 0
+2023-12-24 14:42:26.660034|INFO    |PktHandler    |1  |Dropping client 7168 because of ping timeout 19 0 0
+2023-12-25 08:16:54.811045|INFO    |PktHandler    |1  |Dropping client 7175 because of ping timeout 19 0 0
+2023-12-25 13:13:11.444098|INFO    |PktHandler    |1  |Dropping client 7181 because of ping timeout 19 0 0
+2023-12-25 22:09:08.306914|INFO    |PktHandler    |1  |Dropping client 7184 because of ping timeout 19 0 0
+2023-12-26 04:47:35.286350|INFO    |PktHandler    |1  |Dropping client 7197 because of ping timeout 19 0 0
+2023-12-26 05:03:34.516734|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2023-12-26 05:03:34.516734|INFO    |PktHandler    |1  |Dropping client 7198 because of resend timeout
+2023-12-26 09:09:29.818401|INFO    |PktHandler    |1  |Dropping client 7192 because of ping timeout 19 0 0
+2023-12-26 10:51:53.513175|INFO    |PktHandler    |1  |Dropping client 7211 because of ping timeout 19 0 0
+2023-12-26 13:49:54.974670|INFO    |PktHandler    |1  |Dropping client 7223 because of ping timeout 19 0 0
+2023-12-28 12:07:42.485770|INFO    |PktHandler    |1  |Dropping client 7266 because of ping timeout 19 0 0
+2023-12-29 05:12:32.538694|INFO    |PktHandler    |1  |Dropping client 7275 because of ping timeout 19 0 0
+2023-12-29 05:13:04.801421|INFO    |PktHandler    |1  |Dropping client 7274 because of ping timeout 19 0 0
+2023-12-29 08:14:17.415842|INFO    |PktHandler    |1  |Dropping client 7279 because of ping timeout 19 0 0
+2023-12-29 12:04:14.462223|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2023-12-29 12:04:14.462223|INFO    |PktHandler    |1  |Dropping client 7284 because of resend timeout
+2023-12-30 06:12:27.413673|INFO    |PktHandler    |1  |Dropping client 7277 because of ping timeout 19 0 0
+2023-12-30 15:49:43.040146|INFO    |VirtualServer |1  |client 'zhuoyun233'(id:264) was added to servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2023-12-30 15:55:49.025823|INFO    |PktHandler    |1  |Dropping client 7326 because of ping timeout 19 0 0
+2023-12-31 13:05:40.224148|INFO    |PktHandler    |1  |Dropping client 7339 because of ping timeout 19 0 0
+2024-01-01 12:54:15.520075|INFO    |PktHandler    |1  |Dropping client 7379 because of ping timeout 19 0 0
+2024-01-02 10:46:43.330374|INFO    |PktHandler    |1  |Dropping client 7387 because of ping timeout 19 0 0
+2024-01-03 14:59:39.424191|INFO    |PktHandler    |1  |Dropping client 7415 because of ping timeout 19 0 0
+2024-01-04 14:57:10.750401|INFO    |PktHandler    |1  |Dropping client 7432 because of ping timeout 19 0 0
+2024-01-05 16:02:34.493526|INFO    |PktHandler    |1  |Dropping client 7457 because of ping timeout 19 0 0
+2024-01-07 03:37:42.192316|INFO    |VirtualServer |1  |client 'Super Nning'(id:233) was added to servergroup 'Guest (Copy)'(id:12) by client 'Super Nning'(id:233)
+2024-01-07 11:55:13.047414|INFO    |PktHandler    |1  |Dropping client 7497 because of ping timeout 19 0 0
+2024-01-07 15:00:38.755936|INFO    |PktHandler    |1  |Dropping client 7503 because of ping timeout 19 0 0
+2024-01-08 14:39:38.190071|INFO    |PktHandler    |1  |Dropping client 7527 because of ping timeout 19 0 0
+2024-01-09 10:20:41.313070|INFO    |PktHandler    |1  |Dropping client 7534 because of ping timeout 19 0 0
+2024-01-09 10:46:03.776432|INFO    |PktHandler    |1  |Dropping client 7543 because of ping timeout 19 0 0
+2024-01-09 15:00:39.009176|INFO    |PktHandler    |1  |Dropping client 7550 because of ping timeout 19 0 0
+2024-01-10 12:22:45.735814|INFO    |PktHandler    |1  |Dropping client 7570 because of ping timeout 19 0 0
+2024-01-11 10:56:47.788502|INFO    |PktHandler    |1  |Dropping client 7585 because of ping timeout 19 0 0
+2024-01-11 10:58:30.691919|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2024-01-11 10:58:30.691919|INFO    |PktHandler    |1  |Dropping client 7588 because of resend timeout
+2024-01-11 15:55:02.610139|INFO    |PktHandler    |1  |Dropping client 7580 because of ping timeout 19 0 0
+2024-01-12 15:59:40.444247|INFO    |PktHandler    |1  |Dropping client 7611 because of ping timeout 19 0 0
+2024-01-13 10:16:04.525262|INFO    |PktHandler    |1  |Dropping client 7634 because of ping timeout 19 0 0
+2024-01-13 15:59:40.770676|INFO    |PktHandler    |1  |Dropping client 7644 because of ping timeout 19 0 0
+2024-01-14 11:25:59.037777|INFO    |PktHandler    |1  |Dropping client 7662 because of ping timeout 19 0 0
+2024-01-14 15:15:28.357822|INFO    |PktHandler    |1  |Dropping client 7675 because of ping timeout 19 0 0
+2024-01-14 16:50:17.640286|INFO    |VirtualServer |1  |client 'Morgan'(id:270) was added to servergroup 'clown'(id:19) by client 'Zhuo_Yun'(id:75)
+2024-01-14 16:50:25.437160|INFO    |VirtualServer |1  |client 'Morgan'(id:270) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2024-01-14 22:34:26.720911|INFO    |PktHandler    |1  |Dropping client 7660 because of ping timeout 19 0 0
+2024-01-17 13:32:27.797846|INFO    |PktHandler    |1  |Dropping client 7753 because of ping timeout 19 0 0
+2024-01-19 08:03:42.186138|INFO    |PktHandler    |1  |Dropping client 7793 because of ping timeout 19 0 0
+2024-01-19 08:10:09.364025|INFO    |PktHandler    |1  |Dropping client 7797 because of ping timeout 19 0 0
+2024-01-19 08:16:07.543848|INFO    |PktHandler    |1  |Dropping client 7798 because of ping timeout 19 0 0
+2024-01-19 09:06:10.366501|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2024-01-19 09:06:10.366501|INFO    |PktHandler    |1  |Dropping client 7799 because of resend timeout
+2024-01-19 10:28:29.537711|INFO    |PktHandler    |1  |Dropping client 7804 because of ping timeout 19 0 0
+2024-01-19 10:34:21.355210|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2024-01-19 10:34:21.355210|INFO    |PktHandler    |1  |Dropping client 7795 because of resend timeout
+2024-01-19 11:17:44.666965|INFO    |PktHandler    |1  |Dropping client 7810 because of ping timeout 19 0 0
+2024-01-19 11:35:04.291969|INFO    |PktHandler    |1  |Dropping client 7814 because of ping timeout 19 0 0
+2024-01-19 13:04:17.904769|INFO    |PktHandler    |1  |Dropping client 7813 because of ping timeout 19 0 0
+2024-01-20 12:35:57.336879|INFO    |PktHandler    |1  |Dropping client 7837 because of ping timeout 19 0 0
+2024-01-20 14:11:58.975938|INFO    |PktHandler    |1  |Dropping client 7844 because of ping timeout 19 0 0
+2024-01-22 08:37:19.062917|INFO    |PktHandler    |1  |Dropping client 7856 because of ping timeout 19 0 0
+2024-01-23 16:10:05.378282|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) with values (value:1) was added by 'Sherry'(id:182) for client (id:182) and channel '学习区'(id:50)
+2024-01-23 16:10:09.112655|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) was deleted by 'Sherry'(id:182) for client (id:182) and channel '学习区'(id:50)
+2024-01-24 07:11:56.178861|INFO    |PktHandler    |1  |Dropping client 7928 because of ping timeout 19 0 0
+2024-01-24 08:33:34.508799|INFO    |PktHandler    |1  |Dropping client 7931 because of ping timeout 19 0 0
+2024-01-25 17:08:32.951614|INFO    |PktHandler    |1  |Dropping client 7996 because of ping timeout 19 0 0
+2024-01-26 05:55:24.170857|INFO    |PktHandler    |1  |Dropping client 8003 because of ping timeout 19 0 0
+2024-01-26 09:18:18.706958|INFO    |PktHandler    |1  |Dropping client 8009 because of ping timeout 19 0 0
+2024-01-26 14:24:08.292251|INFO    |PktHandler    |1  |Dropping client 8020 because of ping timeout 19 0 0
+2024-01-27 19:58:03.244376|INFO    |PktHandler    |1  |Dropping client 7952 because of ping timeout 19 0 0
+2024-01-28 19:55:45.630676|INFO    |PktHandler    |1  |Dropping client 8069 because of ping timeout 19 0 0
+2024-01-30 15:34:47.942869|INFO    |PktHandler    |1  |Dropping client 8126 because of ping timeout 19 0 0
+2024-01-31 12:33:03.746570|INFO    |PktHandler    |1  |Dropping client 8167 because of ping timeout 19 0 0
+2024-01-31 14:14:54.420166|INFO    |PktHandler    |1  |Dropping client 8158 because of ping timeout 19 0 0
+2024-02-02 06:40:47.611229|INFO    |PktHandler    |1  |Dropping client 8152 because of ping timeout 19 0 0
+2024-02-02 11:30:38.178848|INFO    |PktHandler    |1  |Dropping client 8218 because of ping timeout 19 0 0
+2024-02-02 12:50:27.472119|INFO    |PktHandler    |1  |Dropping client 8219 because of ping timeout 19 0 0
+2024-02-02 13:36:28.476795|INFO    |PktHandler    |1  |Dropping client 8222 because of ping timeout 19 0 0
+2024-02-04 07:50:53.021322|INFO    |PktHandler    |1  |Dropping client 8259 because of ping timeout 19 0 0
+2024-02-05 09:02:03.869151|INFO    |PktHandler    |1  |Dropping client 8288 because of ping timeout 19 0 0
+2024-02-06 12:55:21.562863|INFO    |PktHandler    |1  |Dropping client 8308 because of ping timeout 19 0 0
+2024-02-09 13:09:02.699378|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:1128148707) was added by 'Zhuo_Yun'(id:75) to channel '观春晚席'(id:140)
+2024-02-11 15:01:25.678473|INFO    |PktHandler    |1  |Dropping client 8405 because of ping timeout 19 0 0
+2024-02-12 04:14:14.406936|INFO    |PktHandler    |1  |Dropping client 8407 because of ping timeout 19 0 0
+2024-02-12 11:03:48.223082|INFO    |PktHandler    |1  |Dropping client 8417 because of ping timeout 19 0 0
+2024-02-12 13:13:17.171676|INFO    |PktHandler    |1  |Dropping client 8419 because of ping timeout 19 0 0
+2024-02-12 13:14:17.269457|INFO    |PktHandler    |1  |Dropping client 8423 because of ping timeout 19 0 0
+2024-02-12 13:15:23.428029|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2024-02-12 13:15:23.428029|INFO    |PktHandler    |1  |Dropping client 8424 because of resend timeout
+2024-02-12 13:21:26.654455|INFO    |PktHandler    |1  |Cleaning up connection because of 3 resends of COMMAND packet
+2024-02-12 13:21:26.654455|INFO    |PktHandler    |1  |Dropping client 8428 because of resend timeout
+2024-02-12 16:29:49.702997|INFO    |PktHandler    |1  |Dropping client 8435 because of ping timeout 19 0 0
+2024-02-14 02:01:22.385601|INFO    |PktHandler    |1  |Cleaning up connection because of 8 resends of COMMAND packet
+2024-02-14 02:01:22.385601|INFO    |PktHandler    |1  |Dropping client 8463 because of resend timeout
+2024-02-14 11:08:44.533103|INFO    |PktHandler    |1  |Dropping client 8474 because of ping timeout 19 0 0
+2024-02-14 11:45:29.954216|INFO    |PktHandler    |1  |Dropping client 8477 because of ping timeout 19 0 0
+2024-02-15 08:34:57.789838|INFO    |PktHandler    |1  |Dropping client 8488 because of ping timeout 19 0 0
+2024-02-15 13:48:12.604400|INFO    |PktHandler    |1  |Dropping client 8496 because of ping timeout 19 0 0
+2024-02-16 06:35:11.927336|INFO    |PktHandler    |1  |Dropping client 8503 because of ping timeout 19 0 0
+2024-02-17 03:13:30.251389|INFO    |PktHandler    |1  |Dropping client 8530 because of ping timeout 19 0 0
+2024-02-18 12:01:05.274791|INFO    |PktHandler    |1  |Cleaning up connection because of 4 resends of COMMAND packet
+2024-02-18 12:01:05.274791|INFO    |PktHandler    |1  |Dropping client 8559 because of resend timeout
+2024-02-18 16:03:14.515257|INFO    |PktHandler    |1  |Dropping client 8575 because of ping timeout 19 0 0
+2024-02-18 16:03:52.245739|INFO    |PktHandler    |1  |Dropping client 8576 because of ping timeout 19 0 0
+2024-02-19 03:21:44.658735|INFO    |PktHandler    |1  |Dropping client 8579 because of ping timeout 19 0 0
+2024-02-19 11:45:37.316470|INFO    |PktHandler    |1  |Dropping client 8594 because of ping timeout 19 0 0
+2024-02-20 09:33:27.521383|INFO    |PktHandler    |1  |Cleaning up connection because of 11 resends of COMMAND packet
+2024-02-20 09:33:27.521383|INFO    |PktHandler    |1  |Dropping client 8618 because of resend timeout
+2024-02-20 10:19:00.561150|INFO    |PktHandler    |1  |Dropping client 8622 because of ping timeout 19 0 0
+2024-02-20 10:52:00.810096|INFO    |PktHandler    |1  |Dropping client 8624 because of ping timeout 19 0 0
+2024-02-20 11:06:31.783906|INFO    |PktHandler    |1  |Dropping client 8625 because of ping timeout 19 0 0
+2024-02-20 15:39:05.307899|INFO    |VirtualServer |1  |client 'Sherry'(id:282) was added to servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2024-02-21 11:00:13.042347|INFO    |PktHandler    |1  |Dropping client 8648 because of ping timeout 19 0 0
+2024-02-21 11:31:15.130073|INFO    |PktHandler    |1  |Dropping client 8654 because of ping timeout 19 0 0
+2024-02-21 11:34:08.484642|INFO    |PktHandler    |1  |Dropping client 8656 because of ping timeout 19 0 0
+2024-02-21 11:36:33.280504|INFO    |PktHandler    |1  |Dropping client 8657 because of ping timeout 19 0 0
+2024-02-22 12:43:24.480299|INFO    |PktHandler    |1  |Dropping client 8673 because of ping timeout 19 0 0
+2024-02-23 15:13:41.433498|INFO    |PktHandler    |1  |Dropping client 8699 because of ping timeout 19 0 0
+2024-02-24 03:15:44.002011|INFO    |PktHandler    |1  |Dropping client 8702 because of ping timeout 19 0 0
+2024-02-24 04:15:45.503786|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2024-02-24 04:15:45.503786|INFO    |PktHandler    |1  |Dropping client 8704 because of resend timeout
+2024-02-24 05:12:26.139903|INFO    |PktHandler    |1  |Dropping client 8709 because of ping timeout 19 0 0
+2024-02-24 13:52:36.756901|INFO    |PktHandler    |1  |Dropping client 8716 because of ping timeout 19 0 0
+2024-02-25 13:20:30.129877|INFO    |PktHandler    |1  |Dropping client 8747 because of ping timeout 19 0 0
+2024-02-26 10:53:45.787665|INFO    |PktHandler    |1  |Dropping client 8758 because of ping timeout 19 0 0
+2024-02-26 14:01:26.287508|INFO    |PktHandler    |1  |Dropping client 8753 because of ping timeout 19 0 0
+2024-02-26 14:24:32.047954|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2024-02-26 14:24:32.047954|INFO    |PktHandler    |1  |Dropping client 8763 because of resend timeout
+2024-02-27 14:01:15.341621|INFO    |PktHandler    |1  |Dropping client 8771 because of ping timeout 19 0 0
+2024-02-28 11:14:17.669767|INFO    |PktHandler    |1  |Dropping client 8790 because of ping timeout 19 0 0
+2024-03-01 06:40:19.347710|INFO    |PktHandler    |1  |Dropping client 8830 because of ping timeout 19 0 0
+2024-03-01 06:46:37.686793|INFO    |PktHandler    |1  |Dropping client 8831 because of ping timeout 19 0 0
+2024-03-01 06:48:16.129246|INFO    |PktHandler    |1  |Dropping client 8832 because of ping timeout 19 0 0
+2024-03-01 06:54:04.367713|INFO    |PktHandler    |1  |Dropping client 8833 because of ping timeout 19 0 0
+2024-03-01 06:55:48.260328|INFO    |PktHandler    |1  |Dropping client 8834 because of ping timeout 19 0 0
+2024-03-01 06:57:31.498677|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2024-03-01 06:57:31.498677|INFO    |PktHandler    |1  |Dropping client 8835 because of resend timeout
+2024-03-01 06:59:23.710636|INFO    |PktHandler    |1  |Dropping client 8836 because of ping timeout 19 0 0
+2024-03-01 07:34:09.111776|INFO    |PktHandler    |1  |Dropping client 8838 because of ping timeout 19 0 0
+2024-03-01 07:35:43.323626|INFO    |PktHandler    |1  |Dropping client 8839 because of ping timeout 19 0 0
+2024-03-01 12:31:56.808433|INFO    |PktHandler    |1  |Dropping client 8840 because of ping timeout 19 0 0
+2024-03-02 12:30:05.277914|INFO    |PktHandler    |1  |Dropping client 8862 because of ping timeout 19 0 0
+2024-03-03 08:56:05.180032|INFO    |PktHandler    |1  |Dropping client 8895 because of ping timeout 19 0 0
+2024-03-04 03:27:57.002328|INFO    |PktHandler    |1  |Dropping client 8910 because of ping timeout 19 0 0
+2024-03-04 06:57:37.649209|INFO    |PktHandler    |1  |Dropping client 8915 because of ping timeout 19 0 0
+2024-03-05 04:30:32.592151|INFO    |PktHandler    |1  |Dropping client 8930 because of ping timeout 19 0 0
+2024-03-05 07:25:57.842294|INFO    |PktHandler    |1  |Dropping client 8933 because of ping timeout 19 0 0
+2024-03-05 12:55:09.586315|INFO    |PktHandler    |1  |Dropping client 8943 because of ping timeout 19 0 0
+2024-03-05 12:56:08.677139|INFO    |PktHandler    |1  |Dropping client 8947 because of ping timeout 19 0 0
+2024-03-05 13:38:36.064694|INFO    |PktHandler    |1  |Dropping client 8949 because of ping timeout 19 0 0
+2024-03-06 04:30:32.445192|INFO    |PktHandler    |1  |Dropping client 8955 because of ping timeout 19 0 0
+2024-03-06 14:42:53.270505|INFO    |VirtualServer |1  |client 'XueZ1'(id:289) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2024-03-06 14:43:05.518555|INFO    |VirtualServer |1  |client 'XueZ1'(id:289) was added to servergroup 'Normal (Copy)'(id:14) by client 'Zhuo_Yun'(id:75)
+2024-03-06 15:00:26.409616|INFO    |PktHandler    |1  |Dropping client 8965 because of ping timeout 19 0 0
+2024-03-07 08:00:08.507630|INFO    |PktHandler    |1  |Dropping client 8980 because of ping timeout 19 0 0
+2024-03-07 09:59:51.092662|INFO    |PktHandler    |1  |Dropping client 8987 because of ping timeout 19 0 0
+2024-03-07 13:55:41.823658|INFO    |PktHandler    |1  |Dropping client 8985 because of ping timeout 19 0 0
+2024-03-07 15:00:41.370933|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2024-03-07 15:00:41.370933|INFO    |PktHandler    |1  |Dropping client 8996 because of resend timeout
+2024-03-10 07:26:08.068862|INFO    |PktHandler    |1  |Dropping client 9056 because of ping timeout 19 0 0
+2024-03-10 09:39:05.489453|INFO    |PktHandler    |1  |Dropping client 9061 because of ping timeout 19 0 0
+2024-03-10 09:42:17.703396|INFO    |PktHandler    |1  |Dropping client 9062 because of ping timeout 19 0 0
+2024-03-10 14:54:13.469243|INFO    |PktHandler    |1  |Dropping client 9065 because of ping timeout 19 0 0
+2024-03-12 10:16:59.310753|INFO    |PktHandler    |1  |Dropping client 9099 because of ping timeout 19 0 0
+2024-03-12 12:41:01.784899|INFO    |PktHandler    |1  |Dropping client 9108 because of ping timeout 19 0 0
+2024-03-13 13:20:29.758666|INFO    |PktHandler    |1  |Dropping client 9131 because of ping timeout 19 0 0
+2024-03-13 13:35:33.984408|INFO    |PktHandler    |1  |Dropping client 9119 because of ping timeout 19 0 0
+2024-03-14 11:07:38.420980|INFO    |PktHandler    |1  |Dropping client 9144 because of ping timeout 19 0 0
+2024-03-14 14:57:14.499125|INFO    |PktHandler    |1  |Dropping client 9157 because of ping timeout 19 0 0
+2024-03-15 11:00:52.021778|INFO    |PktHandler    |1  |Dropping client 9165 because of ping timeout 19 0 0
+2024-03-15 12:50:50.568729|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2024-03-15 12:50:50.568729|INFO    |PktHandler    |1  |Dropping client 9173 because of resend timeout
+2024-03-15 12:51:47.646782|INFO    |PktHandler    |1  |Dropping client 9174 because of ping timeout 19 0 0
+2024-03-15 14:19:35.989883|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2024-03-15 14:19:35.989883|INFO    |PktHandler    |1  |Dropping client 9184 because of resend timeout
+2024-03-15 14:40:35.258919|INFO    |PktHandler    |1  |Dropping client 9186 because of ping timeout 19 0 0
+2024-03-15 14:43:00.111530|INFO    |PktHandler    |1  |Dropping client 9187 because of ping timeout 19 0 0
+2024-03-15 14:45:31.477811|INFO    |PktHandler    |1  |Dropping client 9188 because of ping timeout 19 0 0
+2024-03-15 14:47:21.854785|INFO    |PktHandler    |1  |Dropping client 9189 because of ping timeout 19 0 0
+2024-03-15 15:59:44.512660|INFO    |PktHandler    |1  |Dropping client 9177 because of ping timeout 19 0 0
+2024-03-16 11:24:09.502281|INFO    |PktHandler    |1  |Dropping client 9197 because of ping timeout 19 0 0
+2024-03-16 11:29:50.954585|INFO    |PktHandler    |1  |Cleaning up connection because of 1 resends of COMMAND packet
+2024-03-16 11:29:50.954585|INFO    |PktHandler    |1  |Dropping client 9213 because of resend timeout
+2024-03-16 13:06:50.417540|INFO    |PktHandler    |1  |Dropping client 9218 because of ping timeout 19 0 0
+2024-03-16 13:58:54.858958|INFO    |PktHandler    |1  |Dropping client 9215 because of ping timeout 19 0 0
+2024-03-17 06:43:12.599615|INFO    |PktHandler    |1  |Dropping client 9234 because of ping timeout 19 0 0
+2024-03-17 13:44:26.099040|INFO    |PktHandler    |1  |Dropping client 9252 because of ping timeout 19 0 0
+2024-03-17 13:47:11.245595|INFO    |PktHandler    |1  |Dropping client 9255 because of ping timeout 19 0 0
+2024-03-17 14:59:58.780291|INFO    |PktHandler    |1  |Dropping client 9258 because of ping timeout 19 0 0
+2024-03-18 11:30:41.818338|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2024-03-18 11:30:41.818338|INFO    |PktHandler    |1  |Dropping client 9267 because of resend timeout
+2024-03-18 11:31:21.073943|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2024-03-18 11:31:21.073943|INFO    |PktHandler    |1  |Dropping client 9268 because of resend timeout
+2024-03-18 11:33:54.838547|INFO    |PktHandler    |1  |Dropping client 9269 because of ping timeout 19 0 0
+2024-03-18 11:39:34.296699|INFO    |PktHandler    |1  |Dropping client 9270 because of ping timeout 19 0 0
+2024-03-18 11:54:55.933755|INFO    |PktHandler    |1  |Dropping client 9271 because of ping timeout 19 0 0
+2024-03-18 11:58:49.433842|INFO    |PktHandler    |1  |Dropping client 9273 because of ping timeout 19 0 0
+2024-03-18 14:20:53.264415|INFO    |PktHandler    |1  |Dropping client 9281 because of ping timeout 19 0 0
+2024-03-18 14:53:06.888904|INFO    |PktHandler    |1  |Dropping client 9276 because of ping timeout 19 0 0
+2024-03-18 14:58:31.359731|INFO    |PktHandler    |1  |Dropping client 9274 because of ping timeout 19 0 0
+2024-03-19 09:25:52.113498|INFO    |PktHandler    |1  |Dropping client 9287 because of ping timeout 19 0 0
+2024-03-19 11:12:03.630958|INFO    |PktHandler    |1  |Dropping client 9291 because of ping timeout 19 0 0
+2024-03-20 11:17:58.932446|INFO    |PktHandler    |1  |Dropping client 9311 because of ping timeout 19 0 0
+2024-03-20 14:49:40.256288|INFO    |PktHandler    |1  |Dropping client 9322 because of ping timeout 19 0 0
+2024-03-21 07:51:26.300794|INFO    |PktHandler    |1  |Dropping client 9330 because of ping timeout 19 0 0
+2024-03-21 11:04:17.065025|INFO    |PktHandler    |1  |Dropping client 9341 because of ping timeout 19 0 0
+2024-03-21 11:07:01.130524|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2024-03-21 11:07:01.130524|INFO    |PktHandler    |1  |Dropping client 9342 because of resend timeout
+2024-03-21 11:19:14.697187|INFO    |PktHandler    |1  |Dropping client 9343 because of ping timeout 19 0 0
+2024-03-21 14:47:54.421887|INFO    |PktHandler    |1  |Dropping client 9345 because of ping timeout 19 0 0
+2024-03-21 14:57:44.756097|INFO    |PktHandler    |1  |Dropping client 9356 because of ping timeout 19 0 0
+2024-03-21 15:23:38.739906|INFO    |PktHandler    |1  |Dropping client 9344 because of ping timeout 19 0 0
+2024-03-22 11:10:26.386242|INFO    |PktHandler    |1  |Dropping client 9360 because of ping timeout 19 0 0
+2024-03-22 11:19:52.002618|INFO    |PktHandler    |1  |Dropping client 9368 because of ping timeout 19 0 0
+2024-03-22 15:25:08.335381|INFO    |PktHandler    |1  |Dropping client 9371 because of ping timeout 19 0 0
+2024-03-22 15:27:26.944825|INFO    |PktHandler    |1  |Dropping client 9381 because of ping timeout 19 0 0
+2024-03-22 15:31:40.157797|INFO    |PktHandler    |1  |Dropping client 9370 because of ping timeout 19 0 0
+2024-03-23 03:40:16.187201|INFO    |PktHandler    |1  |Dropping client 9385 because of ping timeout 19 0 0
+2024-03-23 06:03:59.730765|INFO    |PktHandler    |1  |Dropping client 9392 because of ping timeout 19 0 0
+2024-03-23 06:07:33.044205|INFO    |PktHandler    |1  |Dropping client 9393 because of ping timeout 19 0 0
+2024-03-23 07:49:23.012871|INFO    |PktHandler    |1  |Dropping client 9399 because of ping timeout 19 0 0
+2024-03-23 13:29:35.720783|INFO    |PktHandler    |1  |Dropping client 9414 because of ping timeout 19 0 0
+2024-03-23 13:31:46.629012|INFO    |PktHandler    |1  |Dropping client 9415 because of ping timeout 19 0 0
+2024-03-23 13:46:50.816710|INFO    |PktHandler    |1  |Dropping client 9418 because of ping timeout 19 0 0
+2024-03-23 13:50:04.895754|INFO    |PktHandler    |1  |Dropping client 9421 because of ping timeout 19 0 0
+2024-03-23 14:00:47.300273|INFO    |PktHandler    |1  |Dropping client 9422 because of ping timeout 19 0 0
+2024-03-23 14:01:44.731944|INFO    |PktHandler    |1  |Dropping client 9423 because of ping timeout 19 0 0
+2024-03-23 14:02:26.395998|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2024-03-23 14:02:26.395998|INFO    |PktHandler    |1  |Dropping client 9424 because of resend timeout
+2024-03-23 15:12:02.954248|INFO    |PktHandler    |1  |Dropping client 9426 because of ping timeout 19 0 0
+2024-03-24 09:24:23.354997|INFO    |PktHandler    |1  |Dropping client 9439 because of ping timeout 19 0 0
+2024-03-24 10:27:36.745676|INFO    |PktHandler    |1  |Dropping client 9445 because of ping timeout 19 0 0
+2024-03-24 13:00:58.208656|INFO    |PktHandler    |1  |Dropping client 9453 because of ping timeout 19 0 0
+2024-03-24 13:05:05.068000|INFO    |PktHandler    |1  |Dropping client 9465 because of ping timeout 19 0 0
+2024-03-24 13:06:54.986007|INFO    |PktHandler    |1  |Dropping client 9466 because of ping timeout 19 0 0
+2024-03-24 14:44:51.307563|INFO    |PktHandler    |1  |Dropping client 9448 because of ping timeout 19 0 0
+2024-03-24 17:41:30.211277|INFO    |PktHandler    |1  |Dropping client 9461 because of ping timeout 19 0 0
+2024-03-25 10:38:36.378910|INFO    |PktHandler    |1  |Dropping client 9480 because of ping timeout 19 0 0
+2024-03-25 13:26:56.038940|INFO    |PktHandler    |1  |Dropping client 9471 because of ping timeout 19 0 0
+2024-03-25 14:59:13.325122|INFO    |PktHandler    |1  |Dropping client 9486 because of ping timeout 19 0 0
+2024-03-26 08:39:25.275202|INFO    |PktHandler    |1  |Dropping client 9495 because of ping timeout 19 0 0
+2024-03-26 09:00:05.435524|INFO    |PktHandler    |1  |Dropping client 9499 because of ping timeout 19 0 0
+2024-03-26 13:51:35.955292|INFO    |PktHandler    |1  |Dropping client 9518 because of ping timeout 19 0 0
+2024-03-26 13:52:50.607645|INFO    |PktHandler    |1  |Dropping client 9519 because of ping timeout 19 0 0
+2024-03-27 08:20:52.146935|INFO    |PktHandler    |1  |Dropping client 9528 because of ping timeout 19 0 0
+2024-03-27 12:06:33.291161|INFO    |PktHandler    |1  |Dropping client 9526 because of ping timeout 19 0 0
+2024-03-27 14:59:12.773737|INFO    |PktHandler    |1  |Dropping client 9548 because of ping timeout 19 0 0
+2024-03-28 11:27:21.634441|INFO    |PktHandler    |1  |Dropping client 9563 because of ping timeout 19 0 0
+2024-03-28 12:26:40.611895|INFO    |PktHandler    |1  |Dropping client 9568 because of ping timeout 19 0 0
+2024-03-29 13:21:13.639112|INFO    |PktHandler    |1  |Dropping client 9600 because of ping timeout 19 0 0
+2024-03-29 14:36:56.804926|INFO    |PktHandler    |1  |Dropping client 9597 because of ping timeout 19 0 0
+2024-03-29 14:39:47.969801|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2024-03-29 14:39:47.969801|INFO    |PktHandler    |1  |Dropping client 9607 because of resend timeout
+2024-03-30 15:59:47.754036|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2024-03-30 15:59:47.754036|INFO    |PktHandler    |1  |Dropping client 9627 because of resend timeout
+2024-03-31 14:27:42.311501|INFO    |PktHandler    |1  |Dropping client 9644 because of ping timeout 19 0 0
+2024-04-02 11:25:46.491675|INFO    |PktHandler    |1  |Dropping client 9686 because of ping timeout 19 0 0
+2024-04-02 14:46:10.991590|INFO    |PktHandler    |1  |Dropping client 9705 because of ping timeout 19 0 0
+2024-04-03 08:08:31.341631|INFO    |PktHandler    |1  |Dropping client 9712 because of ping timeout 19 0 0
+2024-04-03 12:52:03.703331|INFO    |PktHandler    |1  |Dropping client 9732 because of ping timeout 19 0 0
+2024-04-03 12:54:12.451469|INFO    |PktHandler    |1  |Dropping client 9733 because of ping timeout 19 0 0
+2024-04-03 14:54:32.110926|INFO    |PktHandler    |1  |Dropping client 9734 because of ping timeout 19 0 0
+2024-04-03 15:08:31.498834|INFO    |PktHandler    |1  |Dropping client 9741 because of ping timeout 19 0 0
+2024-04-04 07:44:10.681016|INFO    |PktHandler    |1  |Dropping client 9752 because of ping timeout 19 0 0
+2024-04-04 10:48:36.667537|INFO    |PktHandler    |1  |Dropping client 9757 because of ping timeout 19 0 0
+2024-04-04 10:51:59.943012|INFO    |PktHandler    |1  |Dropping client 9758 because of ping timeout 19 0 0
+2024-04-04 10:52:29.576818|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2024-04-04 10:52:29.576818|INFO    |PktHandler    |1  |Dropping client 9759 because of resend timeout
+2024-04-04 11:52:02.485342|INFO    |PktHandler    |1  |Dropping client 9760 because of ping timeout 19 0 0
+2024-04-04 11:52:30.561542|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2024-04-04 11:52:30.561542|INFO    |PktHandler    |1  |Dropping client 9761 because of resend timeout
+2024-04-04 12:32:10.904889|INFO    |PktHandler    |1  |Dropping client 9762 because of ping timeout 19 0 0
+2024-04-04 12:40:22.293749|INFO    |PktHandler    |1  |Dropping client 9763 because of ping timeout 19 0 0
+2024-04-04 13:53:20.337665|INFO    |PktHandler    |1  |Dropping client 9767 because of ping timeout 19 0 0
+2024-04-04 14:36:38.256457|INFO    |PktHandler    |1  |Dropping client 9772 because of ping timeout 19 0 0
+2024-04-04 16:47:49.344874|INFO    |PktHandler    |1  |Dropping client 9771 because of ping timeout 19 0 0
+2024-04-04 18:27:54.843286|INFO    |PktHandler    |1  |Dropping client 9775 because of ping timeout 19 0 0
+2024-04-05 02:43:56.648772|INFO    |PktHandler    |1  |Dropping client 9779 because of ping timeout 19 0 0
+2024-04-05 07:18:10.664546|INFO    |PktHandler    |1  |Dropping client 9788 because of ping timeout 19 0 0
+2024-04-05 07:19:10.089360|INFO    |PktHandler    |1  |Dropping client 9789 because of ping timeout 19 0 0
+2024-04-05 13:51:29.024981|INFO    |PktHandler    |1  |Dropping client 9800 because of ping timeout 19 0 0
+2024-04-05 14:34:36.472355|INFO    |PktHandler    |1  |Dropping client 9808 because of ping timeout 19 0 0
+2024-04-05 16:00:00.026620|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2024-04-05 16:00:00.026620|INFO    |PktHandler    |1  |Dropping client 9798 because of resend timeout
+2024-04-06 05:09:11.882531|INFO    |PktHandler    |1  |Dropping client 9815 because of ping timeout 19 0 0
+2024-04-06 05:11:36.821054|INFO    |PktHandler    |1  |Dropping client 9816 because of ping timeout 19 0 0
+2024-04-06 05:26:32.905867|INFO    |PktHandler    |1  |Dropping client 9818 because of ping timeout 19 0 0
+2024-04-06 07:13:04.341760|INFO    |PktHandler    |1  |Dropping client 9824 because of ping timeout 19 0 0
+2024-04-06 07:21:24.111493|INFO    |PktHandler    |1  |Dropping client 9826 because of ping timeout 19 0 0

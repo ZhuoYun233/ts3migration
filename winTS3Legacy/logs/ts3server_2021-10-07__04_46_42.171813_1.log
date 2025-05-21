@@ -1,0 +1,11 @@
+2021-10-07 04:46:42.879201|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-10-07 04:46:42.879722|WARNING |VirtualServer |1  |--------------------------------------------------------
+2021-10-07 04:46:42.879722|WARNING |VirtualServer |1  |ServerAdmin privilege key created, please use the line below
+2021-10-07 04:46:42.879722|WARNING |VirtualServer |1  |token=tTCpoKlZI60RI1RPpzQo90Uvg1leKBVqKyRnYrD4
+2021-10-07 04:46:42.879722|WARNING |VirtualServer |1  |--------------------------------------------------------
+2021-10-07 04:46:50.135227|INFO    |VirtualServer |1  |client 'ZhuoYun'(id:3) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2021-10-07 04:46:50.137796|INFO    |VirtualServer |1  |client 'ZhuoYun'(id:3) used privilege key 'tTCpoKlZI60RI1RPpzQo90Uvg1leKBVqKyRnYrD4' and was added to servergroup 'Server Admin'(id:6)
+2021-10-07 04:49:08.808978|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:11068116) was added by 'ZhuoYun'(id:3) to channel 'Overwatch'(id:1)
+2021-10-07 04:49:43.672493|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-496135941) was added by 'ZhuoYun'(id:3) to channel 'Minecraft'(id:2)
+2021-10-07 04:50:15.274232|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-496135941) was added by 'ZhuoYun'(id:3) to channel 'Minecraft'(id:3)
+2021-10-07 04:51:13.440807|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-496135941) was added by 'ZhuoYun'(id:3) to channel 'Minecraft'(id:4)

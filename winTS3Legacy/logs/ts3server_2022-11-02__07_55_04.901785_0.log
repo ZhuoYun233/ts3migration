@@ -1,0 +1,8 @@
+2022-11-02 07:55:04.901785|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.6 (2021-06-09 10:22:37)
+2022-11-02 07:55:04.902757|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2012 R2 (9600) x64 (AMD or Intel) Binary: 64bit
+2022-11-02 07:55:04.902757|INFO    |ServerLibPriv |   |Using hardware aes
+2022-11-02 07:55:04.958412|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2022-11-02 07:55:04.958412|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2022-11-02 07:55:04.958412|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2022-11-02 07:55:05.013109|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2022-11-02 07:55:05.013109|CRITICAL|Accounting    |   |The default license has expired. Please use the latest server version.

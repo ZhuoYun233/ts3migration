@@ -1,0 +1,11 @@
+2021-10-10 12:26:46.752758|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-10-10 14:14:10.867174|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1774874638) was added by 'ZhuoYun'(id:3) to channel '开发区'(id:7)
+2021-10-10 14:17:48.214522|INFO    |VirtualServer |1  |channelgroup 'Bot'(id:9) was added by 'ZhuoYun'(id:3)
+2021-10-10 14:18:42.943416|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:1172203919) was added by 'ZhuoYun'(id:3) to channelgroup 'Bot'(id:9)
+2021-10-10 14:23:27.401369|INFO    |VirtualServer |1  |permission 'i_max_icon_filesize'(id:146) with values (value:81920, negated:0, skipchannel:0) was added by 'ZhuoYun'(id:3) to servergroup 'Server Admin'(id:6)
+2021-10-10 14:23:34.746012|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:242378636, negated:0, skipchannel:0) was added by 'ZhuoYun'(id:3) to servergroup 'Server Admin'(id:6)
+2021-10-10 14:24:32.621516|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-396134573) was added by 'ZhuoYun'(id:3) to channelgroup 'Channel Admin'(id:5)
+2021-10-10 14:24:59.445764|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Bot'(id:9) by client 'ZhuoYun'(id:3) in channel '开发区'(id:7)
+2021-10-10 14:25:05.911633|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to servergroup 'Normal'(id:7) by client 'ZhuoYun'(id:3)
+2021-10-10 14:25:12.233200|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was removed from servergroup 'Server Admin'(id:6) by client 'ZhuoYun'(id:3)
+2021-10-10 14:40:00.237075|INFO    |VirtualServer |1  |client 'MusicBot'(id:5) was added to channelgroup 'Bot'(id:9) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)

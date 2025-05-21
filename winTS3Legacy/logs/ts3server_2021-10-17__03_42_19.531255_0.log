@@ -1,0 +1,520 @@
+2021-10-17 03:42:19.531255|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.6 (2021-06-09 10:22:37)
+2021-10-17 03:42:19.546868|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2012 R2 (9600) x64 (AMD or Intel) Binary: 64bit
+2021-10-17 03:42:19.546868|INFO    |ServerLibPriv |   |Using hardware aes
+2021-10-17 03:42:19.546868|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2021-10-17 03:42:19.546868|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2021-10-17 03:42:19.546868|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2021-10-17 03:42:19.578115|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2021-10-17 03:42:19.578115|INFO    |Accounting    |   |Licensing Information
+2021-10-17 03:42:19.578115|INFO    |Accounting    |   |licensed to       : Anonymous
+2021-10-17 03:42:19.578115|INFO    |Accounting    |   |type              : No License
+2021-10-17 03:42:19.578115|INFO    |Accounting    |   |starting date     : Thu Oct  1 00:00:00 2020
+2021-10-17 03:42:19.578115|INFO    |Accounting    |   |ending date       : Tue Nov  1 00:00:00 2022
+2021-10-17 03:42:19.578115|INFO    |Accounting    |   |max virtualservers: 1
+2021-10-17 03:42:19.578115|INFO    |Accounting    |   |max slots         : 32
+2021-10-17 03:42:22.031298|INFO    |              |   |Puzzle precompute time: 2444
+2021-10-17 03:42:22.031298|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2021-10-17 03:42:22.031298|INFO    |Query         |   |Using a query thread pool size of 2
+2021-10-17 03:42:22.078206|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2021-10-17 03:42:22.078206|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2021-10-17 03:42:22.078206|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2021-10-17 03:42:22.078206|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2021-10-17 04:46:47.870440|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-18 04:46:49.505733|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-19 04:46:50.738737|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-20 04:46:52.542531|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-21 04:46:54.190511|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-22 04:46:55.807642|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-22 04:54:08.958820|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2021-10-22 05:27:11.370993|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2021-10-22 05:27:11.370993|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2021-10-22 05:27:11.386615|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2021-10-22 06:00:24.320093|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2021-10-23 04:46:56.661556|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-24 04:46:57.869578|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-25 04:46:59.209027|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-26 04:47:01.194605|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-27 04:47:01.958274|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-28 04:47:03.187202|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-29 04:47:04.019639|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-30 04:47:05.374015|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-10-31 04:47:06.575065|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-01 00:00:19.565143|INFO    |VirtualSvrMgr |   |executing monthly interval
+2021-11-01 00:00:19.565143|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2021-11-01 04:47:07.228920|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-02 04:47:08.705056|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-03 04:47:09.559619|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-04 04:47:12.114823|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-05 04:47:13.155513|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-06 04:47:13.758477|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-07 04:47:14.857080|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-08 04:47:15.651062|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-09 04:47:16.593852|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-10 04:47:18.447261|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-11 04:47:19.537005|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-12 04:47:20.576355|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-13 04:47:21.375621|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-14 04:47:22.572552|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-15 04:47:23.575562|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-16 04:47:24.377154|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-17 04:47:26.656686|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-18 04:47:27.399667|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-19 04:47:28.588264|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-20 04:47:30.422872|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-21 04:47:32.224923|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-22 04:47:33.071669|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-23 04:47:34.685088|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-24 04:47:36.560309|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-25 04:47:37.531121|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-26 04:47:38.793856|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-27 04:47:39.648564|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-28 04:47:40.644663|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-29 04:47:41.691058|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-11-30 04:47:42.457236|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-01 00:00:19.576528|INFO    |VirtualSvrMgr |   |executing monthly interval
+2021-12-01 00:00:19.576528|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2021-12-01 04:47:43.575797|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-02 04:47:44.449494|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-03 04:47:45.859220|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-04 04:47:49.179952|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-05 04:47:51.047323|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-06 04:47:56.080018|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-07 04:47:56.860444|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-08 04:48:01.905411|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-09 04:48:02.955998|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-10 04:48:04.652859|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-11 04:48:07.642045|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-12 04:48:11.174290|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-13 04:48:12.103212|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-14 04:48:15.473616|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-15 04:48:17.544312|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-16 04:48:18.193178|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-17 04:48:19.321899|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-18 04:48:20.426935|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-19 04:48:21.264422|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-20 04:48:22.174993|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-21 04:48:23.326201|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-22 04:48:24.191529|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-23 04:48:24.911472|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-24 04:48:25.873749|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-25 04:48:27.173237|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-26 04:48:28.896448|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-27 04:48:29.842109|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-28 04:48:30.798634|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-28 11:24:45.139313|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2021-12-29 04:48:31.469509|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-29 12:05:19.925051|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:21.034437|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:22.112561|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:23.206332|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:24.300051|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:25.393814|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:26.422113|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:27.433353|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:28.433822|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:29.445547|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:30.445542|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:31.453348|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:32.511961|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:33.605717|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:34.699461|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:35.793199|ERROR   |UDPServers    |   |当该操作在进行中，由于保持活动的操作检测到一个故障，该连接中断。
+2021-12-29 12:05:36.902581|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:37.980712|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:39.074455|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:40.168210|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:41.261957|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:42.355701|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:43.449454|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:44.543232|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:45.636957|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:46.730700|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:47.840082|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:48.918208|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-29 12:05:50.011948|ERROR   |UDPServers    |   |不能访问网络位置。有关网络排除故障的信息，请参阅 Windows 帮助。
+2021-12-30 04:48:32.502000|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-31 04:48:33.916952|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2021-12-31 07:48:39.046236|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2021-12-31 07:48:40.003256|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2021-12-31 07:48:43.003263|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-01 00:00:19.577272|INFO    |VirtualSvrMgr |   |executing monthly interval
+2022-01-01 00:00:19.577272|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2022-01-01 04:48:34.254700|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-01 09:34:06.682166|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-01 13:20:14.857880|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-01 13:20:14.873516|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-02 04:48:35.004068|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-03 04:48:36.119991|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-04 04:48:38.035489|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-04 11:54:35.786831|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-04 11:54:35.880578|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-04 11:54:38.955779|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-04 11:54:39.961617|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-05 04:48:38.921714|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-06 00:51:12.180886|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-06 04:48:40.811128|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-07 04:48:41.508972|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-08 04:48:42.413323|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-09 04:48:44.026480|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-09 05:02:45.287681|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-10 04:48:46.188675|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-10 14:57:39.054820|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-10 14:57:39.054820|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 04:48:46.867413|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-11 13:23:29.565980|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:29.565980|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:30.112857|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:30.300360|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:30.847234|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:31.878477|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:31.878477|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:31.878477|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:31.878477|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:31.878477|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:33.456608|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:34.347232|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-11 13:23:36.409726|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-12 04:48:48.284818|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-13 04:48:49.295522|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-13 11:20:29.174010|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:39.789959|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:40.180576|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:41.353036|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:44.071189|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:44.664947|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:47.852444|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:48.633695|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:49.977438|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:50.414942|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:50.821178|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:51.336810|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:55.211803|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:55.336805|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:55.633693|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:55.914935|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:56.836802|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 03:20:57.618053|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-14 04:48:50.339653|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-15 04:48:51.220773|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-15 06:54:50.830213|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-01-16 04:48:52.208872|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-17 04:48:53.108015|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-18 04:48:54.666026|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-19 04:48:55.452682|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-20 04:48:56.585802|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-21 04:48:57.513409|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-22 04:48:58.423203|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-23 04:48:59.146706|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-24 04:49:01.969523|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-25 04:49:02.774487|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-26 04:49:03.589930|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-27 04:49:04.317618|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-28 03:46:06.373293|INFO    |Query         |   |query from 1430 180.141.174.173:56839 attempted to login with account "root" and failed!
+2022-01-28 03:46:06.404505|INFO    |Query         |   |query from 1430 180.141.174.173:56839 attempted to login with account "root" and failed!
+2022-01-28 03:46:06.451393|INFO    |Query         |   |query from 1430 180.141.174.173:56839 attempted to login with account "root" and failed!
+2022-01-28 03:56:28.749852|INFO    |Query         |   |query from 1458 180.141.174.173:49649 attempted to login with account "root" and failed!
+2022-01-28 03:56:28.781089|INFO    |Query         |   |query from 1458 180.141.174.173:49649 attempted to login with account "root" and failed!
+2022-01-28 03:56:28.827967|INFO    |Query         |   |query from 1458 180.141.174.173:49649 attempted to login with account "root" and failed!
+2022-01-28 04:49:05.036021|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-29 04:49:05.840738|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-30 04:49:06.596687|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-01-31 04:49:07.411280|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-01 00:00:19.564429|INFO    |VirtualSvrMgr |   |executing monthly interval
+2022-02-01 00:00:19.564429|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2022-02-01 04:11:03.286507|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-01 04:11:03.302132|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-01 04:49:08.381077|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-02 04:49:09.217519|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-03 04:49:09.945713|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-04 04:49:10.787306|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-05 04:49:11.659895|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-06 04:49:12.597295|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-07 04:49:13.494833|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-08 04:49:14.750199|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-09 04:49:15.490886|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-10 04:49:16.704955|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-11 04:49:17.595972|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-12 04:49:18.557520|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-13 04:49:21.430773|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-13 06:54:22.967282|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-14 04:49:22.531843|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-15 04:49:23.233724|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-16 04:49:25.698326|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-17 04:49:27.605809|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-18 04:49:28.903630|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-19 04:49:29.933330|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-19 15:46:26.384487|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-20 02:59:04.855222|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-20 02:59:04.855222|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-20 03:30:21.355767|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-20 04:03:15.358399|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-20 04:49:31.030191|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-20 13:33:54.829284|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-20 13:33:54.829284|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-21 04:49:35.108792|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-22 04:49:36.006096|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-23 01:28:53.610117|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-23 02:29:34.736626|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-23 04:49:37.236431|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-23 10:40:30.588524|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-23 10:40:30.588524|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-23 11:59:39.595333|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 01:51:28.234988|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 01:51:28.256466|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 01:51:28.261345|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 02:15:31.434356|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 02:15:31.434356|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 02:15:31.434356|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 04:18:08.445318|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 04:18:08.445318|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 04:18:08.445318|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 04:18:08.445318|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 04:43:39.750819|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 04:43:39.750819|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 04:49:43.588395|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-24 05:49:30.278917|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 05:49:30.278917|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 06:06:20.938229|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 09:29:57.925804|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 09:29:57.925804|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 09:29:57.925804|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 09:29:57.925804|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 11:50:43.433066|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-24 11:50:43.433066|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-25 04:49:53.018859|INFO    |ServerLibPriv |   |failed to download revocation list - count: 1
+2022-02-25 07:49:54.624540|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-26 07:49:55.482390|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-26 14:07:19.900379|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:28.221641|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:28.424767|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:28.424767|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:28.424767|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:28.424767|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:29.284126|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:29.393500|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:30.049759|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:32.018519|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:33.549751|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:34.097607|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:36.394486|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:38.878854|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:42.878850|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-26 14:07:42.957010|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-27 07:49:56.663744|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-02-27 10:39:31.560108|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-27 10:39:31.560108|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-27 10:39:31.560108|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-27 10:39:31.560108|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-27 10:42:58.539425|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-27 10:42:58.539425|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-27 10:42:58.539425|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-27 10:42:58.539425|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-27 10:42:58.539425|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-02-28 07:49:57.803307|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-01 00:00:19.575485|INFO    |VirtualSvrMgr |   |executing monthly interval
+2022-03-01 00:00:19.575485|INFO    |VirtualSvrMgr |   |reset virtualserver traffic statistics
+2022-03-01 07:50:03.480061|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-02 07:50:05.330068|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-03 07:50:06.118717|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-04 07:50:06.840479|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-04 16:59:44.782865|INFO    |Query         |   |query from 1999 45.9.20.25:19454 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-04 17:03:03.483814|INFO    |Query         |   |query from 2000 45.9.20.73:42514 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-04 18:14:10.610815|INFO    |Query         |   |query from 2002 45.9.20.73:53086 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-04 18:14:51.914508|INFO    |Query         |   |query from 2003 45.9.20.25:26420 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-04 18:20:47.748284|INFO    |Query         |   |query from 2004 193.169.255.199:13856 attempted to login with account "PgrL2xPG2xcFo5FLogh_" and failed!
+2022-03-04 18:20:51.029519|INFO    |Query         |   |query from 2004 193.169.255.199:13856 attempted to login with account "PgrL2xPG2xcFo5FLogh_" and failed!
+2022-03-04 18:20:54.310762|INFO    |Query         |   |query from 2004 193.169.255.199:13856 attempted to login with account "PgrL2xPG2xcFo5FLogh_" and failed!
+2022-03-04 19:09:51.707683|INFO    |Query         |   |query from 2006 176.111.173.44:37662 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-04 19:21:50.534376|INFO    |Query         |   |query from 2007 45.9.20.25:26762 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-04 19:22:36.918116|INFO    |Query         |   |query from 2008 45.9.20.73:53936 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-04 20:26:57.624854|INFO    |Query         |   |query from 2010 45.9.20.25:34076 attempted to login with account "guest" and failed!
+2022-03-04 20:33:08.718226|INFO    |Query         |   |query from 2011 45.9.20.73:43416 attempted to login with account "admin" and failed!
+2022-03-04 21:33:51.900264|INFO    |Query         |   |query from 2012 45.9.20.25:46474 attempted to login with account "guest" and failed!
+2022-03-04 21:44:50.050523|INFO    |Query         |   |query from 2013 45.9.20.73:39704 attempted to login with account "admin" and failed!
+2022-03-04 22:38:47.279428|INFO    |Query         |   |query from 2014 45.9.20.25:4628 attempted to login with account "guest" and failed!
+2022-03-04 22:57:01.495894|INFO    |Query         |   |query from 2015 45.9.20.73:60844 attempted to login with account "admin" and failed!
+2022-03-04 23:27:30.181643|INFO    |Query         |   |query from 2017 176.111.173.44:60090 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-04 23:44:01.975674|INFO    |Query         |   |query from 2018 45.9.20.25:18276 attempted to login with account "admin" and failed!
+2022-03-05 00:09:24.576148|INFO    |Query         |   |query from 2019 45.9.20.73:41856 attempted to login with account "admin" and failed!
+2022-03-05 00:50:24.555176|INFO    |Query         |   |query from 2020 45.9.20.25:63686 attempted to login with account "admin" and failed!
+2022-03-05 01:14:58.453337|INFO    |Query         |   |query from 2021 193.169.255.199:54112 attempted to login with account "root" and failed!
+2022-03-05 01:15:02.940662|INFO    |Query         |   |query from 2021 193.169.255.199:54112 attempted to login with account "root" and failed!
+2022-03-05 01:15:06.206317|INFO    |Query         |   |query from 2021 193.169.255.199:54112 attempted to login with account "root" and failed!
+2022-03-05 01:21:19.795925|INFO    |Query         |   |query from 2022 45.9.20.73:43240 attempted to login with account "admin" and failed!
+2022-03-05 01:57:01.664183|INFO    |Query         |   |query from 2023 45.9.20.25:45790 attempted to login with account "admin" and failed!
+2022-03-05 02:29:28.532566|INFO    |Query         |   |query from 2026 45.9.20.73:49268 attempted to login with account "admin" and failed!
+2022-03-05 03:04:44.942818|INFO    |Query         |   |query from 2027 45.9.20.25:30730 attempted to login with account "admin" and failed!
+2022-03-05 03:40:26.174228|INFO    |Query         |   |query from 2028 45.9.20.73:33168 attempted to login with account "support" and failed!
+2022-03-05 03:45:21.875207|INFO    |Query         |   |query from 2030 176.111.173.44:38680 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-05 04:14:09.049589|INFO    |Query         |   |query from 2031 45.9.20.25:17304 attempted to login with account "admin" and failed!
+2022-03-05 04:52:08.684163|INFO    |Query         |   |query from 2032 45.9.20.73:33798 attempted to login with account "support" and failed!
+2022-03-05 05:22:39.252041|INFO    |Query         |   |query from 2033 45.9.20.25:8202 attempted to login with account "admin" and failed!
+2022-03-05 06:00:05.402477|INFO    |Query         |   |query from 2034 45.9.20.73:33220 attempted to login with account "support" and failed!
+2022-03-05 06:31:15.033540|INFO    |Query         |   |query from 2035 45.9.20.25:51806 attempted to login with account "ftp" and failed!
+2022-03-05 07:10:09.136929|INFO    |Query         |   |query from 2036 45.9.20.73:32968 attempted to login with account "guest" and failed!
+2022-03-05 07:29:13.647741|INFO    |Query         |   |query from 2037 193.169.255.199:31756 attempted to login with account "support" and failed!
+2022-03-05 07:29:16.913372|INFO    |Query         |   |query from 2037 193.169.255.199:31756 attempted to login with account "support" and failed!
+2022-03-05 07:29:20.163356|INFO    |Query         |   |query from 2037 193.169.255.199:31756 attempted to login with account "support" and failed!
+2022-03-05 07:40:33.618837|INFO    |Query         |   |query from 2038 45.9.20.25:37146 attempted to login with account "ftp" and failed!
+2022-03-05 07:50:07.544018|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-05 08:10:11.965992|INFO    |Query         |   |query from 2039 176.111.173.44:59810 attempted to login with account "admin" and failed!
+2022-03-05 08:20:40.001532|INFO    |Query         |   |query from 2040 45.9.20.73:50164 attempted to login with account "guest" and failed!
+2022-03-05 08:48:33.418095|INFO    |Query         |   |query from 2041 45.9.20.25:28756 attempted to login with account "ftp" and failed!
+2022-03-05 09:28:09.987475|INFO    |Query         |   |query from 2042 45.9.20.73:41794 attempted to login with account "guest" and failed!
+2022-03-05 09:56:45.479124|INFO    |Query         |   |query from 2044 45.9.20.25:65300 attempted to login with account "root" and failed!
+2022-03-05 10:38:12.525917|INFO    |Query         |   |query from 2045 45.9.20.73:54094 attempted to login with account "ftp" and failed!
+2022-03-05 11:06:09.726492|INFO    |Query         |   |query from 2046 45.9.20.25:41090 attempted to login with account "root" and failed!
+2022-03-05 11:49:26.279979|INFO    |Query         |   |query from 2047 45.9.20.73:39348 attempted to login with account "ftp" and failed!
+2022-03-05 12:14:12.428031|INFO    |Query         |   |query from 2048 45.9.20.25:25798 attempted to login with account "root" and failed!
+2022-03-05 12:33:46.048484|INFO    |Query         |   |query from 2049 176.111.173.44:49902 attempted to login with account "admin" and failed!
+2022-03-05 12:57:30.110784|INFO    |Query         |   |query from 2050 45.9.20.73:58436 attempted to login with account "ftp" and failed!
+2022-03-05 13:22:33.856583|INFO    |Query         |   |query from 2051 193.169.255.199:41858 attempted to login with account "admin" and failed!
+2022-03-05 13:22:37.122199|INFO    |Query         |   |query from 2051 193.169.255.199:41858 attempted to login with account "admin" and failed!
+2022-03-05 13:22:40.387823|INFO    |Query         |   |query from 2051 193.169.255.199:41858 attempted to login with account "admin" and failed!
+2022-03-05 13:23:01.064557|INFO    |Query         |   |query from 2053 45.9.20.25:6112 attempted to login with account "user" and failed!
+2022-03-05 14:08:06.397107|INFO    |Query         |   |query from 2054 45.9.20.73:59576 attempted to login with account "root" and failed!
+2022-03-05 14:33:21.503179|INFO    |Query         |   |query from 2057 45.9.20.25:2598 attempted to login with account "user" and failed!
+2022-03-05 15:19:14.272132|INFO    |Query         |   |query from 2058 45.9.20.73:57866 attempted to login with account "root" and failed!
+2022-03-05 15:41:56.125903|INFO    |Query         |   |query from 2059 45.9.20.25:63062 attempted to login with account "user" and failed!
+2022-03-05 16:26:56.588691|INFO    |Query         |   |query from 2060 45.9.20.73:55292 attempted to login with account "root" and failed!
+2022-03-05 16:51:11.621813|INFO    |Query         |   |query from 2061 45.9.20.25:8284 attempted to login with account "mail" and failed!
+2022-03-05 16:55:40.043548|INFO    |Query         |   |query from 2062 176.111.173.44:42334 attempted to login with account "admin" and failed!
+2022-03-05 18:02:00.263935|INFO    |Query         |   |query from 2064 45.9.20.25:49200 attempted to login with account "mail" and failed!
+2022-03-05 18:52:28.381890|INFO    |Query         |   |query from 2065 45.9.20.73:35890 attempted to login with account "user" and failed!
+2022-03-05 19:11:20.960173|INFO    |Query         |   |query from 2066 45.9.20.25:29648 attempted to login with account "mail" and failed!
+2022-03-05 20:01:47.787957|INFO    |Query         |   |query from 2068 45.9.20.73:38928 attempted to login with account "user" and failed!
+2022-03-05 20:19:15.734474|INFO    |Query         |   |query from 2069 176.111.173.242:56424 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-05 20:20:05.396541|INFO    |Query         |   |query from 2070 45.9.20.25:54748 attempted to login with account "support" and failed!
+2022-03-05 21:12:19.402031|INFO    |Query         |   |query from 2071 45.9.20.73:56378 attempted to login with account "mail" and failed!
+2022-03-05 21:30:47.311310|INFO    |Query         |   |query from 2072 45.9.20.25:28582 attempted to login with account "support" and failed!
+2022-03-05 22:23:17.432176|INFO    |Query         |   |query from 2074 45.9.20.73:55306 attempted to login with account "mail" and failed!
+2022-03-05 22:39:37.437145|INFO    |Query         |   |query from 2075 45.9.20.25:18122 attempted to login with account "support" and failed!
+2022-03-05 23:01:31.368004|INFO    |Query         |   |query from 2076 176.111.173.44:49318 attempted to login with account "admin" and failed!
+2022-03-05 23:30:55.854298|INFO    |Query         |   |query from 2077 45.9.20.73:52616 attempted to login with account "mail" and failed!
+2022-03-06 00:18:38.998733|INFO    |Query         |   |query from 2079 176.111.173.242:47242 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-06 00:51:04.678255|INFO    |Query         |   |query from 2081 193.169.255.199:46224 attempted to login with account "mindy" and failed!
+2022-03-06 00:51:07.943880|INFO    |Query         |   |query from 2081 193.169.255.199:46224 attempted to login with account "username" and failed!
+2022-03-06 00:51:11.209493|INFO    |Query         |   |query from 2081 193.169.255.199:46224 attempted to login with account "ubnt" and failed!
+2022-03-06 04:16:29.681059|INFO    |Query         |   |query from 2082 176.111.173.242:58440 attempted to login with account "userPgrL2xPG2xcFo5FLogh_wasadmin" and failed!
+2022-03-06 05:12:38.454542|INFO    |Query         |   |query from 2083 176.111.173.44:38354 attempted to login with account "admin" and failed!
+2022-03-06 07:50:09.911014|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-06 08:18:00.214380|INFO    |Query         |   |query from 2084 176.111.173.242:38936 attempted to login with account "user" and failed!
+2022-03-06 10:12:41.593086|INFO    |Query         |   |query from 2093 176.111.173.44:45746 attempted to login with account "admin" and failed!
+2022-03-06 10:48:43.531957|INFO    |Query         |   |query from 2094 193.169.255.199:17756 attempted to login with account "RPM" and failed!
+2022-03-06 10:48:46.781941|INFO    |Query         |   |query from 2094 193.169.255.199:17756 attempted to login with account "admin" and failed!
+2022-03-06 10:48:50.047567|INFO    |Query         |   |query from 2094 193.169.255.199:17756 attempted to login with account "admin" and failed!
+2022-03-06 12:17:00.045848|INFO    |Query         |   |query from 2095 176.111.173.242:51338 attempted to login with account "user" and failed!
+2022-03-06 14:58:26.659635|INFO    |Query         |   |query from 2100 176.111.173.44:52904 attempted to login with account "ftp" and failed!
+2022-03-06 15:08:16.524066|INFO    |Query         |   |query from 2101 45.9.20.73:46900 attempted to login with account "marketing" and failed!
+2022-03-06 15:32:48.253371|INFO    |Query         |   |query from 2102 45.9.20.25:9504 attempted to login with account "oracle" and failed!
+2022-03-06 16:13:47.653756|INFO    |Query         |   |query from 2103 176.111.173.242:35200 attempted to login with account "user" and failed!
+2022-03-06 16:21:20.800937|INFO    |Query         |   |query from 2104 45.9.20.73:38026 attempted to login with account "admin" and failed!
+2022-03-06 16:52:27.925524|INFO    |Query         |   |query from 2106 45.9.20.25:55638 attempted to login with account "root" and failed!
+2022-03-06 17:34:12.209941|INFO    |Query         |   |query from 2107 45.9.20.73:46038 attempted to login with account "ftp" and failed!
+2022-03-06 18:05:50.932176|INFO    |Query         |   |query from 2108 45.9.20.25:55622 attempted to login with account "root" and failed!
+2022-03-06 18:45:48.143153|INFO    |Query         |   |query from 2109 45.9.20.73:52216 attempted to login with account "ftp" and failed!
+2022-03-06 19:16:16.577325|INFO    |Query         |   |query from 2110 45.9.20.25:47804 attempted to login with account "root" and failed!
+2022-03-06 19:49:34.620006|INFO    |Query         |   |query from 2112 176.111.173.44:41118 attempted to login with account "ftp" and failed!
+2022-03-06 19:57:38.327714|INFO    |Query         |   |query from 2113 45.9.20.73:43980 attempted to login with account "admin" and failed!
+2022-03-06 20:09:26.382824|INFO    |Query         |   |query from 2114 193.169.255.199:18924 attempted to login with account "monitor" and failed!
+2022-03-06 20:09:29.648443|INFO    |Query         |   |query from 2114 193.169.255.199:18924 attempted to login with account "pi" and failed!
+2022-03-06 20:09:32.914061|INFO    |Query         |   |query from 2114 193.169.255.199:18924 attempted to login with account "arun" and failed!
+2022-03-06 20:11:27.874899|INFO    |Query         |   |query from 2115 176.111.173.242:42826 attempted to login with account "mail" and failed!
+2022-03-06 20:25:25.681978|INFO    |Query         |   |query from 2118 45.9.20.25:34712 attempted to login with account "root" and failed!
+2022-03-06 21:10:15.579757|INFO    |Query         |   |query from 2123 45.9.20.73:47902 attempted to login with account "ftp" and failed!
+2022-03-06 21:34:03.405352|INFO    |Query         |   |query from 2124 45.9.20.25:29976 attempted to login with account "root" and failed!
+2022-03-06 22:23:02.510850|INFO    |Query         |   |query from 2125 45.9.20.73:39282 attempted to login with account "agata" and failed!
+2022-03-06 22:43:19.097829|INFO    |Query         |   |query from 2126 45.9.20.25:14418 attempted to login with account "test" and failed!
+2022-03-06 23:36:22.202950|INFO    |Query         |   |query from 2128 45.9.20.73:56734 attempted to login with account "mike" and failed!
+2022-03-06 23:52:17.291169|INFO    |Query         |   |query from 2129 45.9.20.25:29216 attempted to login with account "uploader" and failed!
+2022-03-07 00:09:22.077597|INFO    |Query         |   |query from 2130 176.111.173.242:59188 attempted to login with account "mail" and failed!
+2022-03-07 00:15:40.432838|INFO    |Query         |   |query from 2131 176.111.173.44:55180 attempted to login with account "ftp" and failed!
+2022-03-07 00:49:17.801368|INFO    |Query         |   |query from 2132 45.9.20.73:39752 attempted to login with account "mike" and failed!
+2022-03-07 01:01:19.575270|INFO    |Query         |   |query from 2133 45.9.20.25:65300 attempted to login with account "root" and failed!
+2022-03-07 02:01:58.840073|INFO    |Query         |   |query from 2134 45.9.20.73:49878 attempted to login with account "bill" and failed!
+2022-03-07 02:11:26.088291|INFO    |Query         |   |query from 2135 45.9.20.25:57978 attempted to login with account "test" and failed!
+2022-03-07 03:13:59.849566|INFO    |Query         |   |query from 2137 45.9.20.73:53012 attempted to login with account "bill" and failed!
+2022-03-07 03:22:21.213501|INFO    |Query         |   |query from 2138 45.9.20.25:13780 attempted to login with account "test" and failed!
+2022-03-07 04:06:55.602148|INFO    |Query         |   |query from 2139 176.111.173.242:36908 attempted to login with account "mail" and failed!
+2022-03-07 04:25:21.773118|INFO    |Query         |   |query from 2140 45.9.20.73:54866 attempted to login with account "john" and failed!
+2022-03-07 04:33:29.580297|INFO    |Query         |   |query from 2141 45.9.20.25:33924 attempted to login with account "john" and failed!
+2022-03-07 04:33:58.953328|INFO    |Query         |   |query from 2142 176.111.173.44:51496 attempted to login with account "admin" and failed!
+2022-03-07 05:32:31.590276|INFO    |Query         |   |query from 2143 193.169.255.199:37630 attempted to login with account "admin" and failed!
+2022-03-07 05:32:34.840267|INFO    |Query         |   |query from 2143 193.169.255.199:37630 attempted to login with account "pi" and failed!
+2022-03-07 05:32:38.090280|INFO    |Query         |   |query from 2143 193.169.255.199:37630 attempted to login with account "arun" and failed!
+2022-03-07 05:36:50.923067|INFO    |Query         |   |query from 2144 45.9.20.73:55734 attempted to login with account "john" and failed!
+2022-03-07 05:44:50.752729|INFO    |Query         |   |query from 2145 45.9.20.25:51502 attempted to login with account "john" and failed!
+2022-03-07 06:32:51.229442|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-07 06:32:51.229442|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-07 06:32:51.229442|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-07 06:32:51.229442|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-07 06:48:27.016725|INFO    |Query         |   |query from 2146 45.9.20.73:53962 attempted to login with account "test" and failed!
+2022-03-07 06:55:56.517428|INFO    |Query         |   |query from 2147 45.9.20.25:64674 attempted to login with account "bill" and failed!
+2022-03-07 07:50:10.661684|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-07 08:00:01.882951|INFO    |Query         |   |query from 2149 45.9.20.73:57914 attempted to login with account "test" and failed!
+2022-03-07 08:04:53.427609|INFO    |Query         |   |query from 2150 176.111.173.242:51116 attempted to login with account "admin" and failed!
+2022-03-07 08:07:12.391358|INFO    |Query         |   |query from 2151 45.9.20.25:17300 attempted to login with account "bill" and failed!
+2022-03-07 08:12:19.235833|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-07 08:51:47.615921|INFO    |Query         |   |query from 2152 176.111.173.44:41994 attempted to login with account "admin" and failed!
+2022-03-07 09:11:50.530221|INFO    |Query         |   |query from 2153 45.9.20.73:34356 attempted to login with account "root" and failed!
+2022-03-07 09:18:31.076860|INFO    |Query         |   |query from 2154 45.9.20.25:31764 attempted to login with account "mike" and failed!
+2022-03-07 10:23:37.955365|INFO    |Query         |   |query from 2156 45.9.20.73:45738 attempted to login with account "uploader" and failed!
+2022-03-07 10:29:46.739217|INFO    |Query         |   |query from 2157 45.9.20.25:43076 attempted to login with account "mike" and failed!
+2022-03-07 11:36:00.733422|INFO    |Query         |   |query from 2159 45.9.20.73:45010 attempted to login with account "test" and failed!
+2022-03-07 11:41:11.839602|INFO    |Query         |   |query from 2160 45.9.20.25:57658 attempted to login with account "agata" and failed!
+2022-03-07 12:00:48.366297|INFO    |Query         |   |query from 2162 176.111.173.242:47786 attempted to login with account "admin" and failed!
+2022-03-07 12:49:30.403314|INFO    |Query         |   |query from 2164 45.9.20.73:53592 attempted to login with account "root" and failed!
+2022-03-07 12:53:59.397234|INFO    |Query         |   |query from 2165 45.9.20.25:11796 attempted to login with account "ftp" and failed!
+2022-03-07 14:02:31.625781|INFO    |Query         |   |query from 2166 45.9.20.73:44882 attempted to login with account "root" and failed!
+2022-03-07 14:06:42.678373|INFO    |Query         |   |query from 2167 45.9.20.25:30328 attempted to login with account "admin" and failed!
+2022-03-07 15:14:47.063600|INFO    |Query         |   |query from 2169 45.9.20.73:58824 attempted to login with account "root" and failed!
+2022-03-07 15:18:47.165151|INFO    |Query         |   |query from 2170 45.9.20.25:62358 attempted to login with account "ftp" and failed!
+2022-03-07 15:32:54.576676|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-07 15:32:54.576676|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-07 15:32:54.576676|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-07 15:56:10.085425|INFO    |Query         |   |query from 2172 176.111.173.242:47414 attempted to login with account "admin" and failed!
+2022-03-07 16:27:25.518543|INFO    |Query         |   |query from 2175 45.9.20.73:52500 attempted to login with account "root" and failed!
+2022-03-07 16:30:32.269375|INFO    |Query         |   |query from 2176 45.9.20.25:11560 attempted to login with account "ftp" and failed!
+2022-03-07 17:40:04.366822|INFO    |Query         |   |query from 2178 45.9.20.73:40438 attempted to login with account "root" and failed!
+2022-03-07 17:42:43.658651|INFO    |Query         |   |query from 2179 45.9.20.25:14960 attempted to login with account "admin" and failed!
+2022-03-07 18:52:43.243463|INFO    |Query         |   |query from 2181 45.9.20.73:49536 attempted to login with account "oracle" and failed!
+2022-03-07 18:55:06.220877|INFO    |Query         |   |query from 2182 45.9.20.25:26454 attempted to login with account "marketing" and failed!
+2022-03-07 23:39:55.559855|INFO    |Query         |   |query from 2189 193.169.255.199:57896 attempted to login with account "admin" and failed!
+2022-03-07 23:39:58.825488|INFO    |Query         |   |query from 2189 193.169.255.199:57896 attempted to login with account "admin" and failed!
+2022-03-07 23:40:02.091103|INFO    |Query         |   |query from 2189 193.169.255.199:57896 attempted to login with account "admin" and failed!
+2022-03-07 23:48:55.515528|INFO    |Query         |   |query from 2190 176.111.173.242:33728 attempted to login with account "admin" and failed!
+2022-03-08 00:13:15.688573|INFO    |Query         |   |query from 2192 45.9.20.25:16814 attempted to login with account "deluge" and failed!
+2022-03-08 00:34:26.886837|INFO    |Query         |   |query from 2193 45.9.20.73:35270 attempted to login with account "mysql" and failed!
+2022-03-08 01:27:15.661269|INFO    |Query         |   |query from 2194 45.9.20.25:6460 attempted to login with account "demo" and failed!
+2022-03-08 01:46:43.352927|INFO    |Query         |   |query from 2195 45.9.20.73:47298 attempted to login with account "mysql" and failed!
+2022-03-08 02:34:58.796940|INFO    |Query         |   |query from 2197 45.9.20.25:50942 attempted to login with account "demo" and failed!
+2022-03-08 02:58:14.455083|INFO    |Query         |   |query from 2198 45.9.20.73:55702 attempted to login with account "mysql" and failed!
+2022-03-08 03:42:07.578079|INFO    |Query         |   |query from 2199 176.111.173.242:37468 attempted to login with account "admin" and failed!
+2022-03-08 03:44:43.028049|INFO    |Query         |   |query from 2200 45.9.20.25:41718 attempted to login with account "demo" and failed!
+2022-03-08 03:53:40.098147|INFO    |Query         |   |query from 2202 176.111.173.44:40074 attempted to login with account "!root" and failed!
+2022-03-08 04:09:32.318124|INFO    |Query         |   |query from 2203 45.9.20.73:56566 attempted to login with account "mysql" and failed!
+2022-03-08 04:52:28.304259|INFO    |Query         |   |query from 2204 45.9.20.25:26664 attempted to login with account "demo" and failed!
+2022-03-08 05:21:21.888164|INFO    |Query         |   |query from 2205 45.9.20.73:46846 attempted to login with account "mysql" and failed!
+2022-03-08 05:59:09.727790|INFO    |Query         |   |query from 2206 45.9.20.25:10060 attempted to login with account "DEMO1" and failed!
+2022-03-08 06:33:23.000782|INFO    |Query         |   |query from 2207 45.9.20.73:34558 attempted to login with account "mysql" and failed!
+2022-03-08 07:04:07.952266|INFO    |Query         |   |query from 2208 45.9.20.25:60526 attempted to login with account "DEMO2" and failed!
+2022-03-08 07:11:53.626659|INFO    |Query         |   |query from 2209 193.169.255.199:40684 attempted to login with account "admin" and failed!
+2022-03-08 07:11:56.892291|INFO    |Query         |   |query from 2209 193.169.255.199:40684 attempted to login with account "admin" and failed!
+2022-03-08 07:12:00.157926|INFO    |Query         |   |query from 2209 193.169.255.199:40684 attempted to login with account "admin" and failed!
+2022-03-08 07:35:38.230444|INFO    |Query         |   |query from 2210 176.111.173.242:35940 attempted to login with account "admin" and failed!
+2022-03-08 07:45:37.525612|INFO    |Query         |   |query from 2211 45.9.20.73:46856 attempted to login with account "mysql" and failed!
+2022-03-08 07:50:11.476611|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-08 08:10:01.699215|INFO    |Query         |   |query from 2212 45.9.20.25:48132 attempted to login with account "deploy" and failed!
+2022-03-08 08:58:07.074020|INFO    |Query         |   |query from 2213 45.9.20.73:59138 attempted to login with account "mysql" and failed!
+2022-03-08 08:59:38.034865|INFO    |Query         |   |query from 2214 176.111.173.44:36598 attempted to login with account "!root" and failed!
+2022-03-08 09:17:38.543878|INFO    |Query         |   |query from 2216 45.9.20.25:49562 attempted to login with account "deployer" and failed!
+2022-03-08 10:10:49.378513|INFO    |Query         |   |query from 2217 45.9.20.73:47642 attempted to login with account "mysql" and failed!
+2022-03-08 10:26:23.876890|INFO    |Query         |   |query from 2218 45.9.20.25:60746 attempted to login with account "desarrollo" and failed!
+2022-03-08 11:23:21.796345|INFO    |Query         |   |query from 2220 45.9.20.73:60346 attempted to login with account "mysql" and failed!
+2022-03-08 11:28:02.936816|INFO    |Query         |   |query from 2221 176.111.173.242:58226 attempted to login with account "ADMIN" and failed!
+2022-03-08 11:35:37.569302|INFO    |Query         |   |query from 2222 45.9.20.25:6050 attempted to login with account "design" and failed!
+2022-03-08 12:20:44.523238|INFO    |Query         |   |query from 2225 101.34.187.159:63446 attempted to login with account "serveradmin" and failed!
+2022-03-08 12:27:09.654743|INFO    |Query         |   |query from 2227 101.34.187.159:63643 attempted to login with account "Zhuo_Yun" and failed!
+2022-03-08 12:27:15.624457|INFO    |Query         |   |query from 2227 101.34.187.159:63643 attempted to login with account "Zhuo_Yun" and failed!
+2022-03-08 12:35:39.614210|INFO    |Query         |   |query from 2244 45.9.20.73:35938 attempted to login with account "mysql" and failed!
+2022-03-08 12:44:44.908766|INFO    |Query         |   |query from 2249 45.9.20.25:13308 attempted to login with account "dev" and failed!

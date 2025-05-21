@@ -1,0 +1,43 @@
+2022-03-08 12:59:52.733144|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 28), Error was: channel name is already in use
+2022-03-08 12:59:52.734120|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 6), Error was: invalid channel order
+2022-03-08 12:59:52.734120|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 34), Error was: invalid channel order
+2022-03-08 12:59:52.734120|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 5), Error was: invalid channel order
+2022-03-08 12:59:52.734120|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 19), Error was: invalid channel order
+2022-03-08 12:59:52.734120|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 31), Error was: invalid channel order
+2022-03-08 12:59:52.735097|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2022-03-08 13:17:51.909226|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:81352788) was added by 'Zhuo_Yun'(id:75) to channel '娱乐区'''(id:38)
+2022-03-08 13:18:25.107445|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:1172203919) was added by 'Zhuo_Yun'(id:75) to channel '娱乐/干饭区'(id:39)
+2022-03-08 13:19:02.822255|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1371591198) was added by 'Zhuo_Yun'(id:75) to channel '学习区'(id:41)
+2022-03-08 13:19:39.000915|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1243837536) was added by 'Zhuo_Yun'(id:75) to channel '18禁区'(id:43)
+2022-03-08 14:00:18.599798|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) with values (value:1) was added by 'Zhuo_Yun'(id:75) for client (id:75) and channel 'ZhuoYun的主区域'(id:18)
+2022-03-08 14:00:20.099819|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) was deleted by 'Zhuo_Yun'(id:75) for client (id:75) and channel 'ZhuoYun的主区域'(id:18)
+2022-03-08 15:04:20.874728|INFO    |PktHandler    |1  |Dropping client 12 because of ping timeout 19 0 0
+2022-03-08 15:44:16.511727|INFO    |PktHandler    |1  |Dropping client 13 because of ping timeout 19 0 0
+2022-03-09 03:44:05.355464|INFO    |VirtualServer |1  |client '侧卧睡'(id:78) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-03-09 03:44:08.089842|INFO    |VirtualServer |1  |client 'limpig'(id:51) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-03-09 13:59:42.903464|INFO    |PktHandler    |1  |Dropping client 34 because of ping timeout 19 0 0
+2022-03-09 14:11:26.931223|INFO    |PktHandler    |1  |Dropping client 38 because of ping timeout 19 0 0
+2022-03-10 04:25:36.185319|INFO    |PktHandler    |1  |Dropping client 45 because of ping timeout 19 0 0
+2022-03-10 04:57:32.768521|INFO    |PktHandler    |1  |Dropping client 47 because of ping timeout 19 0 0
+2022-03-10 04:58:34.491117|INFO    |PktHandler    |1  |Dropping client 48 because of ping timeout 19 0 0
+2022-03-10 05:01:46.326998|INFO    |PktHandler    |1  |Dropping client 49 because of ping timeout 19 0 0
+2022-03-10 09:50:56.829920|INFO    |PktHandler    |1  |Dropping client 55 because of ping timeout 19 0 0
+2022-03-10 10:28:46.644997|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'Zhuo_Yun'(id:75) to channel 'ZhuoYun的主区域'(id:18)
+2022-03-10 11:06:01.062848|INFO    |PktHandler    |1  |Dropping client 54 because of ping timeout 19 0 0
+2022-03-10 11:14:03.995977|INFO    |PktHandler    |1  |Dropping client 57 because of ping timeout 19 0 0
+2022-03-10 16:13:00.091778|INFO    |PktHandler    |1  |Dropping client 62 because of ping timeout 19 0 0
+2022-03-11 06:14:16.553993|INFO    |VirtualServer |1  |client 'seednoic'(id:101) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-03-11 08:01:56.915100|INFO    |PktHandler    |1  |Dropping client 71 because of ping timeout 19 0 0
+2022-03-11 12:21:29.316140|INFO    |PktHandler    |1  |Dropping client 81 because of ping timeout 19 0 0
+2022-03-11 13:27:17.126776|INFO    |PktHandler    |1  |Dropping client 78 because of ping timeout 19 0 0
+2022-03-12 00:53:37.091829|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1081214591) was added by 'Zhuo_Yun'(id:75) to channelgroup 'Channel Admin'(id:5)
+2022-03-12 00:53:53.201199|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1666322108) was added by 'Zhuo_Yun'(id:75) to channel 'Overwatch2'(id:21)
+2022-03-12 01:22:42.722280|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:750929927) was added by 'Zhuo_Yun'(id:75) to channel '娱乐区'(id:25)
+2022-03-12 02:37:46.135056|INFO    |PktHandler    |1  |Dropping client 93 because of ping timeout 19 0 0
+2022-03-12 03:12:08.513982|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-657143232) was added by 'Zhuo_Yun'(id:75) to channel '娱乐区'''(id:38)
+2022-03-12 04:04:03.007189|INFO    |PktHandler    |1  |Dropping client 96 because of ping timeout 19 0 0
+2022-03-12 06:03:38.729941|INFO    |PktHandler    |1  |Dropping client 100 because of ping timeout 19 0 0
+2022-03-12 06:46:32.238846|INFO    |PktHandler    |1  |Dropping client 103 because of ping timeout 19 0 0
+2022-03-12 06:52:39.090949|INFO    |PktHandler    |1  |Dropping client 105 because of ping timeout 19 0 0
+2022-03-12 08:51:57.453009|INFO    |PktHandler    |1  |Dropping client 94 because of ping timeout 19 0 0
+2022-03-12 12:31:38.700625|INFO    |VirtualServer |1  |client 'hunter1'(id:69) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)

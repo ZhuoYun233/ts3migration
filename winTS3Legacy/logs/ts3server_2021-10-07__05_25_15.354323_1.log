@@ -1,0 +1,12 @@
+2021-10-07 05:25:16.194533|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-10-07 05:41:18.528243|INFO    |VirtualServer |1  |client '圆桌骑士'(id:4) was added to servergroup 'Server Admin'(id:6) by client 'ZhuoYun'(id:3)
+2021-10-07 05:49:53.032793|INFO    |VirtualServer |1  |client '圆桌骑士'(id:4) was added to channelgroup 'Channel Admin'(id:5) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-07 05:49:57.418929|INFO    |VirtualServer |1  |client 'ZhuoYun'(id:3) was added to channelgroup 'Channel Admin'(id:5) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-07 05:58:59.713416|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-868683268) was added by 'ZhuoYun'(id:3) to channel '学习区'(id:5)
+2021-10-07 06:19:58.221899|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-635045248) was added by 'ZhuoYun'(id:3) to channel '娱乐区'(id:6)
+2021-10-07 07:37:40.279814|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Channel Admin'(id:5) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-07 07:42:45.373703|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to servergroup 'Server Admin'(id:6) by client 'ZhuoYun'(id:3)
+2021-10-07 12:57:44.649236|INFO    |VirtualServer |1  |client '尾 翼'(id:6) was added to channelgroup 'Channel Admin'(id:5) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-07 12:59:03.597078|INFO    |VirtualServer |1  |client '尾 翼'(id:6) was added to servergroup 'Server Admin'(id:6) by client 'ZhuoYun'(id:3)
+2021-10-07 12:59:17.558695|INFO    |VirtualServer |1  |client '尾 翼'(id:6) was added to servergroup 'Normal'(id:7) by client '尾 翼'(id:6)
+2021-10-07 12:59:25.459127|INFO    |VirtualServer |1  |client '尾 翼'(id:6) was removed from servergroup 'Server Admin'(id:6) by client 'ZhuoYun'(id:3)

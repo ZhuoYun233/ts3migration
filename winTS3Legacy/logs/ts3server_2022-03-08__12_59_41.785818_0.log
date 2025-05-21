@@ -1,0 +1,22 @@
+2022-03-08 12:59:41.785818|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.6 (2021-06-09 10:22:37)
+2022-03-08 12:59:41.785818|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2012 R2 (9600) x64 (AMD or Intel) Binary: 64bit
+2022-03-08 12:59:41.785818|INFO    |ServerLibPriv |   |Using hardware aes
+2022-03-08 12:59:41.788740|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2022-03-08 12:59:41.788740|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2022-03-08 12:59:41.789726|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2022-03-08 12:59:41.815120|INFO    |ServerLibPriv |   |updated server query admin password
+2022-03-08 12:59:41.830747|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2022-03-08 12:59:41.830747|INFO    |Accounting    |   |Licensing Information
+2022-03-08 12:59:41.830747|INFO    |Accounting    |   |licensed to       : Anonymous
+2022-03-08 12:59:41.830747|INFO    |Accounting    |   |type              : No License
+2022-03-08 12:59:41.830747|INFO    |Accounting    |   |starting date     : Thu Oct  1 00:00:00 2020
+2022-03-08 12:59:41.830747|INFO    |Accounting    |   |ending date       : Tue Nov  1 00:00:00 2022
+2022-03-08 12:59:41.830747|INFO    |Accounting    |   |max virtualservers: 1
+2022-03-08 12:59:41.830747|INFO    |Accounting    |   |max slots         : 32
+2022-03-08 12:59:44.567104|INFO    |              |   |Puzzle precompute time: 2720
+2022-03-08 12:59:44.567104|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2022-03-08 12:59:44.588568|INFO    |Query         |   |Using a query thread pool size of 2
+2022-03-08 12:59:44.652155|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2022-03-08 12:59:44.652155|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2022-03-08 12:59:44.652155|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2022-03-08 12:59:44.652155|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 

@@ -1,0 +1,281 @@
+2022-03-08 12:59:49.516339|INFO    |ServerLibPriv |   |TeamSpeak 3 Server 3.13.6 (2021-06-09 10:22:37)
+2022-03-08 12:59:49.516339|INFO    |ServerLibPriv |   |SystemInformation: Windows Server 2012 R2 (9600) x64 (AMD or Intel) Binary: 64bit
+2022-03-08 12:59:49.516339|INFO    |ServerLibPriv |   |Using hardware aes
+2022-03-08 12:59:49.516339|INFO    |DatabaseQuery |   |dbPlugin name:    SQLite3 plugin, Version 3, (c)TeamSpeak Systems GmbH
+2022-03-08 12:59:49.516339|INFO    |DatabaseQuery |   |dbPlugin version: 3.11.1
+2022-03-08 12:59:49.516339|INFO    |DatabaseQuery |   |checking database integrity (may take a while)
+2022-03-08 12:59:49.563232|WARNING |Accounting    |   |Unable to open licensekey.dat, falling back to limited functionality
+2022-03-08 12:59:49.563232|INFO    |Accounting    |   |Licensing Information
+2022-03-08 12:59:49.563232|INFO    |Accounting    |   |licensed to       : Anonymous
+2022-03-08 12:59:49.563232|INFO    |Accounting    |   |type              : No License
+2022-03-08 12:59:49.563232|INFO    |Accounting    |   |starting date     : Thu Oct  1 00:00:00 2020
+2022-03-08 12:59:49.563232|INFO    |Accounting    |   |ending date       : Tue Nov  1 00:00:00 2022
+2022-03-08 12:59:49.563232|INFO    |Accounting    |   |max virtualservers: 1
+2022-03-08 12:59:49.563232|INFO    |Accounting    |   |max slots         : 32
+2022-03-08 12:59:52.650124|INFO    |              |   |Puzzle precompute time: 3067
+2022-03-08 12:59:52.652091|INFO    |FileManager   |   |listening on 0.0.0.0:30033, [::]:30033
+2022-03-08 12:59:52.659904|INFO    |Query         |   |Using a query thread pool size of 2
+2022-03-08 12:59:52.735097|INFO    |Query         |   |listening for query on 0.0.0.0:10011, [::]:10011
+2022-03-08 12:59:52.735097|INFO    |Query         |   |listening for ssh query on 0.0.0.0:10022, [::]:10022
+2022-03-08 12:59:52.735097|INFO    |Query         |   |listening for http query on 0.0.0.0:10080, [::]:10080
+2022-03-08 12:59:52.736073|INFO    |CIDRManager   |   |updated query_ip_allowlist ips: 127.0.0.1/32, ::1/128, 
+2022-03-08 13:09:52.027714|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-08 13:20:15.122044|INFO    |Query         |   |query from 5 176.111.173.44:55682 attempted to login with account "$system" and failed!
+2022-03-08 13:50:33.108925|INFO    |Query         |   |query from 8 45.9.20.73:41918 attempted to login with account "mysql" and failed!
+2022-03-08 13:54:10.829448|INFO    |Query         |   |query from 9 45.9.20.25:22328 attempted to login with account "develop" and failed!
+2022-03-08 14:02:11.277182|INFO    |Query         |   |query from 10 193.169.255.199:1774 attempted to login with account "admin1" and failed!
+2022-03-08 14:02:14.527212|INFO    |Query         |   |query from 10 193.169.255.199:1774 attempted to login with account "admin1" and failed!
+2022-03-08 14:02:17.792838|INFO    |Query         |   |query from 10 193.169.255.199:1774 attempted to login with account "admin1" and failed!
+2022-03-08 15:04:25.327870|INFO    |Query         |   |query from 15 45.9.20.25:32954 attempted to login with account "developer" and failed!
+2022-03-08 15:08:09.731363|INFO    |Query         |   |query from 16 45.9.20.73:55882 attempted to login with account "mysql" and failed!
+2022-03-08 15:20:38.080405|INFO    |Query         |   |query from 19 176.111.173.242:37484 attempted to login with account "admin" and failed!
+2022-03-08 16:14:34.930635|INFO    |Query         |   |query from 22 45.9.20.25:43214 attempted to login with account "device" and failed!
+2022-03-08 16:25:39.363785|INFO    |Query         |   |query from 25 45.9.20.73:59932 attempted to login with account "mysql" and failed!
+2022-03-08 17:24:29.236150|INFO    |Query         |   |query from 30 45.9.20.25:52148 attempted to login with account "devuser" and failed!
+2022-03-08 17:43:13.840666|INFO    |Query         |   |query from 33 45.9.20.73:35326 attempted to login with account "mysql" and failed!
+2022-03-08 18:12:44.970268|INFO    |Query         |   |query from 36 176.111.173.44:49398 attempted to login with account "02" and failed!
+2022-03-08 18:33:24.083619|INFO    |Query         |   |query from 39 45.9.20.25:54296 attempted to login with account "DISKCNT" and failed!
+2022-03-08 19:01:13.274579|INFO    |Query         |   |query from 42 45.9.20.73:36368 attempted to login with account "mysql" and failed!
+2022-03-08 19:13:16.844516|INFO    |Query         |   |query from 43 176.111.173.242:36584 attempted to login with account "admin" and failed!
+2022-03-08 19:42:25.980734|INFO    |Query         |   |query from 47 45.9.20.25:53132 attempted to login with account "display" and failed!
+2022-03-08 20:19:24.487800|INFO    |Query         |   |query from 51 45.9.20.73:37330 attempted to login with account "mysql" and failed!
+2022-03-08 20:20:07.841302|INFO    |Query         |   |query from 54 193.169.255.199:59272 attempted to login with account "Admin2" and failed!
+2022-03-08 20:20:11.106929|INFO    |Query         |   |query from 54 193.169.255.199:59272 attempted to login with account "admin2" and failed!
+2022-03-08 20:20:14.373614|INFO    |Query         |   |query from 54 193.169.255.199:59272 attempted to login with account "administrador" and failed!
+2022-03-08 20:53:10.932527|INFO    |Query         |   |query from 58 45.9.20.25:60626 attempted to login with account "django" and failed!
+2022-03-08 21:38:23.665918|INFO    |Query         |   |query from 61 45.9.20.73:36994 attempted to login with account "mysql" and failed!
+2022-03-08 22:04:03.862674|INFO    |Query         |   |query from 64 45.9.20.25:2966 attempted to login with account "dms" and failed!
+2022-03-08 22:56:54.409399|INFO    |Query         |   |query from 70 45.9.20.73:35210 attempted to login with account "mysql" and failed!
+2022-03-08 23:06:45.357474|INFO    |Query         |   |query from 71 176.111.173.44:50570 attempted to login with account "1" and failed!
+2022-03-08 23:06:55.530330|INFO    |Query         |   |query from 72 176.111.173.242:35778 attempted to login with account "admin" and failed!
+2022-03-08 23:13:12.871805|INFO    |Query         |   |query from 73 45.9.20.25:5238 attempted to login with account "dni" and failed!
+2022-03-09 00:22:25.406858|INFO    |Query         |   |query from 80 45.9.20.25:10142 attempted to login with account "dns" and failed!
+2022-03-09 01:32:49.086405|INFO    |Query         |   |query from 83 45.9.20.25:19132 attempted to login with account "docker" and failed!
+2022-03-09 02:36:21.689094|INFO    |Query         |   |query from 84 45.9.20.73:59468 attempted to login with account "mysql" and failed!
+2022-03-09 02:43:12.024961|INFO    |Query         |   |query from 85 45.9.20.25:29072 attempted to login with account "docker" and failed!
+2022-03-09 03:00:31.353227|INFO    |Query         |   |query from 86 176.111.173.242:37898 attempted to login with account "admin" and failed!
+2022-03-09 03:24:30.476052|INFO    |Query         |   |query from 87 176.111.173.44:46860 attempted to login with account "12.x" and failed!
+2022-03-09 03:53:35.371948|INFO    |Query         |   |query from 88 45.9.20.25:38816 attempted to login with account "dominic" and failed!
+2022-03-09 05:04:02.632438|INFO    |Query         |   |query from 89 45.9.20.25:49926 attempted to login with account "download" and failed!
+2022-03-09 05:30:36.710361|INFO    |Query         |   |query from 90 193.169.255.199:31988 attempted to login with account "administranto" and failed!
+2022-03-09 05:30:40.007244|INFO    |Query         |   |query from 90 193.169.255.199:31988 attempted to login with account "administrateur" and failed!
+2022-03-09 05:30:43.319736|INFO    |Query         |   |query from 90 193.169.255.199:31988 attempted to login with account "ADMINISTRATOR" and failed!
+2022-03-09 06:14:40.066524|INFO    |Query         |   |query from 91 45.9.20.25:58806 attempted to login with account "dpn" and failed!
+2022-03-09 06:28:35.417445|INFO    |Query         |   |query from 92 45.9.20.73:59554 attempted to login with account "mysql" and failed!
+2022-03-09 06:51:58.284818|INFO    |Query         |   |query from 93 176.111.173.242:39436 attempted to login with account "admin" and failed!
+2022-03-09 07:24:09.073428|INFO    |Query         |   |query from 94 45.9.20.25:61820 attempted to login with account "DSA" and failed!
+2022-03-09 07:37:27.575746|INFO    |Query         |   |query from 95 176.111.173.44:44264 attempted to login with account "123" and failed!
+2022-03-09 07:50:12.864140|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-09 08:33:49.109314|INFO    |Query         |   |query from 96 45.9.20.25:60668 attempted to login with account "dspace" and failed!
+2022-03-09 09:44:56.736999|INFO    |Query         |   |query from 98 45.9.20.25:3122 attempted to login with account "dylan" and failed!
+2022-03-09 10:02:41.924741|INFO    |Query         |   |query from 99 45.9.20.73:53988 attempted to login with account "mysql" and failed!
+2022-03-09 10:18:37.982503|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 10:18:37.982503|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 10:18:37.982503|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 10:18:37.982503|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 10:45:04.182461|INFO    |Query         |   |query from 100 176.111.173.242:58836 attempted to login with account "admin" and failed!
+2022-03-09 10:49:13.719386|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 10:49:13.719386|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 10:49:13.719386|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 10:49:13.719386|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 10:55:01.516913|INFO    |Query         |   |query from 101 45.9.20.25:2368 attempted to login with account "EAdmin" and failed!
+2022-03-09 11:30:38.611361|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 11:30:38.611361|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 11:30:38.611361|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 11:30:38.611361|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-09 11:49:59.837026|INFO    |Query         |   |query from 103 176.111.173.44:41528 attempted to login with account "123" and failed!
+2022-03-09 12:04:53.160640|INFO    |Query         |   |query from 104 45.9.20.25:64694 attempted to login with account "easton" and failed!
+2022-03-09 13:16:08.858421|INFO    |Query         |   |query from 105 45.9.20.25:11526 attempted to login with account "ec2" and failed!
+2022-03-09 13:21:02.026115|INFO    |Query         |   |query from 106 45.9.20.73:50320 attempted to login with account "mysql" and failed!
+2022-03-09 14:28:45.275012|INFO    |Query         |   |query from 107 45.9.20.25:20198 attempted to login with account "ec2-user" and failed!
+2022-03-09 14:39:42.423755|INFO    |Query         |   |query from 108 176.111.173.242:53858 attempted to login with account "admin" and failed!
+2022-03-09 14:45:15.500851|INFO    |Query         |   |query from 109 193.169.255.199:24676 attempted to login with account "administrator" and failed!
+2022-03-09 14:45:19.428609|INFO    |Query         |   |query from 109 193.169.255.199:24676 attempted to login with account "Administrator" and failed!
+2022-03-09 14:45:22.709852|INFO    |Query         |   |query from 109 193.169.255.199:24676 attempted to login with account "administrator" and failed!
+2022-03-09 15:41:29.067703|INFO    |Query         |   |query from 110 45.9.20.25:24488 attempted to login with account "eclipse" and failed!
+2022-03-09 16:04:40.821335|INFO    |Query         |   |query from 111 176.111.173.44:39658 attempted to login with account "1234" and failed!
+2022-03-09 16:25:53.028331|INFO    |Query         |   |query from 112 45.9.20.73:48890 attempted to login with account "mysql" and failed!
+2022-03-09 16:54:00.947841|INFO    |Query         |   |query from 113 45.9.20.25:29648 attempted to login with account "EkExplorerUser" and failed!
+2022-03-09 18:06:27.284333|INFO    |Query         |   |query from 115 45.9.20.25:38412 attempted to login with account "elastic" and failed!
+2022-03-09 18:32:40.929603|INFO    |Query         |   |query from 116 176.111.173.242:50470 attempted to login with account "admin" and failed!
+2022-03-09 19:16:32.121945|INFO    |Query         |   |query from 117 45.9.20.73:48442 attempted to login with account "mysql" and failed!
+2022-03-09 19:19:38.638373|INFO    |Query         |   |query from 118 45.9.20.25:48356 attempted to login with account "elconix" and failed!
+2022-03-09 20:19:21.970555|INFO    |Query         |   |query from 119 176.111.173.44:36798 attempted to login with account "a" and failed!
+2022-03-09 20:32:56.978829|INFO    |Query         |   |query from 120 45.9.20.25:58326 attempted to login with account "eli" and failed!
+2022-03-09 21:46:17.429520|INFO    |Query         |   |query from 124 45.9.20.25:64390 attempted to login with account "elijah" and failed!
+2022-03-09 21:57:06.891931|INFO    |Query         |   |query from 125 45.9.20.73:43304 attempted to login with account "mysql" and failed!
+2022-03-09 22:28:16.263601|INFO    |Query         |   |query from 127 176.111.173.242:51878 attempted to login with account "admin" and failed!
+2022-03-09 22:57:48.419571|INFO    |Query         |   |query from 128 45.9.20.25:6236 attempted to login with account "email" and failed!
+2022-03-10 00:08:10.531249|INFO    |Query         |   |query from 130 193.169.255.199:57364 attempted to login with account "administrat脙露r" and failed!
+2022-03-10 00:08:13.796866|INFO    |Query         |   |query from 130 193.169.255.199:57364 attempted to login with account "administrues" and failed!
+2022-03-10 00:08:17.057617|INFO    |Query         |   |query from 130 193.169.255.199:57364 attempted to login with account "adrian" and failed!
+2022-03-10 00:10:06.146381|INFO    |Query         |   |query from 131 45.9.20.25:10022 attempted to login with account "empleado" and failed!
+2022-03-10 00:32:13.013413|INFO    |Query         |   |query from 132 45.9.20.73:39732 attempted to login with account "mythtv" and failed!
+2022-03-10 00:34:10.699612|INFO    |Query         |   |query from 133 176.111.173.44:32854 attempted to login with account "aaa" and failed!
+2022-03-10 01:21:19.359715|INFO    |Query         |   |query from 134 45.9.20.25:9572 attempted to login with account "enable" and failed!
+2022-03-10 02:21:47.571870|INFO    |Query         |   |query from 135 176.111.173.242:47508 attempted to login with account "admin" and failed!
+2022-03-10 02:32:23.169227|INFO    |Query         |   |query from 136 45.9.20.25:7476 attempted to login with account "english" and failed!
+2022-03-10 03:01:09.458894|INFO    |Query         |   |query from 137 45.9.20.73:35092 attempted to login with account "nagios" and failed!
+2022-03-10 03:44:52.411942|INFO    |Query         |   |query from 139 45.9.20.25:14042 attempted to login with account "english" and failed!
+2022-03-10 04:43:10.473406|INFO    |Query         |   |query from 140 176.111.173.44:56300 attempted to login with account "aaron" and failed!
+2022-03-10 04:57:31.690398|INFO    |Query         |   |query from 141 45.9.20.25:21164 attempted to login with account "english" and failed!
+2022-03-10 05:23:06.109193|INFO    |Query         |   |query from 142 45.9.20.73:56626 attempted to login with account "nagiosuser" and failed!
+2022-03-10 06:09:57.966096|INFO    |Query         |   |query from 144 45.9.20.25:26466 attempted to login with account "english" and failed!
+2022-03-10 06:13:01.473834|INFO    |Query         |   |query from 145 176.111.173.242:36492 attempted to login with account "admin" and failed!
+2022-03-10 07:21:09.222565|INFO    |Query         |   |query from 147 45.9.20.25:26022 attempted to login with account "EREP" and failed!
+2022-03-10 07:33:44.708177|INFO    |Query         |   |query from 149 45.9.20.73:49818 attempted to login with account "name" and failed!
+2022-03-10 07:50:13.711304|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-10 08:32:33.137950|INFO    |Query         |   |query from 158 45.9.20.25:25302 attempted to login with account "eric" and failed!
+2022-03-10 08:51:59.027666|INFO    |Query         |   |query from 159 176.111.173.44:53010 attempted to login with account "account" and failed!
+2022-03-10 09:18:27.068120|INFO    |Query         |   |query from 161 193.169.255.199:53964 attempted to login with account "agsadmin" and failed!
+2022-03-10 09:18:30.365961|INFO    |Query         |   |query from 161 193.169.255.199:53964 attempted to login with account "aiden" and failed!
+2022-03-10 09:18:33.657950|INFO    |Query         |   |query from 161 193.169.255.199:53964 attempted to login with account "ajay" and failed!
+2022-03-10 09:38:09.420429|INFO    |Query         |   |query from 162 45.9.20.73:42316 attempted to login with account "nas" and failed!
+2022-03-10 09:45:11.301892|INFO    |Query         |   |query from 163 45.9.20.25:30246 attempted to login with account "esteban" and failed!
+2022-03-10 10:04:09.981088|INFO    |Query         |   |query from 164 176.111.173.242:56400 attempted to login with account "admin" and failed!
+2022-03-10 10:57:58.690290|INFO    |Query         |   |query from 165 45.9.20.25:44574 attempted to login with account "ethan" and failed!
+2022-03-10 11:36:55.862088|INFO    |Query         |   |query from 166 45.9.20.73:39612 attempted to login with account "nathan" and failed!
+2022-03-10 12:10:37.483446|INFO    |Query         |   |query from 167 45.9.20.25:48126 attempted to login with account "ethos" and failed!
+2022-03-10 13:04:02.335205|INFO    |Query         |   |query from 170 176.111.173.44:51410 attempted to login with account "activemq" and failed!
+2022-03-10 13:23:14.239472|INFO    |Query         |   |query from 171 45.9.20.25:52904 attempted to login with account "evan" and failed!
+2022-03-10 13:30:46.040776|INFO    |Query         |   |query from 173 45.9.20.73:59656 attempted to login with account "nathaniel" and failed!
+2022-03-10 13:55:55.608775|INFO    |Query         |   |query from 174 176.111.173.242:54182 attempted to login with account "admin" and failed!
+2022-03-10 14:35:49.312058|INFO    |Query         |   |query from 175 45.9.20.25:55158 attempted to login with account "Explorer" and failed!
+2022-03-10 15:27:19.042649|INFO    |Query         |   |query from 176 45.9.20.73:35134 attempted to login with account "neo" and failed!
+2022-03-10 15:47:42.350086|INFO    |Query         |   |query from 177 45.9.20.25:54638 attempted to login with account "Ezsetup" and failed!
+2022-03-10 16:58:05.982230|INFO    |Query         |   |query from 178 45.9.20.25:41966 attempted to login with account "fal" and failed!
+2022-03-10 17:18:51.693097|INFO    |Query         |   |query from 179 176.111.173.44:45058 attempted to login with account "adam" and failed!
+2022-03-10 17:25:41.700506|INFO    |Query         |   |query from 181 45.9.20.73:41638 attempted to login with account "net" and failed!
+2022-03-10 17:47:07.264869|INFO    |Query         |   |query from 182 176.111.173.242:45134 attempted to login with account "admin" and failed!
+2022-03-10 18:09:37.714044|INFO    |Query         |   |query from 183 45.9.20.25:38556 attempted to login with account "family" and failed!
+2022-03-10 18:25:37.971109|INFO    |Query         |   |query from 184 193.169.255.199:5938 attempted to login with account "alarm" and failed!
+2022-03-10 18:25:41.221094|INFO    |Query         |   |query from 184 193.169.255.199:5938 attempted to login with account "alex" and failed!
+2022-03-10 18:25:44.486727|INFO    |Query         |   |query from 184 193.169.255.199:5938 attempted to login with account "alexander" and failed!
+2022-03-10 19:20:24.081933|INFO    |Query         |   |query from 186 45.9.20.73:38300 attempted to login with account "netapp" and failed!
+2022-03-10 19:21:23.040878|INFO    |Query         |   |query from 187 45.9.20.25:34018 attempted to login with account "fax" and failed!
+2022-03-10 20:32:01.542327|INFO    |Query         |   |query from 188 45.9.20.25:20248 attempted to login with account "FAX" and failed!
+2022-03-10 21:13:27.030516|INFO    |Query         |   |query from 190 45.9.20.73:53294 attempted to login with account "netdiag" and failed!
+2022-03-10 21:32:08.336234|INFO    |Query         |   |query from 193 176.111.173.44:56172 attempted to login with account "adm" and failed!
+2022-03-10 21:36:52.736375|INFO    |Query         |   |query from 194 176.111.173.242:36590 attempted to login with account "admin" and failed!
+2022-03-10 21:43:53.073247|INFO    |Query         |   |query from 195 45.9.20.25:14860 attempted to login with account "fax" and failed!
+2022-03-10 22:56:11.110385|INFO    |Query         |   |query from 198 45.9.20.25:12388 attempted to login with account "FAXUSER" and failed!
+2022-03-10 23:04:49.964392|INFO    |Query         |   |query from 199 45.9.20.73:51710 attempted to login with account "network" and failed!
+2022-03-11 00:07:57.505351|INFO    |Query         |   |query from 202 45.9.20.25:9470 attempted to login with account "FAXWORKS" and failed!
+2022-03-11 00:56:34.138720|INFO    |Query         |   |query from 204 45.9.20.73:53274 attempted to login with account "network" and failed!
+2022-03-11 01:20:56.974471|INFO    |Query         |   |query from 205 45.9.20.25:13284 attempted to login with account "fcweb" and failed!
+2022-03-11 01:28:06.526897|INFO    |Query         |   |query from 206 176.111.173.242:51820 attempted to login with account "admin" and failed!
+2022-03-11 01:47:15.741922|INFO    |Query         |   |query from 207 176.111.173.44:46152 attempted to login with account "adm" and failed!
+2022-03-11 02:34:39.987805|INFO    |Query         |   |query from 208 45.9.20.25:17712 attempted to login with account "federico" and failed!
+2022-03-11 02:46:22.154241|INFO    |Query         |   |query from 209 45.9.20.73:51600 attempted to login with account "network" and failed!
+2022-03-11 03:31:01.179200|INFO    |Query         |   |query from 212 193.169.255.199:23410 attempted to login with account "alfowner" and failed!
+2022-03-11 03:31:04.429195|INFO    |Query         |   |query from 212 193.169.255.199:23410 attempted to login with account "alien" and failed!
+2022-03-11 03:31:07.694817|INFO    |Query         |   |query from 212 193.169.255.199:23410 attempted to login with account "ami" and failed!
+2022-03-11 03:48:32.127526|INFO    |Query         |   |query from 213 45.9.20.25:21848 attempted to login with account "fedora" and failed!
+2022-03-11 04:30:28.716373|INFO    |Query         |   |query from 214 45.9.20.73:38412 attempted to login with account "NEVIEW" and failed!
+2022-03-11 05:01:08.986311|INFO    |Query         |   |query from 215 45.9.20.25:18814 attempted to login with account "FIELD" and failed!
+2022-03-11 05:19:23.122106|INFO    |Query         |   |query from 217 176.111.173.242:39218 attempted to login with account "admin" and failed!
+2022-03-11 06:01:35.835870|INFO    |Query         |   |query from 218 176.111.173.44:57884 attempted to login with account "admin" and failed!
+2022-03-11 06:13:50.147767|INFO    |Query         |   |query from 220 45.9.20.25:16718 attempted to login with account "fileserver" and failed!
+2022-03-11 06:19:10.307089|INFO    |Query         |   |query from 221 45.9.20.73:40930 attempted to login with account "newadmin" and failed!
+2022-03-11 07:27:58.550959|INFO    |Query         |   |query from 222 45.9.20.25:21756 attempted to login with account "fmaster" and failed!
+2022-03-11 07:50:14.895196|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-11 08:04:21.766516|INFO    |Query         |   |query from 223 45.9.20.73:60918 attempted to login with account "news" and failed!
+2022-03-11 08:42:20.776323|INFO    |Query         |   |query from 225 45.9.20.25:26364 attempted to login with account "foo" and failed!
+2022-03-11 09:11:52.986632|INFO    |Query         |   |query from 226 176.111.173.242:57194 attempted to login with account "admin" and failed!
+2022-03-11 09:53:21.553624|INFO    |Query         |   |query from 227 45.9.20.73:33644 attempted to login with account "nginx" and failed!
+2022-03-11 09:56:42.530769|INFO    |Query         |   |query from 228 45.9.20.25:29286 attempted to login with account "foobar" and failed!
+2022-03-11 10:19:57.677599|INFO    |Query         |   |query from 231 176.111.173.44:49856 attempted to login with account "admin" and failed!
+2022-03-11 11:11:10.340397|INFO    |Query         |   |query from 232 45.9.20.25:28004 attempted to login with account "forsterkning" and failed!
+2022-03-11 11:43:54.214515|INFO    |Query         |   |query from 233 45.9.20.73:56204 attempted to login with account "nicholas" and failed!
+2022-03-11 12:25:52.091361|INFO    |Query         |   |query from 236 45.9.20.25:28754 attempted to login with account "free" and failed!
+2022-03-11 12:35:16.750989|INFO    |Query         |   |query from 238 193.169.255.199:24650 attempted to login with account "ammin" and failed!
+2022-03-11 12:35:20.016630|INFO    |Query         |   |query from 238 193.169.255.199:24650 attempted to login with account "amministratore" and failed!
+2022-03-11 12:35:23.282286|INFO    |Query         |   |query from 238 193.169.255.199:24650 attempted to login with account "amsftp" and failed!
+2022-03-11 12:48:15.455331|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-11 12:48:15.455331|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-11 13:03:14.047186|INFO    |Query         |   |query from 239 176.111.173.242:40156 attempted to login with account "admin" and failed!
+2022-03-11 13:33:35.002592|INFO    |Query         |   |query from 240 45.9.20.73:40322 attempted to login with account "njrat" and failed!
+2022-03-11 13:40:47.465179|INFO    |Query         |   |query from 242 45.9.20.25:39390 attempted to login with account "freebsd" and failed!
+2022-03-11 14:36:24.067027|INFO    |Query         |   |query from 243 176.111.173.44:44386 attempted to login with account "admin" and failed!
+2022-03-11 14:54:55.732562|INFO    |Query         |   |query from 244 45.9.20.25:41770 attempted to login with account "frontrow" and failed!
+2022-03-11 15:24:00.511354|INFO    |Query         |   |query from 245 45.9.20.73:51702 attempted to login with account "nmis" and failed!
+2022-03-11 16:07:40.512166|INFO    |Query         |   |query from 246 45.9.20.25:37728 attempted to login with account "ftp" and failed!
+2022-03-11 16:55:08.452900|INFO    |Query         |   |query from 247 176.111.173.242:56754 attempted to login with account "admin" and failed!
+2022-03-11 17:07:35.104749|INFO    |Query         |   |query from 248 45.9.20.73:34068 attempted to login with account "noah" and failed!
+2022-03-11 17:20:00.896110|INFO    |Query         |   |query from 249 45.9.20.25:34338 attempted to login with account "ftp" and failed!
+2022-03-11 18:31:26.174265|INFO    |Query         |   |query from 250 45.9.20.73:59046 attempted to login with account "nobody" and failed!
+2022-03-11 18:34:03.504187|INFO    |Query         |   |query from 251 45.9.20.25:38556 attempted to login with account "ftp" and failed!
+2022-03-11 18:52:37.912294|INFO    |Query         |   |query from 252 176.111.173.44:40988 attempted to login with account "admin" and failed!
+2022-03-11 19:48:03.051998|INFO    |Query         |   |query from 253 45.9.20.25:40078 attempted to login with account "ftp" and failed!
+2022-03-11 19:57:39.954753|INFO    |Query         |   |query from 254 45.9.20.73:51104 attempted to login with account "nobody" and failed!
+2022-03-11 20:46:08.141718|INFO    |Query         |   |query from 255 176.111.173.242:48960 attempted to login with account "admin" and failed!
+2022-03-11 21:02:12.200502|INFO    |Query         |   |query from 256 45.9.20.25:47312 attempted to login with account "ftp" and failed!
+2022-03-11 21:24:28.387052|INFO    |Query         |   |query from 259 45.9.20.73:55826 attempted to login with account "noc" and failed!
+2022-03-11 22:16:09.305447|INFO    |Query         |   |query from 260 45.9.20.25:51520 attempted to login with account "ftp" and failed!
+2022-03-11 22:50:39.126811|INFO    |Query         |   |query from 263 45.9.20.73:45052 attempted to login with account "node" and failed!
+2022-03-11 23:08:52.973530|INFO    |Query         |   |query from 264 176.111.173.44:38264 attempted to login with account "admin" and failed!
+2022-03-11 23:30:16.334775|INFO    |Query         |   |query from 268 45.9.20.25:56812 attempted to login with account "ftp" and failed!
+2022-03-12 00:10:40.538516|INFO    |Query         |   |query from 269 193.169.255.199:49776 attempted to login with account "ammin" and failed!
+2022-03-12 00:10:43.819773|INFO    |Query         |   |query from 269 193.169.255.199:49776 attempted to login with account "amministratore" and failed!
+2022-03-12 00:10:47.085400|INFO    |Query         |   |query from 269 193.169.255.199:49776 attempted to login with account "amsftp" and failed!
+2022-03-12 00:16:28.342000|INFO    |Query         |   |query from 270 45.9.20.73:58726 attempted to login with account "nodejs" and failed!
+2022-03-12 00:36:02.815533|INFO    |Query         |   |query from 271 176.111.173.242:36744 attempted to login with account "admin" and failed!
+2022-03-12 00:44:26.739846|INFO    |Query         |   |query from 272 45.9.20.25:57946 attempted to login with account "ftp" and failed!
+2022-03-12 01:42:10.003454|INFO    |Query         |   |query from 273 45.9.20.73:42530 attempted to login with account "nodeserver" and failed!
+2022-03-12 01:58:21.422751|INFO    |Query         |   |query from 274 45.9.20.25:56610 attempted to login with account "ftp" and failed!
+2022-03-12 02:00:25.876463|ERROR   |UDPServers    |   |远程主机强迫关闭了一个现有的连接。
+2022-03-12 03:08:37.347561|INFO    |Query         |   |query from 275 45.9.20.73:56100 attempted to login with account "nolan" and failed!
+2022-03-12 03:13:01.755131|INFO    |Query         |   |query from 276 45.9.20.25:61288 attempted to login with account "ftp" and failed!
+2022-03-12 03:25:23.816063|INFO    |Query         |   |query from 277 176.111.173.44:36984 attempted to login with account "admin" and failed!
+2022-03-12 04:27:42.407124|INFO    |Query         |   |query from 278 176.111.173.242:51808 attempted to login with account "admin" and failed!
+2022-03-12 04:28:09.524290|INFO    |Query         |   |query from 279 45.9.20.25:6938 attempted to login with account "ftp" and failed!
+2022-03-12 04:35:46.072739|INFO    |Query         |   |query from 280 45.9.20.73:51436 attempted to login with account "north" and failed!
+2022-03-12 05:43:09.597270|INFO    |Query         |   |query from 281 45.9.20.25:13120 attempted to login with account "ftp" and failed!
+2022-03-12 06:02:06.178266|INFO    |Query         |   |query from 282 45.9.20.73:38810 attempted to login with account "notes" and failed!
+2022-03-12 06:57:13.895467|INFO    |Query         |   |query from 283 45.9.20.25:14722 attempted to login with account "ftp" and failed!
+2022-03-12 07:27:22.402408|INFO    |Query         |   |query from 284 45.9.20.73:39964 attempted to login with account "ns" and failed!
+2022-03-12 07:43:23.022585|INFO    |Query         |   |query from 285 176.111.173.44:35060 attempted to login with account "admin" and failed!
+2022-03-12 07:50:15.841381|INFO    |              |   |myTeamSpeak identifier revocation list was downloaded successfully - all related features are activated
+2022-03-12 08:11:33.805053|INFO    |Query         |   |query from 286 45.9.20.25:14474 attempted to login with account "ftp" and failed!
+2022-03-12 08:20:56.395394|INFO    |Query         |   |query from 287 176.111.173.242:35502 attempted to login with account "admin" and failed!
+2022-03-12 08:53:08.962175|INFO    |Query         |   |query from 288 45.9.20.73:54006 attempted to login with account "nsrecover" and failed!
+2022-03-12 09:25:51.437880|INFO    |Query         |   |query from 289 45.9.20.25:11712 attempted to login with account "ftp" and failed!
+2022-03-12 10:18:56.773884|INFO    |Query         |   |query from 290 45.9.20.73:60582 attempted to login with account "nsroot" and failed!
+2022-03-12 10:40:07.512757|INFO    |Query         |   |query from 291 45.9.20.25:9632 attempted to login with account "ftp" and failed!
+2022-03-12 10:46:59.709694|INFO    |Query         |   |query from 292 193.169.255.199:29688 attempted to login with account "amssys" and failed!
+2022-03-12 10:47:03.006564|INFO    |Query         |   |query from 292 193.169.255.199:29688 attempted to login with account "amy" and failed!
+2022-03-12 10:47:06.304412|INFO    |Query         |   |query from 292 193.169.255.199:29688 attempted to login with account "andre" and failed!
+2022-03-12 11:48:54.242778|INFO    |Query         |   |query from 293 45.9.20.73:45058 attempted to login with account "ntp" and failed!
+2022-03-12 11:54:24.646282|INFO    |Query         |   |query from 294 45.9.20.25:9736 attempted to login with account "ftp" and failed!
+2022-03-12 12:01:47.600394|INFO    |Query         |   |query from 296 176.111.173.44:57356 attempted to login with account "admin" and failed!
+2022-03-12 12:13:39.130010|INFO    |Query         |   |query from 297 176.111.173.242:49900 attempted to login with account "admin" and failed!
+2022-03-12 13:09:17.265553|INFO    |Query         |   |query from 298 45.9.20.25:62780 attempted to login with account "ftp" and failed!
+2022-03-12 13:37:18.599102|INFO    |Query         |   |query from 299 45.9.20.73:45276 attempted to login with account "nuucp" and failed!
+2022-03-12 14:24:15.340574|INFO    |Query         |   |query from 301 45.9.20.25:5356 attempted to login with account "ftp" and failed!
+2022-03-12 15:13:12.152174|INFO    |Query         |   |query from 302 45.9.20.73:58502 attempted to login with account "nvidia" and failed!
+2022-03-12 15:39:06.501814|INFO    |Query         |   |query from 304 45.9.20.25:13144 attempted to login with account "ftp" and failed!
+2022-03-12 16:05:31.866041|INFO    |Query         |   |query from 305 176.111.173.242:45082 attempted to login with account "admin" and failed!
+2022-03-12 16:18:50.782635|INFO    |Query         |   |query from 306 176.111.173.44:36778 attempted to login with account "admin" and failed!
+2022-03-12 16:49:03.924200|INFO    |Query         |   |query from 307 45.9.20.73:54514 attempted to login with account "nwes" and failed!
+2022-03-12 16:53:55.331108|INFO    |Query         |   |query from 308 45.9.20.25:14106 attempted to login with account "ftp" and failed!
+2022-03-12 18:09:22.587316|INFO    |Query         |   |query from 309 45.9.20.25:19040 attempted to login with account "ftp" and failed!
+2022-03-12 18:25:00.169522|INFO    |Query         |   |query from 310 45.9.20.73:53802 attempted to login with account "odoo" and failed!
+2022-03-12 19:24:27.077043|INFO    |Query         |   |query from 313 45.9.20.25:21064 attempted to login with account "ftp" and failed!
+2022-03-12 19:55:54.947367|INFO    |Query         |   |query from 315 176.111.173.242:34670 attempted to login with account "admin" and failed!
+2022-03-12 19:59:46.975461|INFO    |Query         |   |query from 316 45.9.20.73:58450 attempted to login with account "odoo" and failed!
+2022-03-12 20:26:30.408621|INFO    |Query         |   |query from 317 193.169.255.199:61206 attempted to login with account "andrew" and failed!
+2022-03-12 20:26:33.674239|INFO    |Query         |   |query from 317 193.169.255.199:61206 attempted to login with account "android" and failed!
+2022-03-12 20:26:36.939871|INFO    |Query         |   |query from 317 193.169.255.199:61206 attempted to login with account "angel" and failed!
+2022-03-12 20:36:45.957826|INFO    |Query         |   |query from 318 176.111.173.44:50756 attempted to login with account "admin" and failed!
+2022-03-12 20:39:03.301443|INFO    |Query         |   |query from 319 45.9.20.25:20502 attempted to login with account "ftp" and failed!
+2022-03-12 21:34:25.283124|INFO    |Query         |   |query from 320 45.9.20.73:49472 attempted to login with account "odroid" and failed!
+2022-03-12 21:54:23.082049|INFO    |Query         |   |query from 321 45.9.20.25:23888 attempted to login with account "ftp" and failed!
+2022-03-12 23:09:03.698093|INFO    |Query         |   |query from 322 45.9.20.73:44672 attempted to login with account "office" and failed!
+2022-03-12 23:09:13.523366|INFO    |Query         |   |query from 323 45.9.20.25:21980 attempted to login with account "ftp" and failed!
+2022-03-12 23:45:58.692757|INFO    |Query         |   |query from 325 176.111.173.242:48612 attempted to login with account "admin" and failed!
+2022-03-13 00:24:20.414210|INFO    |Query         |   |query from 327 45.9.20.25:22170 attempted to login with account "ftp" and failed!
+2022-03-13 00:52:05.066143|INFO    |Query         |   |query from 329 45.9.20.73:54084 attempted to login with account "olimex" and failed!
+2022-03-13 00:52:55.424506|INFO    |Query         |   |query from 330 176.111.173.44:51940 attempted to login with account "admin" and failed!
+2022-03-13 01:39:11.652575|INFO    |Query         |   |query from 331 45.9.20.25:23760 attempted to login with account "ftp_user" and failed!
+2022-03-13 02:26:00.925251|INFO    |Query         |   |query from 332 45.9.20.73:34374 attempted to login with account "oliver" and failed!
+2022-03-13 02:53:53.769937|INFO    |Query         |   |query from 333 45.9.20.25:26132 attempted to login with account "ftp_user" and failed!

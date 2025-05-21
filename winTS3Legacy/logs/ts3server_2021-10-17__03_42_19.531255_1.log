@@ -1,0 +1,688 @@
+2021-10-17 03:42:22.078206|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-10-17 03:47:25.024365|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Bot'(id:9) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-17 05:16:51.538396|INFO    |VirtualServer |1  |channelgroup 'zhuoyun'(id:10) was added by 'ZhuoYun'(id:3)
+2021-10-17 05:17:01.710197|INFO    |VirtualServer |1  |channelgroup 'zhuoyun'(id:10) was deleted by 'ZhuoYun'(id:3)
+2021-10-17 05:17:06.780467|INFO    |VirtualServer |1  |channelgroup 'zhuoyun'(id:11) was added by 'ZhuoYun'(id:3)
+2021-10-17 05:17:16.920051|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-635045248) was added by 'ZhuoYun'(id:3) to channelgroup 'zhuoyun'(id:11)
+2021-10-17 05:17:22.076269|INFO    |VirtualServer |1  |client 'ZhuoYun'(id:3) was added to channelgroup 'zhuoyun'(id:11) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-17 05:17:41.608356|INFO    |VirtualServer |1  |client 'TS3AudioBot1'(id:5) was added to channelgroup 'Bot'(id:9) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-17 05:18:01.917773|INFO    |VirtualServer |1  |client '尾翼今天休息'(id:6) was added to channelgroup 'zhuoyun'(id:11) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-17 09:25:24.274261|INFO    |PktHandler    |1  |Dropping client 9 because of ping timeout 19 0 0
+2021-10-17 20:22:49.874189|INFO    |PktHandler    |1  |Dropping client 1 because of ping timeout 19 0 0
+2021-10-17 20:22:49.874189|INFO    |PktHandler    |1  |Dropping client 5 because of ping timeout 19 0 0
+2021-10-18 15:50:59.113414|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2021-10-19 05:05:22.593737|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Bot'(id:9) by client 'Zhuo_Yun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-19 05:11:38.875867|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_icon_id'(id:74) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '娱乐区'(id:6)
+2021-10-19 05:11:40.314353|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_icon_id'(id:74) with values (value:0) was added by 'Zhuo_Yun'(id:3) to channel '娱乐区'(id:6)
+2021-10-19 05:11:59.466678|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_icon_id'(id:74) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Server Admin'(id:6)
+2021-10-19 05:11:59.982301|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_icon_id'(id:74) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Server Admin'(id:6)
+2021-10-19 14:41:05.464837|INFO    |PktHandler    |1  |Dropping client 16 because of ping timeout 19 0 0
+2021-10-19 14:41:09.839841|INFO    |PktHandler    |1  |Dropping client 17 because of ping timeout 19 0 0
+2021-10-20 15:46:51.630133|INFO    |PktHandler    |1  |Dropping client 19 because of ping timeout 19 0 0
+2021-10-20 15:46:51.630133|INFO    |PktHandler    |1  |Dropping client 20 because of ping timeout 19 0 0
+2021-10-22 07:16:26.079664|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0
+2021-10-22 07:16:26.079847|INFO    |PktHandler    |1  |Dropping client 26 because of ping timeout 19 0 0
+2021-10-22 13:03:06.595347|INFO    |PktHandler    |1  |Dropping client 32 because of ping timeout 19 0 0
+2021-10-23 09:48:04.720294|INFO    |PktHandler    |1  |Dropping client 37 because of ping timeout 19 0 0
+2021-10-23 15:44:51.631468|INFO    |PktHandler    |1  |Dropping client 38 because of ping timeout 19 0 0
+2021-10-26 10:21:06.591730|INFO    |PktHandler    |1  |Dropping client 39 because of ping timeout 19 0 0
+2021-10-26 10:21:06.591730|INFO    |PktHandler    |1  |Dropping client 40 because of ping timeout 19 0 0
+2021-10-26 15:11:58.724065|INFO    |PktHandler    |1  |Dropping client 42 because of ping timeout 19 0 0
+2021-10-26 15:11:58.724065|INFO    |PktHandler    |1  |Dropping client 43 because of ping timeout 19 0 0
+2021-10-27 13:48:10.881841|INFO    |PktHandler    |1  |Dropping client 45 because of ping timeout 19 0 0
+2021-10-27 15:37:04.021219|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2021-10-27 15:37:04.021219|INFO    |PktHandler    |1  |Dropping client 47 because of resend timeout
+2021-10-27 15:37:13.715532|INFO    |PktHandler    |1  |Dropping client 44 because of ping timeout 19 0 0
+2021-10-27 15:46:45.252303|INFO    |PktHandler    |1  |Dropping client 46 because of ping timeout 19 0 0
+2021-10-29 03:48:32.345379|INFO    |PktHandler    |1  |Dropping client 50 because of ping timeout 19 0 0
+2021-10-29 14:48:05.363084|INFO    |PktHandler    |1  |Dropping client 51 because of ping timeout 19 0 0
+2021-10-30 14:38:12.881197|INFO    |PktHandler    |1  |Dropping client 53 because of ping timeout 19 0 0
+2021-11-04 12:48:24.124479|INFO    |PktHandler    |1  |Dropping client 56 because of ping timeout 19 0 0
+2021-11-04 15:52:07.902937|INFO    |PktHandler    |1  |Dropping client 60 because of ping timeout 19 0 0
+2021-11-04 15:57:51.348988|INFO    |PktHandler    |1  |Dropping client 64 because of ping timeout 19 0 0
+2021-11-04 16:32:02.472902|INFO    |PktHandler    |1  |Dropping client 58 because of ping timeout 19 0 0
+2021-11-05 12:50:02.832333|INFO    |PktHandler    |1  |Dropping client 67 because of ping timeout 19 0 0
+2021-11-05 14:50:13.076485|INFO    |PktHandler    |1  |Dropping client 57 because of ping timeout 19 0 0
+2021-11-05 14:57:24.102719|INFO    |PktHandler    |1  |Dropping client 74 because of ping timeout 19 0 0
+2021-11-06 16:01:32.388383|INFO    |PktHandler    |1  |Dropping client 79 because of ping timeout 19 0 0
+2021-11-06 17:18:56.315738|INFO    |PktHandler    |1  |Dropping client 75 because of ping timeout 19 0 0
+2021-11-11 05:17:19.041985|INFO    |PktHandler    |1  |Dropping client 89 because of ping timeout 19 0 0
+2021-11-11 10:52:51.263704|INFO    |VirtualServer |1  |client 'jiongpig'(id:19) was added to channelgroup 'Channel Admin'(id:5) by client 'Zhuo_Yun'(id:3) in channel '猪猪的小空间'(id:9)
+2021-11-12 05:04:44.419512|INFO    |PktHandler    |1  |Dropping client 104 because of ping timeout 19 0 0
+2021-11-12 05:39:54.423382|INFO    |PktHandler    |1  |Dropping client 105 because of ping timeout 19 0 0
+2021-11-12 06:15:49.571586|INFO    |PktHandler    |1  |Dropping client 106 because of ping timeout 19 0 0
+2021-11-12 06:34:44.873304|INFO    |PktHandler    |1  |Dropping client 107 because of ping timeout 19 0 0
+2021-11-13 10:38:55.744383|INFO    |PktHandler    |1  |Dropping client 116 because of ping timeout 19 0 0
+2021-11-14 08:13:02.439495|INFO    |PktHandler    |1  |Dropping client 117 because of ping timeout 19 0 0
+2021-11-14 10:01:46.337935|INFO    |PktHandler    |1  |Dropping client 120 because of ping timeout 19 0 0
+2021-11-16 16:35:03.671526|INFO    |PktHandler    |1  |Dropping client 122 because of ping timeout 19 0 0
+2021-11-19 16:10:07.028534|INFO    |PktHandler    |1  |Dropping client 124 because of ping timeout 19 0 0
+2021-11-26 07:11:45.282549|INFO    |PktHandler    |1  |Dropping client 132 because of ping timeout 19 0 0
+2021-11-29 14:39:37.227235|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-220803849) was added by 'Zhuo_Yun'(id:3) to channel 'Apex啦'(id:10)
+2021-11-30 07:26:37.161055|INFO    |PktHandler    |1  |Dropping client 136 because of ping timeout 19 0 0
+2021-11-30 07:51:01.754669|INFO    |PktHandler    |1  |Dropping client 137 because of ping timeout 19 0 0
+2021-11-30 08:30:05.398243|INFO    |PktHandler    |1  |Dropping client 138 because of ping timeout 19 0 0
+2021-11-30 08:39:10.151692|INFO    |PktHandler    |1  |Dropping client 139 because of ping timeout 19 0 0
+2021-11-30 08:47:07.772463|INFO    |PktHandler    |1  |Dropping client 140 because of ping timeout 19 0 0
+2021-11-30 09:01:28.808943|INFO    |PktHandler    |1  |Dropping client 141 because of ping timeout 19 0 0
+2021-11-30 14:57:41.794332|INFO    |PktHandler    |1  |Dropping client 142 because of ping timeout 19 0 0
+2021-12-04 21:37:36.467690|INFO    |PktHandler    |1  |Dropping client 143 because of ping timeout 19 0 0
+2021-12-04 21:49:34.516973|INFO    |PktHandler    |1  |Dropping client 144 because of ping timeout 19 0 0
+2021-12-05 14:54:02.618286|INFO    |PktHandler    |1  |Dropping client 145 because of ping timeout 19 0 0
+2021-12-08 09:09:28.453303|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-635045248) was added by 'Zhuo_Yun'(id:3) to channel '公用区域'(id:9)
+2021-12-08 09:09:42.062756|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:1172203919) was added by 'Zhuo_Yun'(id:3) to channel '娱乐区'(id:6)
+2021-12-08 09:25:02.187830|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1958396552) was added by 'Zhuo_Yun'(id:3) to channel 'CIC公用区域'(id:9)
+2021-12-08 21:37:35.504617|INFO    |PktHandler    |1  |Dropping client 152 because of ping timeout 19 0 0
+2021-12-09 13:27:47.970230|INFO    |PktHandler    |1  |Dropping client 155 because of ping timeout 19 0 0
+2021-12-12 03:54:20.758656|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1958396552) was added by 'Zhuo_Yun'(id:3) to channel 'CIC子频道1'(id:11)
+2021-12-12 03:54:44.165872|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1958396552) was added by 'Zhuo_Yun'(id:3) to channel 'CIC子频道2'(id:12)
+2021-12-12 03:54:56.595553|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1958396552) was added by 'Zhuo_Yun'(id:3) to channel 'CIC子频道3'(id:13)
+2021-12-12 03:55:12.079916|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1958396552) was added by 'Zhuo_Yun'(id:3) to channel 'CIC子频道2'(id:14)
+2021-12-12 03:57:30.155034|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channelgroup 'zhuoyun'(id:11)
+2021-12-12 03:57:32.092526|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:0) was added by 'Zhuo_Yun'(id:3) to channelgroup 'zhuoyun'(id:11)
+2021-12-12 03:57:32.858153|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channelgroup 'zhuoyun'(id:11)
+2021-12-12 03:57:37.477288|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:0) was added by 'Zhuo_Yun'(id:3) to channelgroup 'zhuoyun'(id:11)
+2021-12-12 03:57:37.687249|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channelgroup 'zhuoyun'(id:11)
+2021-12-12 03:57:38.102286|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:0) was added by 'Zhuo_Yun'(id:3) to channelgroup 'zhuoyun'(id:11)
+2021-12-12 03:57:39.271232|INFO    |VirtualServer |1  |permission 'b_channel_create_permanent'(id:89) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channelgroup 'zhuoyun'(id:11)
+2021-12-12 03:57:40.303459|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channelgroup 'zhuoyun'(id:11)
+2021-12-12 03:57:53.530022|INFO    |VirtualServer |1  |permission 'i_channel_max_depth'(id:83) with values (value:75) was added by 'Zhuo_Yun'(id:3) to channelgroup 'Channel Admin'(id:5)
+2021-12-12 03:57:57.264389|INFO    |VirtualServer |1  |permission 'i_channel_min_depth'(id:82) with values (value:75) was added by 'Zhuo_Yun'(id:3) to channelgroup 'Channel Admin'(id:5)
+2021-12-12 04:00:53.295550|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1958396552) was added by 'Zhuo_Yun'(id:3) to channel 'CIC子频道2'(id:15)
+2021-12-12 04:01:30.589478|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1958396552) was added by 'Zhuo_Yun'(id:3) to channel 'CIC子频道2'(id:16)
+2021-12-12 04:01:44.308222|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1958396552) was added by 'Zhuo_Yun'(id:3) to channel 'CIC子频道3'(id:17)
+2021-12-12 04:06:03.776609|INFO    |VirtualServer |1  |channelgroup 'zhuoyun'(id:11) was deleted by 'Zhuo_Yun'(id:3)
+2021-12-15 01:10:13.270426|INFO    |PktHandler    |1  |Dropping client 156 because of ping timeout 19 0 0
+2021-12-16 21:37:37.194509|INFO    |PktHandler    |1  |Dropping client 158 because of ping timeout 19 0 0
+2021-12-17 04:14:23.533889|INFO    |PktHandler    |1  |Dropping client 159 because of ping timeout 19 0 0
+2021-12-17 09:05:50.931759|INFO    |PktHandler    |1  |Dropping client 160 because of ping timeout 19 0 0
+2021-12-17 15:40:39.232812|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2021-12-17 15:40:39.232812|INFO    |PktHandler    |1  |Dropping client 193 because of resend timeout
+2021-12-18 14:18:00.177097|INFO    |PktHandler    |1  |Dropping client 201 because of ping timeout 19 0 0
+2021-12-19 07:16:06.359565|INFO    |PktHandler    |1  |Dropping client 205 because of ping timeout 19 0 0
+2021-12-19 07:27:04.816254|INFO    |PktHandler    |1  |Dropping client 206 because of ping timeout 19 0 0
+2021-12-19 23:48:50.489850|INFO    |PktHandler    |1  |Dropping client 203 because of ping timeout 19 0 0
+2021-12-22 08:03:02.077515|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-635045248) was added by 'Zhuo_Yun'(id:3) to channel 'ZhuoYun的主区域'(id:18)
+2021-12-22 08:08:58.931773|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:75) was added by 'Zhuo_Yun'(id:3) to channel 'ZhuoYun的主区域'(id:18)
+2021-12-22 15:04:40.513181|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:75) was added by 'Zhuo_Yun'(id:3) to channel 'ZhuoYun的主区域'(id:18)
+2021-12-23 05:12:20.102163|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:75) was added by 'Zhuo_Yun'(id:3) to channel '痰政区'(id:19)
+2021-12-23 05:28:34.270509|INFO    |PktHandler    |1  |Dropping client 227 because of ping timeout 19 0 0
+2021-12-24 07:15:18.376446|INFO    |PktHandler    |1  |Dropping client 250 because of ping timeout 19 0 0
+2021-12-24 14:25:34.390088|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:75) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:20)
+2021-12-24 15:50:32.956573|INFO    |PktHandler    |1  |Dropping client 219 because of ping timeout 19 0 0
+2021-12-24 15:50:32.956573|INFO    |PktHandler    |1  |Dropping client 222 because of ping timeout 19 0 0
+2021-12-25 07:37:58.445683|INFO    |PktHandler    |1  |Dropping client 267 because of ping timeout 19 0 0
+2021-12-26 14:59:43.422008|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:11068116) was added by 'Zhuo_Yun'(id:3) to channel 'Overwatch2'(id:21)
+2021-12-26 15:00:53.561979|INFO    |PktHandler    |1  |Dropping client 293 because of ping timeout 19 0 0
+2021-12-26 15:00:54.655745|INFO    |PktHandler    |1  |Dropping client 286 because of ping timeout 19 0 0
+2021-12-28 08:49:44.106795|INFO    |PktHandler    |1  |Dropping client 304 because of ping timeout 19 0 0
+2021-12-28 09:00:44.606315|INFO    |PktHandler    |1  |Dropping client 307 because of ping timeout 19 0 0
+2021-12-28 11:04:15.554105|INFO    |PktHandler    |1  |Dropping client 308 because of ping timeout 19 0 0
+2021-12-29 12:05:50.011948|INFO    |PktHandler    |1  |Dropping client 317 because of ping timeout 19 0 0
+2021-12-29 12:24:48.582534|INFO    |PktHandler    |1  |Dropping client 318 because of ping timeout 19 0 0
+2021-12-29 15:04:02.939935|INFO    |PktHandler    |1  |Dropping client 266 because of ping timeout 19 0 0
+2021-12-30 11:28:36.254797|INFO    |PktHandler    |1  |Dropping client 329 because of ping timeout 19 0 0
+2021-12-30 15:00:53.482257|INFO    |PktHandler    |1  |Dropping client 339 because of ping timeout 19 0 0
+2021-12-31 01:58:04.808446|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-494246659) was added by 'Zhuo_Yun'(id:3) to channel '泰拉瑞亚'(id:22)
+2021-12-31 03:51:29.537737|INFO    |PktHandler    |1  |Dropping client 334 because of ping timeout 19 0 0
+2021-12-31 07:49:04.513993|INFO    |PktHandler    |1  |Dropping client 355 because of ping timeout 19 0 0
+2021-12-31 09:51:30.902236|INFO    |PktHandler    |1  |Dropping client 362 because of ping timeout 19 0 0
+2022-01-01 08:24:45.575676|INFO    |PktHandler    |1  |Dropping client 370 because of ping timeout 19 0 0
+2022-01-01 11:39:15.776795|INFO    |PktHandler    |1  |Dropping client 381 because of ping timeout 19 0 0
+2022-01-01 14:11:44.126273|INFO    |PktHandler    |1  |Dropping client 379 because of ping timeout 19 0 0
+2022-01-01 15:05:16.230454|INFO    |PktHandler    |1  |Dropping client 386 because of ping timeout 19 0 0
+2022-01-01 15:29:17.032349|INFO    |PktHandler    |1  |Dropping client 365 because of ping timeout 19 0 0
+2022-01-02 12:24:36.491306|INFO    |PktHandler    |1  |Dropping client 394 because of ping timeout 19 0 0
+2022-01-02 12:27:52.798767|INFO    |PktHandler    |1  |Dropping client 396 because of ping timeout 19 0 0
+2022-01-02 16:07:36.860918|INFO    |PktHandler    |1  |Dropping client 400 because of ping timeout 19 0 0
+2022-01-02 16:38:40.925928|INFO    |PktHandler    |1  |Dropping client 403 because of ping timeout 19 0 0
+2022-01-03 02:46:02.502571|INFO    |PktHandler    |1  |Dropping client 390 because of ping timeout 19 0 0
+2022-01-03 03:50:54.554744|INFO    |PktHandler    |1  |Dropping client 405 because of ping timeout 19 0 0
+2022-01-03 04:01:54.500337|INFO    |PktHandler    |1  |Dropping client 410 because of ping timeout 19 0 0
+2022-01-03 08:58:55.935847|INFO    |PktHandler    |1  |Dropping client 414 because of ping timeout 19 0 0
+2022-01-04 04:42:40.446810|INFO    |PktHandler    |1  |Dropping client 421 because of ping timeout 19 0 0
+2022-01-04 04:53:39.045032|INFO    |PktHandler    |1  |Dropping client 422 because of ping timeout 19 0 0
+2022-01-04 11:55:00.428415|INFO    |PktHandler    |1  |Dropping client 407 because of ping timeout 19 0 0
+2022-01-04 11:58:03.508336|INFO    |PktHandler    |1  |Dropping client 432 because of ping timeout 19 0 0
+2022-01-04 12:32:22.764720|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1812984275) was added by 'Zhuo_Yun'(id:3) to channel 'Forest'(id:25)
+2022-01-06 00:51:36.238479|INFO    |PktHandler    |1  |Dropping client 434 because of ping timeout 19 0 0
+2022-01-06 07:52:36.145554|INFO    |VirtualServer |1  |client 'Zhuoyun'(id:64) was added to channelgroup 'Channel Admin'(id:5) by client 'yun'(id:14) in channel '泰拉瑞亚'(id:22)
+2022-01-06 07:52:42.254935|INFO    |VirtualServer |1  |client 'Zhuoyun'(id:64) was added to servergroup 'Server Admin'(id:6) by client 'yun'(id:14)
+2022-01-06 08:12:38.943641|INFO    |PktHandler    |1  |Dropping client 452 because of ping timeout 19 0 0
+2022-01-06 08:22:28.338787|INFO    |PktHandler    |1  |Dropping client 455 because of ping timeout 19 0 0
+2022-01-06 08:39:47.674946|INFO    |PktHandler    |1  |Dropping client 456 because of ping timeout 19 0 0
+2022-01-06 08:55:26.913447|INFO    |PktHandler    |1  |Dropping client 454 because of ping timeout 19 0 0
+2022-01-06 09:04:35.533237|INFO    |PktHandler    |1  |Dropping client 459 because of ping timeout 19 0 0
+2022-01-06 16:56:49.968459|INFO    |PktHandler    |1  |Dropping client 476 because of ping timeout 19 0 0
+2022-01-07 03:31:15.016233|INFO    |PktHandler    |1  |Dropping client 479 because of ping timeout 19 0 0
+2022-01-07 09:20:25.138342|INFO    |PktHandler    |1  |Dropping client 484 because of ping timeout 19 0 0
+2022-01-07 09:31:56.099742|INFO    |PktHandler    |1  |Dropping client 489 because of ping timeout 19 0 0
+2022-01-07 10:53:25.461064|INFO    |PktHandler    |1  |Dropping client 481 because of ping timeout 19 0 0
+2022-01-07 12:25:48.056486|INFO    |PktHandler    |1  |Dropping client 490 because of ping timeout 19 0 0
+2022-01-07 14:56:29.316936|INFO    |PktHandler    |1  |Dropping client 492 because of ping timeout 19 0 0
+2022-01-08 03:03:46.165195|INFO    |PktHandler    |1  |Dropping client 502 because of ping timeout 19 0 0
+2022-01-08 04:11:46.482134|INFO    |PktHandler    |1  |Dropping client 503 because of ping timeout 19 0 0
+2022-01-08 08:09:51.018008|INFO    |PktHandler    |1  |Dropping client 508 because of ping timeout 19 0 0
+2022-01-09 15:50:51.496910|INFO    |PktHandler    |1  |Dropping client 520 because of ping timeout 19 0 0
+2022-01-10 06:58:42.831974|INFO    |PktHandler    |1  |Dropping client 538 because of ping timeout 19 0 0
+2022-01-10 07:00:29.983254|INFO    |PktHandler    |1  |Dropping client 541 because of ping timeout 19 0 0
+2022-01-10 09:34:12.676264|INFO    |PktHandler    |1  |Dropping client 543 because of ping timeout 19 0 0
+2022-01-10 17:32:39.454919|INFO    |PktHandler    |1  |Dropping client 512 because of ping timeout 19 0 0
+2022-01-11 07:00:30.552527|INFO    |PktHandler    |1  |Dropping client 565 because of ping timeout 19 0 0
+2022-01-11 07:36:31.308030|INFO    |PktHandler    |1  |Dropping client 563 because of ping timeout 19 0 0
+2022-01-11 10:49:14.042466|INFO    |PktHandler    |1  |Dropping client 567 because of ping timeout 19 0 0
+2022-01-11 13:23:56.597212|INFO    |PktHandler    |1  |Dropping client 572 because of ping timeout 19 0 0
+2022-01-11 16:04:30.779916|INFO    |PktHandler    |1  |Dropping client 584 because of ping timeout 19 0 0
+2022-01-12 03:59:42.992374|INFO    |PktHandler    |1  |Dropping client 591 because of ping timeout 19 0 0
+2022-01-12 04:08:27.743992|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-12 04:08:27.743992|INFO    |PktHandler    |1  |Dropping client 587 because of resend timeout
+2022-01-12 04:19:32.033713|INFO    |PktHandler    |1  |Dropping client 592 because of ping timeout 19 0 0
+2022-01-12 10:35:45.212394|INFO    |PktHandler    |1  |Dropping client 594 because of ping timeout 19 0 0
+2022-01-12 10:46:44.748035|INFO    |PktHandler    |1  |Dropping client 596 because of ping timeout 19 0 0
+2022-01-12 13:01:35.933480|INFO    |PktHandler    |1  |Dropping client 590 because of ping timeout 19 0 0
+2022-01-12 16:24:01.909280|INFO    |PktHandler    |1  |Dropping client 586 because of ping timeout 19 0 0
+2022-01-13 07:12:32.489607|INFO    |VirtualServer |1  |client 'DDing'(id:53) was added to channelgroup 'Guest'(id:8) by client 'Zhuo_Yun'(id:3) in channel '振刀区'(id:28)
+2022-01-13 07:12:34.852892|INFO    |VirtualServer |1  |client 'DDing'(id:53) was added to channelgroup 'Guest'(id:8) by client 'Zhuo_Yun'(id:3) in channel '振刀区'(id:28)
+2022-01-13 07:58:45.658875|INFO    |PktHandler    |1  |Dropping client 609 because of ping timeout 19 0 0
+2022-01-13 09:24:51.039108|INFO    |PktHandler    |1  |Dropping client 610 because of ping timeout 19 0 0
+2022-01-13 09:35:50.594410|INFO    |PktHandler    |1  |Dropping client 619 because of ping timeout 19 0 0
+2022-01-13 11:20:51.736486|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-13 11:20:51.736486|INFO    |PktHandler    |1  |Dropping client 618 because of resend timeout
+2022-01-13 17:33:49.822255|INFO    |PktHandler    |1  |Dropping client 624 because of ping timeout 19 0 0
+2022-01-14 02:29:18.371828|INFO    |PktHandler    |1  |Dropping client 629 because of ping timeout 19 0 0
+2022-01-14 03:21:10.305550|INFO    |PktHandler    |1  |Dropping client 630 because of ping timeout 19 0 0
+2022-01-14 04:50:36.140359|INFO    |PktHandler    |1  |Dropping client 636 because of ping timeout 19 0 0
+2022-01-14 04:54:55.721793|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2022-01-14 04:54:55.721793|INFO    |PktHandler    |1  |Dropping client 627 because of resend timeout
+2022-01-14 05:12:48.157870|INFO    |PktHandler    |1  |Dropping client 640 because of ping timeout 19 0 0
+2022-01-14 05:37:06.905889|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2022-01-14 05:37:06.905889|INFO    |PktHandler    |1  |Dropping client 639 because of resend timeout
+2022-01-14 07:03:23.438430|INFO    |PktHandler    |1  |Dropping client 637 because of ping timeout 19 0 0
+2022-01-14 07:26:47.125523|INFO    |PktHandler    |1  |Dropping client 647 because of ping timeout 19 0 0
+2022-01-14 11:24:03.591792|INFO    |PktHandler    |1  |Dropping client 656 because of ping timeout 19 0 0
+2022-01-14 11:41:18.247373|INFO    |PktHandler    |1  |Dropping client 659 because of ping timeout 19 0 0
+2022-01-14 12:54:48.766148|INFO    |PktHandler    |1  |Dropping client 642 because of ping timeout 19 0 0
+2022-01-14 13:00:41.158463|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-14 13:00:41.158463|INFO    |PktHandler    |1  |Dropping client 664 because of resend timeout
+2022-01-14 15:11:39.127371|INFO    |PktHandler    |1  |Dropping client 671 because of ping timeout 19 0 0
+2022-01-15 03:40:40.386393|INFO    |PktHandler    |1  |Dropping client 680 because of ping timeout 19 0 0
+2022-01-15 04:40:22.366654|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:29)
+2022-01-15 04:40:22.366654|INFO    |VirtualServer |1  |permission 'i_channel_needed_description_view_power'(id:144) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:29)
+2022-01-15 04:40:22.366654|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:29)
+2022-01-15 04:40:22.366654|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:29)
+2022-01-15 04:40:30.518015|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_rename_power'(id:242) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:29)
+2022-01-15 04:40:30.518015|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_upload_power'(id:236) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:29)
+2022-01-15 04:40:30.518015|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_browse_power'(id:244) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:29)
+2022-01-15 04:40:30.518015|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_download_power'(id:238) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:29)
+2022-01-15 04:40:30.518015|INFO    |VirtualServer |1  |permission 'i_ft_needed_directory_create_power'(id:246) with values (value:1) was added by 'Zhuo_Yun'(id:3) to channel '[spacer0]'(id:29)
+2022-01-15 04:42:38.599955|INFO    |VirtualServer |1  |servergroup '1'(id:9) was added by 'Zhuo_Yun'(id:3)
+2022-01-15 04:44:00.334269|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:134) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup '1'(id:9)
+2022-01-15 04:44:04.264914|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:134) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup '1'(id:9)
+2022-01-15 04:44:04.939721|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:134) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup '1'(id:9)
+2022-01-15 04:44:21.126237|INFO    |VirtualServer |1  |permission 'i_channel_join_power'(id:139) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup '1'(id:9)
+2022-01-15 05:09:16.638040|INFO    |PktHandler    |1  |Dropping client 681 because of ping timeout 19 0 0
+2022-01-15 05:22:30.382557|INFO    |PktHandler    |1  |Dropping client 682 because of ping timeout 19 0 0
+2022-01-15 05:33:29.614589|INFO    |PktHandler    |1  |Dropping client 687 because of ping timeout 19 0 0
+2022-01-15 05:36:30.660365|INFO    |PktHandler    |1  |Dropping client 683 because of ping timeout 19 0 0
+2022-01-15 05:44:20.437448|INFO    |PktHandler    |1  |Dropping client 688 because of ping timeout 19 0 0
+2022-01-15 06:21:14.327528|INFO    |PktHandler    |1  |Dropping client 689 because of ping timeout 19 0 0
+2022-01-15 06:42:41.916493|INFO    |PktHandler    |1  |Dropping client 691 because of ping timeout 19 0 0
+2022-01-15 06:55:08.236432|INFO    |PktHandler    |1  |Dropping client 690 because of ping timeout 19 0 0
+2022-01-15 09:17:17.368952|INFO    |PktHandler    |1  |Dropping client 695 because of ping timeout 19 0 0
+2022-01-15 09:29:13.880501|INFO    |PktHandler    |1  |Dropping client 692 because of ping timeout 19 0 0
+2022-01-15 11:00:01.125140|INFO    |PktHandler    |1  |Dropping client 698 because of ping timeout 19 0 0
+2022-01-15 12:00:02.684802|INFO    |PktHandler    |1  |Dropping client 699 because of ping timeout 19 0 0
+2022-01-15 12:55:31.130568|INFO    |VirtualServer |1  |permission 'b_channel_create_temporary'(id:91) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:55:32.622749|INFO    |VirtualServer |1  |permission 'b_channel_create_with_topic'(id:92) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:55:34.404994|INFO    |VirtualServer |1  |permission 'b_channel_create_with_password'(id:94) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:55:35.529997|INFO    |VirtualServer |1  |permission 'b_channel_create_modify_with_codec_opusvoice'(id:96) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:55:38.936269|INFO    |VirtualServer |1  |permission 'b_channel_create_with_maxclients'(id:100) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:56:06.889545|INFO    |VirtualServer |1  |permission 'b_channel_modify_parent'(id:107) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:56:07.889553|INFO    |VirtualServer |1  |permission 'b_channel_modify_parent'(id:107) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:59:25.048489|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:59:25.923478|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:59:30.001607|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:59:30.439102|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:59:30.860984|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:59:41.704718|INFO    |VirtualServer |1  |permission 'b_virtualserver_connectioninfo_view'(id:26) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:59:43.032853|INFO    |VirtualServer |1  |permission 'b_virtualserver_connectioninfo_view'(id:26) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 12:59:44.110963|INFO    |VirtualServer |1  |permission 'b_virtualserver_connectioninfo_view'(id:26) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:3) to servergroup 'Guest'(id:8)
+2022-01-15 13:08:13.556814|INFO    |PktHandler    |1  |Dropping client 702 because of ping timeout 19 0 0
+2022-01-15 13:40:21.157019|INFO    |PktHandler    |1  |Dropping client 704 because of ping timeout 19 0 0
+2022-01-15 14:56:01.263233|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-15 14:56:01.263233|INFO    |PktHandler    |1  |Dropping client 700 because of resend timeout
+2022-01-15 14:56:02.466353|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-15 14:56:02.466353|INFO    |PktHandler    |1  |Dropping client 705 because of resend timeout
+2022-01-15 15:31:21.656163|INFO    |PktHandler    |1  |Dropping client 707 because of ping timeout 19 0 0
+2022-01-16 04:16:18.951781|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:3) added privilege key for servergroup 'Server Admin'(id:6)
+2022-01-16 05:25:54.516167|INFO    |PktHandler    |1  |Dropping client 708 because of ping timeout 19 0 0
+2022-01-16 07:26:09.027075|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to servergroup 'Server Admin'(id:6) by client 'server'(id:0)
+2022-01-16 07:26:09.027075|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) used privilege key 'mVVrKDMUGQkF6LiNgwgxdCRDi4lFLD5obTsXeium' and was added to servergroup 'Server Admin'(id:6)
+2022-01-16 07:26:14.620823|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to channelgroup 'Channel Admin'(id:5) by client 'Zhuo_Yun'(id:75) in channel 'Overwatch'(id:1)
+2022-01-16 07:26:26.309299|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to channelgroup 'Channel Admin'(id:5) by client 'Zhuo_Yun'(id:75) in channel '[spacer0]'(id:29)
+2022-01-16 07:26:34.778039|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to channelgroup 'Channel Admin'(id:5) by client 'Zhuo_Yun'(id:75) in channel 'ZhuoYun的主区域'(id:18)
+2022-01-16 12:21:36.942045|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-16 12:21:36.942045|INFO    |PktHandler    |1  |Dropping client 723 because of resend timeout
+2022-01-16 12:27:31.048205|INFO    |PktHandler    |1  |Dropping client 725 because of ping timeout 19 0 0
+2022-01-16 12:29:57.023689|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Channel Admin'(id:5) by client 'Zhuo_Yun'(id:75) in channel 'Overwatch'(id:1)
+2022-01-16 12:30:06.139873|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Bot'(id:9) by client 'Zhuo_Yun'(id:75) in channel 'Overwatch'(id:1)
+2022-01-16 15:39:08.718226|INFO    |PktHandler    |1  |Dropping client 726 because of ping timeout 19 0 0
+2022-01-17 03:51:42.246018|INFO    |PktHandler    |1  |Dropping client 731 because of ping timeout 19 0 0
+2022-01-17 04:00:48.400897|INFO    |VirtualServer |1  |permission 'b_client_modify_own_description'(id:229) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channelgroup 'Guest'(id:8)
+2022-01-17 04:02:25.815875|INFO    |PktHandler    |1  |Dropping client 733 because of ping timeout 19 0 0
+2022-01-17 04:51:33.055132|INFO    |PktHandler    |1  |Dropping client 732 because of ping timeout 19 0 0
+2022-01-17 05:48:15.916384|INFO    |PktHandler    |1  |Dropping client 738 because of ping timeout 19 0 0
+2022-01-17 07:08:33.313751|INFO    |PktHandler    |1  |Dropping client 739 because of ping timeout 19 0 0
+2022-01-17 07:31:50.586798|INFO    |PktHandler    |1  |Dropping client 741 because of ping timeout 19 0 0
+2022-01-17 07:36:43.790383|INFO    |PktHandler    |1  |Dropping client 735 because of ping timeout 19 0 0
+2022-01-17 07:47:44.865080|INFO    |PktHandler    |1  |Dropping client 743 because of ping timeout 19 0 0
+2022-01-17 10:52:40.688515|INFO    |PktHandler    |1  |Dropping client 752 because of ping timeout 19 0 0
+2022-01-18 02:45:34.917149|INFO    |PktHandler    |1  |Dropping client 759 because of ping timeout 19 0 0
+2022-01-19 05:39:01.822880|INFO    |PktHandler    |1  |Dropping client 792 because of ping timeout 19 0 0
+2022-01-19 05:50:00.250201|INFO    |PktHandler    |1  |Dropping client 797 because of ping timeout 19 0 0
+2022-01-19 06:35:31.819420|INFO    |PktHandler    |1  |Dropping client 798 because of ping timeout 19 0 0
+2022-01-19 13:37:00.381223|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2022-01-19 13:37:00.381223|INFO    |PktHandler    |1  |Dropping client 814 because of resend timeout
+2022-01-19 15:40:32.288145|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) with values (value:1) was added by 'Zhuo_Yun'(id:75) for client (id:58) and channel '18禁区'(id:31)
+2022-01-19 15:40:37.696371|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) was deleted by 'Zhuo_Yun'(id:75) for client (id:58) and channel '18禁区'(id:31)
+2022-01-20 03:25:19.375767|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Bot'(id:9) by client 'Zhuo_Yun'(id:75) in channel '18禁区'(id:31)
+2022-01-20 04:22:26.048693|INFO    |PktHandler    |1  |Dropping client 825 because of ping timeout 19 0 0
+2022-01-20 07:10:49.150438|INFO    |PktHandler    |1  |Dropping client 826 because of ping timeout 19 0 0
+2022-01-20 09:30:13.331521|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) with values (value:1) was added by 'Zhuo_Yun'(id:75) for client (id:54) and channel '挂机区'(id:27)
+2022-01-20 09:30:15.253394|INFO    |VirtualServer |1  |permission 'b_client_is_priority_speaker'(id:180) was deleted by 'Zhuo_Yun'(id:75) for client (id:54) and channel '挂机区'(id:27)
+2022-01-20 10:55:11.951294|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 10:55:11.953240|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_rename_power'(id:242) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 10:55:11.954220|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 10:55:11.955194|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 10:55:11.957151|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_browse_power'(id:244) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 10:55:11.958130|INFO    |VirtualServer |1  |permission 'i_channel_needed_description_view_power'(id:144) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 10:55:11.959109|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_download_power'(id:238) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 10:55:11.961056|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_upload_power'(id:236) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 10:55:11.962041|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:133) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 10:55:11.963012|INFO    |VirtualServer |1  |permission 'i_ft_needed_directory_create_power'(id:246) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-01-20 13:53:50.958946|INFO    |PktHandler    |1  |Dropping client 833 because of ping timeout 19 0 0
+2022-01-20 17:21:26.320367|INFO    |PktHandler    |1  |Dropping client 838 because of ping timeout 19 0 0
+2022-01-22 17:18:32.802364|INFO    |PktHandler    |1  |Dropping client 877 because of ping timeout 19 0 0
+2022-01-23 11:34:36.793254|INFO    |PktHandler    |1  |Cleaning up connection because of 12 resends of COMMAND packet
+2022-01-23 11:34:36.793254|INFO    |PktHandler    |1  |Dropping client 902 because of resend timeout
+2022-01-23 12:04:23.450915|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Bot'(id:9) by client 'Zhuo_Yun'(id:75) in channel '学习区'(id:5)
+2022-01-23 14:10:21.887850|INFO    |PktHandler    |1  |Dropping client 905 because of ping timeout 19 0 0
+2022-01-23 15:32:15.065407|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-23 15:32:15.065407|INFO    |PktHandler    |1  |Dropping client 897 because of resend timeout
+2022-01-24 04:40:27.212124|INFO    |PktHandler    |1  |Dropping client 907 because of ping timeout 19 0 0
+2022-01-24 06:18:58.159798|INFO    |PktHandler    |1  |Dropping client 914 because of ping timeout 19 0 0
+2022-01-24 08:17:40.340144|INFO    |PktHandler    |1  |Dropping client 911 because of ping timeout 19 0 0
+2022-01-24 09:19:06.016485|INFO    |VirtualServer |1  |client 'JXX'(id:54) was added to servergroup '1'(id:9) by client 'Zhuo_Yun'(id:75)
+2022-01-24 12:31:27.273033|INFO    |PktHandler    |1  |Dropping client 909 because of ping timeout 19 0 0
+2022-01-24 13:01:06.558756|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 13:01:06.645834|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 13:01:07.989580|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 13:01:13.161466|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 13:01:13.848953|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 13:01:20.489571|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_search'(id:30) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 13:01:20.598947|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_search'(id:30) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 13:01:21.052069|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_search'(id:30) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 13:01:21.364587|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_search'(id:30) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 13:01:22.364586|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_search'(id:30) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-24 14:06:31.848187|INFO    |VirtualServer |1  |servergroup 'Guest'(id:8) was copied by 'Zhuo_Yun'(id:75) to 'Guest (Copy)'(id:10)
+2022-01-24 14:06:48.772964|INFO    |VirtualServer |1  |client 'JXX'(id:54) was added to servergroup 'Guest (Copy)'(id:10) by client 'Zhuo_Yun'(id:75)
+2022-01-24 14:07:06.526863|INFO    |VirtualServer |1  |client 'JXX'(id:54) was removed from servergroup '1'(id:9) by client 'Zhuo_Yun'(id:75)
+2022-01-24 14:07:11.729983|INFO    |VirtualServer |1  |client 'JXX'(id:54) was added to servergroup '1'(id:9) by client 'Zhuo_Yun'(id:75)
+2022-01-24 14:07:14.058109|INFO    |VirtualServer |1  |client 'JXX'(id:54) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-01-24 14:07:24.479971|INFO    |VirtualServer |1  |client 'JXX'(id:54) was removed from servergroup 'Guest (Copy)'(id:10) by client 'Zhuo_Yun'(id:75)
+2022-01-24 14:07:31.151835|INFO    |VirtualServer |1  |servergroup 'Guest (Copy)'(id:10) was deleted by 'Zhuo_Yun'(id:75)
+2022-01-24 14:10:37.758129|INFO    |VirtualServer |1  |permission 'i_channel_modify_power'(id:124) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Normal'(id:7)
+2022-01-24 14:11:35.044230|INFO    |VirtualServer |1  |permission 'i_channel_join_power'(id:139) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Normal'(id:7)
+2022-01-24 14:11:35.262979|INFO    |VirtualServer |1  |permission 'i_channel_subscribe_power'(id:141) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Normal'(id:7)
+2022-01-24 14:11:40.659447|INFO    |VirtualServer |1  |permission 'i_channel_description_view_power'(id:143) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Normal'(id:7)
+2022-01-24 17:21:10.894617|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-24 17:21:10.894617|INFO    |PktHandler    |1  |Dropping client 925 because of resend timeout
+2022-01-25 03:28:29.523819|INFO    |VirtualServer |1  |client 'Zhuoyun'(id:64) was removed from servergroup 'Server Admin'(id:6) by client 'Zhuoyun'(id:64)
+2022-01-25 03:29:11.056994|INFO    |VirtualServer |1  |permission 'b_channel_info_view'(id:87) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:29:12.260121|INFO    |VirtualServer |1  |permission 'b_channel_info_view'(id:87) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:30:00.526680|INFO    |VirtualServer |1  |client 'Zhuoyun'(id:64) was added to servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2022-01-25 03:39:28.748851|INFO    |VirtualServer |1  |permission 'b_channel_create_with_needed_talk_power'(id:104) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:39:29.517416|INFO    |VirtualServer |1  |permission 'b_channel_create_with_needed_talk_power'(id:104) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:39:46.822093|INFO    |VirtualServer |1  |permission 'b_channel_create_with_needed_talk_power'(id:104) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:39:47.353353|INFO    |VirtualServer |1  |permission 'b_channel_create_with_needed_talk_power'(id:104) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:11.853339|INFO    |VirtualServer |1  |permission 'b_virtualserver_connectioninfo_view'(id:26) with values (value:0, negated:1, skipchannel:1) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:12.228325|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:0, negated:1, skipchannel:1) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:13.103316|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_dbinfo'(id:33) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:13.165822|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_dbinfo'(id:33) with values (value:1, negated:0, skipchannel:1) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:13.431460|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_dbinfo'(id:33) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:13.993957|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_dbinfo'(id:33) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:14.900207|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_dbinfo'(id:33) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:15.572079|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_dbinfo'(id:33) with values (value:0, negated:1, skipchannel:1) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:19.009580|INFO    |VirtualServer |1  |permission 'b_channel_info_view'(id:87) with values (value:0, negated:1, skipchannel:1) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:21.265415|INFO    |VirtualServer |1  |permission 'b_channel_info_view'(id:87) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:35.940223|INFO    |VirtualServer |1  |permission 'b_channel_info_view'(id:87) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:37.471479|INFO    |VirtualServer |1  |permission 'b_channel_info_view'(id:87) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 03:40:49.910916|INFO    |VirtualServer |1  |client 'Zhuoyun'(id:64) was removed from servergroup 'Server Admin'(id:6) by client 'Zhuoyun'(id:64)
+2022-01-25 04:13:33.316955|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_icon_id'(id:74) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-01-25 04:13:35.066955|INFO    |VirtualServer |1  |permission 'b_virtualserver_modify_icon_id'(id:74) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-01-25 04:14:30.956685|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-598671212, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-01-25 04:16:31.741712|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-461731038) was added by 'Zhuo_Yun'(id:75) to channelgroup 'Channel Admin'(id:5)
+2022-01-25 04:16:48.710449|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:1899804207) was added by 'Zhuo_Yun'(id:75) to channelgroup 'Guest'(id:8)
+2022-01-25 04:17:15.694803|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) was deleted by 'Zhuo_Yun'(id:75) from channelgroup 'Guest'(id:8)
+2022-01-25 04:17:31.210420|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:1899804207, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-01-25 04:49:27.680686|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:524648822, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-01-25 10:18:51.124096|INFO    |PktHandler    |1  |Dropping client 930 because of ping timeout 19 0 0
+2022-01-25 10:18:51.124096|INFO    |PktHandler    |1  |Dropping client 935 because of ping timeout 19 0 0
+2022-01-25 11:38:07.064208|INFO    |VirtualServer |1  |servergroup 'Guest'(id:8) was copied by 'Zhuo_Yun'(id:75) to 'Guest (Copy)'(id:11)
+2022-01-25 11:38:10.907977|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-598671212, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest (Copy)'(id:11)
+2022-01-25 11:38:17.157946|INFO    |VirtualServer |1  |client 'KristenG'(id:41) was added to servergroup 'Guest (Copy)'(id:11) by client 'Zhuo_Yun'(id:75)
+2022-01-25 12:19:33.802487|INFO    |VirtualServer |1  |client 'KristenG'(id:41) was added to servergroup 'Guest (Copy)'(id:11) by client 'Zhuo_Yun'(id:75)
+2022-01-25 15:30:35.673493|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-25 15:30:35.673493|INFO    |PktHandler    |1  |Dropping client 953 because of resend timeout
+2022-01-26 05:35:25.496305|INFO    |PktHandler    |1  |Dropping client 961 because of ping timeout 19 0 0
+2022-01-26 07:34:36.314582|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-26 07:34:36.314582|INFO    |PktHandler    |1  |Dropping client 965 because of resend timeout
+2022-01-26 09:16:21.820846|INFO    |VirtualServer |1  |client 'KristenG'(id:41) was added to servergroup 'Guest (Copy)'(id:11) by client 'Zhuo_Yun'(id:75)
+2022-01-26 13:30:55.368609|INFO    |PktHandler    |1  |Dropping client 963 because of ping timeout 19 0 0
+2022-01-26 13:42:26.346131|INFO    |PktHandler    |1  |Dropping client 971 because of ping timeout 19 0 0
+2022-01-26 16:02:37.641099|INFO    |PktHandler    |1  |Dropping client 959 because of ping timeout 19 0 0
+2022-01-27 02:39:51.698771|INFO    |PktHandler    |1  |Dropping client 975 because of ping timeout 19 0 0
+2022-01-27 05:13:57.531337|INFO    |PktHandler    |1  |Dropping client 976 because of ping timeout 19 0 0
+2022-01-27 05:15:32.690439|INFO    |PktHandler    |1  |Dropping client 979 because of ping timeout 19 0 0
+2022-01-27 05:17:34.092688|INFO    |PktHandler    |1  |Dropping client 980 because of ping timeout 19 0 0
+2022-01-27 05:42:09.376731|INFO    |PktHandler    |1  |Dropping client 982 because of ping timeout 19 0 0
+2022-01-27 06:16:14.857718|INFO    |PktHandler    |1  |Dropping client 986 because of ping timeout 19 0 0
+2022-01-27 07:29:36.945259|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-01-27 07:29:36.945259|INFO    |PktHandler    |1  |Dropping client 977 because of resend timeout
+2022-01-27 07:40:39.222075|INFO    |PktHandler    |1  |Dropping client 992 because of ping timeout 19 0 0
+2022-01-27 10:46:49.393440|INFO    |PktHandler    |1  |Dropping client 1004 because of ping timeout 19 0 0
+2022-01-28 07:57:08.847807|INFO    |PktHandler    |1  |Dropping client 1019 because of ping timeout 19 0 0
+2022-01-28 08:08:37.761339|INFO    |PktHandler    |1  |Dropping client 1022 because of ping timeout 19 0 0
+2022-01-28 08:33:14.627532|INFO    |PktHandler    |1  |Dropping client 1018 because of ping timeout 19 0 0
+2022-01-28 13:14:32.342574|INFO    |PktHandler    |1  |Dropping client 1034 because of ping timeout 19 0 0
+2022-01-28 13:16:56.693986|INFO    |PktHandler    |1  |Dropping client 1037 because of ping timeout 19 0 0
+2022-01-30 04:23:35.317485|INFO    |PktHandler    |1  |Dropping client 1072 because of ping timeout 19 0 0
+2022-01-31 11:52:29.545284|INFO    |PktHandler    |1  |Dropping client 1113 because of ping timeout 19 0 0
+2022-01-31 17:22:18.153769|INFO    |PktHandler    |1  |Dropping client 1126 because of ping timeout 19 0 0
+2022-01-31 17:52:20.259759|INFO    |PktHandler    |1  |Dropping client 1128 because of ping timeout 19 0 0
+2022-02-01 14:23:20.824263|INFO    |PktHandler    |1  |Dropping client 1142 because of ping timeout 19 0 0
+2022-02-02 03:57:07.382761|INFO    |PktHandler    |1  |Dropping client 1170 because of ping timeout 19 0 0
+2022-02-03 15:23:19.510660|INFO    |PktHandler    |1  |Dropping client 1206 because of ping timeout 19 0 0
+2022-02-04 07:52:45.819022|INFO    |PktHandler    |1  |Dropping client 1229 because of ping timeout 19 0 0
+2022-02-04 13:57:49.922954|INFO    |VirtualServer |1  |servergroup 'Guest (Copy)'(id:11) was deleted by 'Zhuo_Yun'(id:75)
+2022-02-04 13:58:02.952255|INFO    |VirtualServer |1  |servergroup 'Guest'(id:8) was copied by 'Zhuo_Yun'(id:75) to 'Guest (Copy)'(id:12)
+2022-02-04 13:58:26.734445|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-598671212, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest (Copy)'(id:12)
+2022-02-04 13:58:46.265681|INFO    |VirtualServer |1  |servergroup '2'(id:13) was added by 'Zhuo_Yun'(id:75)
+2022-02-04 13:59:40.783311|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-598671212, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-04 13:59:48.454191|INFO    |VirtualServer |1  |client 'KristenG'(id:41) was added to servergroup '2'(id:13) by client 'Zhuo_Yun'(id:75)
+2022-02-04 15:05:39.559121|INFO    |VirtualServer |1  |client 'KristenG'(id:41) was added to servergroup 'Guest (Copy)'(id:12) by client 'Zhuo_Yun'(id:75)
+2022-02-05 07:03:19.532769|INFO    |PktHandler    |1  |Dropping client 1259 because of ping timeout 19 0 0
+2022-02-05 08:51:06.446723|INFO    |PktHandler    |1  |Dropping client 1264 because of ping timeout 19 0 0
+2022-02-05 15:30:24.352609|INFO    |PktHandler    |1  |Dropping client 1274 because of ping timeout 19 0 0
+2022-02-05 16:09:27.002383|INFO    |PktHandler    |1  |Dropping client 1275 because of ping timeout 19 0 0
+2022-02-05 16:11:14.040347|INFO    |PktHandler    |1  |Dropping client 1276 because of ping timeout 19 0 0
+2022-02-05 16:13:07.772665|INFO    |PktHandler    |1  |Dropping client 1277 because of ping timeout 19 0 0
+2022-02-06 02:22:02.615177|INFO    |PktHandler    |1  |Dropping client 1013 because of ping timeout 19 0 0
+2022-02-06 04:42:44.660170|INFO    |PktHandler    |1  |Dropping client 1280 because of ping timeout 19 0 0
+2022-02-06 06:01:53.231027|INFO    |PktHandler    |1  |Dropping client 1285 because of ping timeout 19 0 0
+2022-02-06 07:06:26.296130|INFO    |VirtualServer |1  |permission 'i_client_max_avatar_filesize'(id:178) with values (value:200000, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:06:37.561744|INFO    |VirtualServer |1  |permission 'i_client_max_channel_subscriptions'(id:179) with values (value:-1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:06:45.144726|INFO    |VirtualServer |1  |permission 'b_client_info_view'(id:191) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:06:54.840054|INFO    |VirtualServer |1  |permission 'i_client_needed_serverquery_view_power'(id:196) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:07:29.453282|INFO    |VirtualServer |1  |permission 'b_channel_info_view'(id:87) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:06.795055|INFO    |VirtualServer |1  |permission 'b_channel_join_permanent'(id:134) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:07.404436|INFO    |VirtualServer |1  |permission 'b_channel_join_semi_permanent'(id:135) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:08.248195|INFO    |VirtualServer |1  |permission 'b_channel_join_temporary'(id:136) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:08.310679|INFO    |VirtualServer |1  |permission 'b_channel_join_temporary'(id:136) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:09.966928|INFO    |VirtualServer |1  |permission 'b_channel_join_temporary'(id:136) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:23.827264|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:23.936654|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:1, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:25.983519|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:26.608512|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_search'(id:30) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:27.421013|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_search'(id:30) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 07:08:27.999132|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_search'(id:30) with values (value:0, negated:1, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '2'(id:13)
+2022-02-06 15:37:13.370641|INFO    |PktHandler    |1  |Dropping client 1304 because of ping timeout 19 0 0
+2022-02-07 05:58:21.298583|INFO    |PktHandler    |1  |Dropping client 1316 because of ping timeout 19 0 0
+2022-02-07 11:38:10.888926|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2022-02-07 11:38:10.888926|INFO    |PktHandler    |1  |Dropping client 1323 because of resend timeout
+2022-02-07 11:41:47.634975|INFO    |PktHandler    |1  |Dropping client 1324 because of ping timeout 19 0 0
+2022-02-07 11:43:03.645137|INFO    |PktHandler    |1  |Dropping client 1325 because of ping timeout 19 0 0
+2022-02-07 11:46:29.210843|INFO    |PktHandler    |1  |Dropping client 1326 because of ping timeout 19 0 0
+2022-02-07 11:47:56.100392|INFO    |PktHandler    |1  |Dropping client 1327 because of ping timeout 19 0 0
+2022-02-08 02:08:34.233365|INFO    |PktHandler    |1  |Dropping client 1342 because of ping timeout 19 0 0
+2022-02-08 03:46:16.909111|INFO    |PktHandler    |1  |Dropping client 1348 because of ping timeout 19 0 0
+2022-02-08 03:47:40.371951|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2022-02-08 03:47:40.371951|INFO    |PktHandler    |1  |Dropping client 1349 because of resend timeout
+2022-02-08 03:49:47.616080|INFO    |PktHandler    |1  |Cleaning up connection because of 2 resends of COMMAND packet
+2022-02-08 03:49:47.616080|INFO    |PktHandler    |1  |Dropping client 1350 because of resend timeout
+2022-02-08 03:50:35.848454|INFO    |PktHandler    |1  |Cleaning up connection because of 9 resends of COMMAND packet
+2022-02-08 03:50:35.848454|INFO    |PktHandler    |1  |Dropping client 1351 because of resend timeout
+2022-02-09 04:00:43.632773|INFO    |PktHandler    |1  |Dropping client 1370 because of ping timeout 19 0 0
+2022-02-09 05:31:43.618696|INFO    |PktHandler    |1  |Dropping client 1374 because of ping timeout 19 0 0
+2022-02-09 05:35:46.488630|INFO    |PktHandler    |1  |Dropping client 1375 because of ping timeout 19 0 0
+2022-02-09 10:44:11.278779|INFO    |PktHandler    |1  |Dropping client 1346 because of ping timeout 19 0 0
+2022-02-09 15:00:07.633265|INFO    |PktHandler    |1  |Dropping client 1381 because of ping timeout 19 0 0
+2022-02-10 10:47:23.738447|INFO    |PktHandler    |1  |Dropping client 1397 because of ping timeout 19 0 0
+2022-02-10 13:58:10.206351|INFO    |PktHandler    |1  |Dropping client 1401 because of ping timeout 19 0 0
+2022-02-10 16:04:14.026711|INFO    |PktHandler    |1  |Dropping client 1406 because of ping timeout 19 0 0
+2022-02-10 16:16:34.724419|INFO    |PktHandler    |1  |Dropping client 1407 because of ping timeout 19 0 0
+2022-02-11 05:26:52.420566|INFO    |PktHandler    |1  |Cleaning up connection because of 6 resends of COMMAND packet
+2022-02-11 05:26:52.420566|INFO    |PktHandler    |1  |Dropping client 1416 because of resend timeout
+2022-02-12 10:09:06.408820|INFO    |PktHandler    |1  |Dropping client 1430 because of ping timeout 19 0 0
+2022-02-13 06:54:25.061028|INFO    |PktHandler    |1  |Dropping client 1458 because of ping timeout 19 0 0
+2022-02-13 07:14:36.163617|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1371591198) was added by 'Zhuo_Yun'(id:75) to channel '有声学习区'(id:33)
+2022-02-13 07:24:57.068336|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1371591198) was added by 'Zhuo_Yun'(id:75) to channel '学习区'(id:5)
+2022-02-13 09:49:27.558474|INFO    |PktHandler    |1  |Dropping client 1456 because of ping timeout 19 0 0
+2022-02-13 11:34:33.806939|INFO    |PktHandler    |1  |Dropping client 1462 because of ping timeout 19 0 0
+2022-02-15 03:00:16.119197|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-1243837536) was added by 'Zhuo_Yun'(id:75) to channel '18禁区'(id:31)
+2022-02-15 04:22:40.370571|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-396134573) was added by 'Zhuo_Yun'(id:75) to channelgroup 'Channel Admin'(id:5)
+2022-02-15 04:22:48.948696|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-461731038, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Server Admin'(id:6)
+2022-02-15 08:15:41.067085|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was removed from servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2022-02-15 08:15:41.067085|INFO    |VirtualServer |1  |client 'yun'(id:75) was removed from servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2022-02-15 08:15:44.410822|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to channelgroup 'Guest'(id:8) by client 'Zhuo_Yun'(id:75) in channel '学习区'(id:5)
+2022-02-15 08:15:44.410822|INFO    |VirtualServer |1  |client 'yun'(id:75) was added to channelgroup 'Guest'(id:8) by client 'Zhuo_Yun'(id:75) in channel 'ZhuoYun的主区域'(id:18)
+2022-02-15 08:17:46.602110|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to servergroup 'Server Admin'(id:6) by client 'yun1'(id:14)
+2022-02-15 08:17:46.602110|INFO    |VirtualServer |1  |client 'yun'(id:75) was added to servergroup 'Server Admin'(id:6) by client 'yun1'(id:14)
+2022-02-15 08:17:53.763255|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to channelgroup 'Channel Admin'(id:5) by client 'yun1'(id:14) in channel '学习区'(id:5)
+2022-02-15 08:19:52.876530|INFO    |VirtualServer |1  |permission 'b_channel_create_temporary'(id:91) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel 'ZhuoYun的主区域'(id:18)
+2022-02-15 08:31:19.943333|INFO    |VirtualServer |1  |permission 'b_channel_create_temporary'(id:91) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-02-15 08:31:48.373009|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-02-15 08:31:48.467713|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-02-15 08:31:48.970650|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-02-15 08:33:36.186388|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel 'ZhuoYun的主区域'(id:18)
+2022-02-15 08:34:44.685348|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channelgroup 'Guest'(id:8)
+2022-02-15 08:34:46.935339|INFO    |VirtualServer |1  |permission 'b_channel_create_temporary'(id:91) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channelgroup 'Guest'(id:8)
+2022-02-15 08:41:35.540564|INFO    |VirtualServer |1  |permission 'i_needed_modify_power_channel_create_child'(id:32856) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-02-15 08:41:40.009313|INFO    |VirtualServer |1  |permission 'i_needed_modify_power_channel_create_temporary'(id:32859) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-02-15 08:42:02.072768|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel 'ZhuoYun的主区域'(id:18)
+2022-02-15 08:42:26.130365|INFO    |VirtualServer |1  |client 'yunLaptop'(id:64) was added to servergroup '1'(id:9) by client 'Zhuo_Yun'(id:75)
+2022-02-15 08:43:00.678191|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:0) was added by 'Zhuo_Yun'(id:75) to channel 'ZhuoYun的主区域'(id:18)
+2022-02-15 08:43:02.256324|INFO    |VirtualServer |1  |permission 'b_channel_create_temporary'(id:91) with values (value:0) was added by 'Zhuo_Yun'(id:75) to channel 'ZhuoYun的主区域'(id:18)
+2022-02-15 08:43:07.108840|INFO    |VirtualServer |1  |permission 'b_channel_create_temporary'(id:91) was deleted by 'Zhuo_Yun'(id:75) from channel 'ZhuoYun的主区域'(id:18)
+2022-02-15 08:43:08.864707|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) was deleted by 'Zhuo_Yun'(id:75) from channel 'ZhuoYun的主区域'(id:18)
+2022-02-15 08:53:16.032232|INFO    |VirtualServer |1  |permission 'b_channel_create_temporary'(id:91) was deleted by 'Zhuo_Yun'(id:75) from servergroup 'Guest'(id:8)
+2022-02-15 08:53:18.469726|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) was deleted by 'Zhuo_Yun'(id:75) from servergroup 'Guest'(id:8)
+2022-02-15 08:53:19.407223|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Guest'(id:8)
+2022-02-15 08:53:35.059549|INFO    |VirtualServer |1  |permission 'i_needed_modify_power_channel_create_temporary'(id:32859) was deleted by 'Zhuo_Yun'(id:75) from servergroup 'Guest'(id:8)
+2022-02-15 08:53:38.108388|INFO    |VirtualServer |1  |permission 'i_needed_modify_power_channel_create_child'(id:32856) was deleted by 'Zhuo_Yun'(id:75) from servergroup 'Guest'(id:8)
+2022-02-15 08:53:40.108391|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) was deleted by 'Zhuo_Yun'(id:75) from servergroup 'Guest'(id:8)
+2022-02-15 08:54:08.028287|INFO    |VirtualServer |1  |Channelgroup 'Guest'(id:8) was copied by 'Zhuo_Yun'(id:75) to 'Guest (Copy)'(id:12)
+2022-02-15 08:54:20.485293|INFO    |VirtualServer |1  |channelgroup 'Guest (Copy)'(id:12) was deleted by 'Zhuo_Yun'(id:75)
+2022-02-15 08:54:28.047791|INFO    |VirtualServer |1  |permission 'b_group_is_permanent'(id:148) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channelgroup 'Guest'(id:8)
+2022-02-15 08:54:51.813400|INFO    |VirtualServer |1  |permission 'i_channel_max_depth'(id:83) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channelgroup 'Guest'(id:8)
+2022-02-15 08:55:57.096545|INFO    |VirtualServer |1  |permission 'i_needed_modify_power_channel_subscribe_power'(id:32909) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 08:56:48.675600|INFO    |VirtualServer |1  |permission 'i_client_max_channel_subscriptions'(id:179) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 08:56:55.909973|INFO    |VirtualServer |1  |permission 'i_client_max_channel_subscriptions'(id:179) with values (value:-1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 08:57:47.150161|INFO    |VirtualServer |1  |client 'yunLaptop'(id:64) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-15 08:58:17.107180|INFO    |VirtualServer |1  |client 'yunLaptop'(id:64) was removed from servergroup '1'(id:9) by client 'Zhuo_Yun'(id:75)
+2022-02-15 08:58:19.950918|INFO    |VirtualServer |1  |client 'yunLaptop'(id:64) was removed from servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-15 08:58:31.294666|INFO    |VirtualServer |1  |client 'yunLaptop'(id:64) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-15 08:58:35.825895|INFO    |VirtualServer |1  |client '8km'(id:47) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-15 08:58:38.890369|INFO    |VirtualServer |1  |client 'm78！'(id:58) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-15 08:59:31.839524|INFO    |VirtualServer |1  |permission 'i_channel_join_power'(id:139) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 08:59:51.917646|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_download_power'(id:238) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 08:59:51.917646|INFO    |VirtualServer |1  |permission 'i_channel_needed_join_power'(id:140) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 08:59:51.917646|INFO    |VirtualServer |1  |permission 'i_channel_needed_modify_power'(id:125) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 08:59:51.917646|INFO    |VirtualServer |1  |permission 'i_channel_needed_description_view_power'(id:144) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 08:59:51.917646|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_upload_power'(id:236) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 08:59:51.917646|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 08:59:51.933268|INFO    |VirtualServer |1  |permission 'i_ft_needed_directory_create_power'(id:246) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 08:59:51.933268|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_rename_power'(id:242) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 08:59:51.933268|INFO    |VirtualServer |1  |permission 'i_channel_needed_delete_power'(id:133) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 08:59:51.933268|INFO    |VirtualServer |1  |permission 'i_ft_needed_file_browse_power'(id:244) with values (value:2) was added by 'Zhuo_Yun'(id:75) to channel '[spacer0]'(id:32)
+2022-02-15 09:00:24.072874|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:1899804207, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Normal'(id:7)
+2022-02-15 09:00:33.760393|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:1247981546, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Normal'(id:7)
+2022-02-15 09:01:27.515218|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:27.624581|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:28.265211|INFO    |VirtualServer |1  |permission 'b_virtualserver_connectioninfo_view'(id:26) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:28.374582|INFO    |VirtualServer |1  |permission 'b_virtualserver_connectioninfo_view'(id:26) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:28.921477|INFO    |VirtualServer |1  |permission 'b_virtualserver_channel_list'(id:27) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:29.015218|INFO    |VirtualServer |1  |permission 'b_virtualserver_channel_list'(id:27) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:29.827705|INFO    |VirtualServer |1  |permission 'b_virtualserver_channel_list'(id:27) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:30.140205|INFO    |VirtualServer |1  |permission 'b_virtualserver_connectioninfo_view'(id:26) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:30.468339|INFO    |VirtualServer |1  |permission 'b_virtualserver_info_view'(id:25) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:31.546462|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:31.624587|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:32.312092|INFO    |VirtualServer |1  |permission 'b_virtualserver_client_list'(id:29) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:37.890215|INFO    |VirtualServer |1  |permission 'b_virtualserver_token_use'(id:40) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:47.733949|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:47.812068|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:49.077691|INFO    |VirtualServer |1  |permission 'b_channel_create_child'(id:88) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:49.812064|INFO    |VirtualServer |1  |permission 'b_channel_create_permanent'(id:89) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:50.546454|INFO    |VirtualServer |1  |permission 'b_channel_create_semi_permanent'(id:90) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:01:51.124566|INFO    |VirtualServer |1  |permission 'b_channel_create_temporary'(id:91) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:01.750547|INFO    |VirtualServer |1  |permission 'b_channel_create_with_topic'(id:92) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:02.484916|INFO    |VirtualServer |1  |permission 'b_channel_create_with_description'(id:93) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:03.000537|INFO    |VirtualServer |1  |permission 'b_channel_create_with_password'(id:94) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:04.328654|INFO    |VirtualServer |1  |permission 'b_channel_create_permanent'(id:89) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:05.641156|INFO    |VirtualServer |1  |permission 'b_channel_create_permanent'(id:89) was deleted by 'Zhuo_Yun'(id:75) from servergroup '1'(id:9)
+2022-02-15 09:02:11.875534|INFO    |VirtualServer |1  |permission 'b_channel_create_modify_with_codec_opusvoice'(id:96) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:28.078639|INFO    |VirtualServer |1  |permission 'i_channel_create_modify_with_codec_maxquality'(id:98) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:30.875504|INFO    |VirtualServer |1  |permission 'i_channel_create_modify_with_codec_latency_factor_min'(id:99) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:35.938043|INFO    |VirtualServer |1  |permission 'b_channel_create_with_maxclients'(id:100) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:36.423371|INFO    |VirtualServer |1  |permission 'b_channel_create_with_maxfamilyclients'(id:101) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:40.313980|INFO    |VirtualServer |1  |permission 'b_channel_create_with_default'(id:103) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:54.415529|INFO    |VirtualServer |1  |permission 'i_channel_modify_power'(id:124) with values (value:75, negated:0, skipchannel:1) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:02:54.478036|INFO    |VirtualServer |1  |permission 'i_channel_modify_power'(id:124) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:00.571768|INFO    |VirtualServer |1  |permission 'b_channel_join_semi_permanent'(id:135) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:01.134266|INFO    |VirtualServer |1  |permission 'b_channel_join_temporary'(id:136) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:05.806149|INFO    |VirtualServer |1  |permission 'b_channel_join_semi_permanent'(id:135) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:09.368649|INFO    |VirtualServer |1  |permission 'b_channel_join_semi_permanent'(id:135) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:30.103007|INFO    |VirtualServer |1  |permission 'i_channel_subscribe_power'(id:141) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:35.415515|INFO    |VirtualServer |1  |permission 'i_channel_description_view_power'(id:143) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:38.136193|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_list'(id:153) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:42.854936|INFO    |VirtualServer |1  |permission 'b_virtualserver_servergroup_client_list'(id:155) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:43.558058|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_list'(id:156) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:03:44.218216|INFO    |VirtualServer |1  |permission 'b_virtualserver_channelgroup_client_list'(id:158) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:04.436961|INFO    |VirtualServer |1  |permission 'i_group_auto_update_type'(id:149) with values (value:30, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:08.858827|INFO    |VirtualServer |1  |permission 'b_client_info_view'(id:191) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:09.405712|INFO    |VirtualServer |1  |permission 'b_client_permissionoverview_view'(id:192) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:09.921321|INFO    |VirtualServer |1  |permission 'b_client_permissionoverview_own'(id:193) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:15.031666|INFO    |VirtualServer |1  |permission 'i_client_needed_serverquery_view_power'(id:196) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:25.078587|INFO    |VirtualServer |1  |permission 'i_client_needed_kick_from_server_power'(id:199) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:31.469239|INFO    |VirtualServer |1  |permission 'i_client_needed_kick_from_channel_power'(id:201) with values (value:50, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:39.391136|INFO    |VirtualServer |1  |permission 'i_client_needed_ban_power'(id:203) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:41.746597|INFO    |VirtualServer |1  |permission 'i_client_needed_kick_from_channel_power'(id:201) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:43.603034|INFO    |VirtualServer |1  |permission 'i_client_needed_kick_from_server_power'(id:199) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:52.896002|INFO    |VirtualServer |1  |permission 'i_client_needed_move_power'(id:205) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:53.380374|INFO    |VirtualServer |1  |permission 'i_client_complain_power'(id:206) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:54.364748|INFO    |VirtualServer |1  |permission 'i_client_needed_complain_power'(id:207) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:04:59.177258|INFO    |VirtualServer |1  |permission 'i_client_private_textmessage_power'(id:216) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:05:01.224116|INFO    |VirtualServer |1  |permission 'b_client_channel_textmessage_send'(id:219) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:05:01.724112|INFO    |VirtualServer |1  |permission 'b_client_offline_textmessage_send'(id:220) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:05:05.927235|INFO    |VirtualServer |1  |permission 'i_client_needed_talk_power'(id:222) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:05:09.942872|INFO    |VirtualServer |1  |permission 'i_needed_modify_power_client_needed_talk_power'(id:32990) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:05:11.786612|INFO    |VirtualServer |1  |permission 'i_needed_modify_power_client_needed_talk_power'(id:32990) was deleted by 'Zhuo_Yun'(id:75) from servergroup '1'(id:9)
+2022-02-15 09:05:13.036616|INFO    |VirtualServer |1  |permission 'i_client_needed_talk_power'(id:222) was deleted by 'Zhuo_Yun'(id:75) from servergroup '1'(id:9)
+2022-02-15 09:05:20.521947|INFO    |VirtualServer |1  |permission 'i_client_poke_power'(id:223) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:05:33.678205|INFO    |VirtualServer |1  |permission 'i_client_max_clones_uid'(id:176) with values (value:2, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:05:43.394981|INFO    |VirtualServer |1  |permission 'i_client_max_avatar_filesize'(id:178) with values (value:20000, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:05:49.473100|INFO    |VirtualServer |1  |permission 'i_client_max_avatar_filesize'(id:178) with values (value:200000, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:01.051213|INFO    |VirtualServer |1  |permission 'b_client_request_talker'(id:187) with values (value:1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:06.394956|INFO    |VirtualServer |1  |permission 'i_ft_file_upload_power'(id:235) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:07.113718|INFO    |VirtualServer |1  |permission 'i_ft_file_download_power'(id:237) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:08.848079|INFO    |VirtualServer |1  |permission 'i_ft_file_delete_power'(id:239) with values (value:75, negated:0, skipchannel:1) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:08.926222|INFO    |VirtualServer |1  |permission 'i_ft_file_delete_power'(id:239) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:11.394962|INFO    |VirtualServer |1  |permission 'i_ft_file_rename_power'(id:241) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:15.678169|INFO    |VirtualServer |1  |permission 'i_ft_file_browse_power'(id:243) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:17.428172|INFO    |VirtualServer |1  |permission 'i_ft_directory_create_power'(id:245) with values (value:75, negated:0, skipchannel:1) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:17.537536|INFO    |VirtualServer |1  |permission 'i_ft_directory_create_power'(id:245) with values (value:75, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:21.740650|INFO    |VirtualServer |1  |permission 'i_ft_quota_mb_download_per_client'(id:247) with values (value:-1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:25.271902|INFO    |VirtualServer |1  |permission 'i_ft_quota_mb_upload_per_client'(id:248) with values (value:-1, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup '1'(id:9)
+2022-02-15 09:06:32.963292|INFO    |VirtualServer |1  |client 'JXX'(id:54) was removed from servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-15 09:07:04.351947|INFO    |VirtualServer |1  |permission 'b_channel_create_semi_permanent'(id:90) with values (value:0, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Normal'(id:7)
+2022-02-15 09:08:20.242523|INFO    |VirtualServer |1  |client 'yunLaptop'(id:64) was added to servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2022-02-15 09:08:24.648758|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-15 09:08:29.150695|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was removed from servergroup 'Server Admin'(id:6) by client 'Zhuo_Yun'(id:75)
+2022-02-15 09:18:06.870921|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to servergroup 'Server Admin'(id:6) by client 'yunLaptop'(id:64)
+2022-02-15 09:18:22.652161|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was removed from servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-15 15:00:07.681875|INFO    |VirtualServer |1  |client 'Violence'(id:7) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-16 04:52:23.372002|INFO    |PktHandler    |1  |Dropping client 1513 because of ping timeout 19 0 0
+2022-02-16 08:02:06.285770|INFO    |PktHandler    |1  |Dropping client 1514 because of ping timeout 19 0 0
+2022-02-17 04:39:03.660929|INFO    |PktHandler    |1  |Dropping client 1489 because of ping timeout 19 0 0
+2022-02-17 04:39:03.660929|INFO    |PktHandler    |1  |Dropping client 1500 because of ping timeout 19 0 0
+2022-02-18 15:25:39.505943|INFO    |PktHandler    |1  |Dropping client 1533 because of ping timeout 19 0 0
+2022-02-20 01:10:44.732301|INFO    |PktHandler    |1  |Dropping client 1562 because of ping timeout 19 0 0
+2022-02-20 01:12:00.545724|INFO    |PktHandler    |1  |Dropping client 1563 because of ping timeout 19 0 0
+2022-02-20 02:55:49.610973|INFO    |PktHandler    |1  |Dropping client 1565 because of ping timeout 19 0 0
+2022-02-21 06:36:31.459339|INFO    |PktHandler    |1  |Dropping client 1586 because of ping timeout 19 0 0
+2022-02-21 13:57:54.066864|INFO    |PktHandler    |1  |Dropping client 1592 because of ping timeout 19 0 0
+2022-02-21 14:09:21.478356|INFO    |PktHandler    |1  |Dropping client 1601 because of ping timeout 19 0 0
+2022-02-22 07:27:50.848854|INFO    |VirtualServer |1  |client 'DDing'(id:94) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-22 07:27:54.208262|INFO    |VirtualServer |1  |client 'JXX'(id:96) was added to servergroup '1'(id:9) by client 'Zhuo_Yun'(id:75)
+2022-02-22 07:45:58.797955|INFO    |VirtualServer |1  |servergroup 'Normal'(id:7) was copied by 'Zhuo_Yun'(id:75) to 'Normal (Copy)'(id:14)
+2022-02-22 07:46:10.282307|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:-181230280, negated:0, skipchannel:0) was added by 'Zhuo_Yun'(id:75) to servergroup 'Normal (Copy)'(id:14)
+2022-02-22 07:46:18.829186|INFO    |VirtualServer |1  |client 'DDing'(id:94) was added to servergroup 'Normal (Copy)'(id:14) by client 'Zhuo_Yun'(id:75)
+2022-02-22 07:46:22.297930|INFO    |VirtualServer |1  |client 'DDing'(id:94) was removed from servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-22 10:16:42.088281|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-02-22 10:16:42.088281|INFO    |PktHandler    |1  |Dropping client 1605 because of resend timeout
+2022-02-22 10:20:33.717073|INFO    |PktHandler    |1  |Dropping client 1611 because of ping timeout 19 0 0
+2022-02-22 10:25:05.879994|INFO    |VirtualServer |1  |client 'TeamSpeakUser'(id:97) was added to servergroup 'Guest (Copy)'(id:12) by client 'TeamSpeakUser'(id:97)
+2022-02-22 10:26:08.552758|INFO    |VirtualServer |1  |client 'TeamSpeakUser'(id:97) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-22 10:26:12.130866|INFO    |VirtualServer |1  |client 'TeamSpeakUser'(id:97) was removed from servergroup 'Guest (Copy)'(id:12) by client 'Zhuo_Yun'(id:75)
+2022-02-22 11:11:51.153950|INFO    |PktHandler    |1  |Dropping client 1612 because of ping timeout 19 0 0
+2022-02-22 11:13:49.194848|INFO    |PktHandler    |1  |Dropping client 1614 because of ping timeout 19 0 0
+2022-02-22 11:18:22.043331|INFO    |PktHandler    |1  |Dropping client 1603 because of ping timeout 19 0 0
+2022-02-22 12:43:39.899518|INFO    |VirtualServer |1  |client 'DDing'(id:98) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-22 12:43:42.305768|INFO    |VirtualServer |1  |client 'O1dmizi'(id:70) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-22 12:43:44.790144|INFO    |VirtualServer |1  |client 'TeamSpeakUser'(id:49) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-22 15:48:45.972651|INFO    |PktHandler    |1  |Dropping client 1627 because of ping timeout 19 0 0
+2022-02-23 00:57:00.015714|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) was added to channelgroup 'Channel Admin'(id:5) by client 'Zhuo_Yun'(id:75) in channel 'ZhuoYun的主区域'(id:18)
+2022-02-23 00:59:14.416965|INFO    |VirtualServer |1  |permission 'i_icon_id'(id:145) with values (value:81352788) was added by 'Zhuo_Yun'(id:75) to channel '娱乐区'''(id:28)
+2022-02-23 03:06:26.217360|INFO    |PktHandler    |1  |Dropping client 1632 because of ping timeout 19 0 0
+2022-02-23 05:41:32.729980|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:1) was added by 'Zhuo_Yun'(id:75) to channel 'ZhuoYun的主区域'(id:18)
+2022-02-23 10:17:08.614000|INFO    |PktHandler    |1  |Dropping client 1635 because of ping timeout 19 0 0
+2022-02-23 14:52:19.489838|INFO    |PktHandler    |1  |Dropping client 1642 because of ping timeout 19 0 0
+2022-02-24 04:05:50.481980|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:0) was added by 'Zhuo_Yun'(id:75) to channel 'ZhuoYun的主区域'(id:18)
+2022-02-24 07:44:26.135860|INFO    |PktHandler    |1  |Dropping client 1657 because of ping timeout 19 0 0
+2022-02-24 08:55:47.430394|INFO    |PktHandler    |1  |Dropping client 1658 because of ping timeout 19 0 0
+2022-02-24 09:00:37.650858|INFO    |PktHandler    |1  |Dropping client 1660 because of ping timeout 19 0 0
+2022-02-24 09:02:06.216192|INFO    |PktHandler    |1  |Dropping client 1661 because of ping timeout 19 0 0
+2022-02-24 09:06:25.942622|INFO    |PktHandler    |1  |Dropping client 1662 because of ping timeout 19 0 0
+2022-02-24 09:09:13.812589|INFO    |PktHandler    |1  |Dropping client 1663 because of ping timeout 19 0 0
+2022-02-24 09:09:39.099691|INFO    |PktHandler    |1  |Cleaning up connection because of 13 resends of COMMAND packet
+2022-02-24 09:09:39.099691|INFO    |PktHandler    |1  |Dropping client 1664 because of resend timeout
+2022-02-24 11:41:01.002910|INFO    |VirtualServer |1  |client 'rainfall'(id:43) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-02-24 14:09:59.388623|INFO    |PktHandler    |1  |Dropping client 1671 because of ping timeout 19 0 0
+2022-02-25 02:37:29.765643|INFO    |PktHandler    |1  |Dropping client 1681 because of ping timeout 19 0 0
+2022-02-25 04:14:37.237438|INFO    |PktHandler    |1  |Dropping client 1683 because of ping timeout 19 0 0
+2022-02-25 12:08:29.171063|INFO    |PktHandler    |1  |Dropping client 1682 because of ping timeout 19 0 0
+2022-02-26 05:08:48.051100|INFO    |PktHandler    |1  |Dropping client 1695 because of ping timeout 19 0 0
+2022-02-26 14:07:46.785097|INFO    |PktHandler    |1  |Dropping client 1707 because of ping timeout 19 0 0
+2022-02-27 00:44:46.013008|INFO    |PktHandler    |1  |Dropping client 1684 because of ping timeout 19 0 0
+2022-02-27 04:54:30.626762|INFO    |PktHandler    |1  |Dropping client 1712 because of ping timeout 19 0 0
+2022-02-27 05:13:00.570135|INFO    |PktHandler    |1  |Dropping client 1713 because of ping timeout 19 0 0
+2022-02-27 05:23:50.668087|INFO    |PktHandler    |1  |Dropping client 1709 because of ping timeout 19 0 0
+2022-02-27 11:24:12.667264|INFO    |PktHandler    |1  |Dropping client 1719 because of ping timeout 19 0 0
+2022-02-27 11:26:09.720197|INFO    |PktHandler    |1  |Dropping client 1725 because of ping timeout 19 0 0
+2022-02-27 11:32:25.403443|INFO    |PktHandler    |1  |Cleaning up connection because of 14 resends of COMMAND packet
+2022-02-27 11:32:25.403443|INFO    |PktHandler    |1  |Dropping client 1726 because of resend timeout
+2022-02-27 11:34:07.688512|INFO    |PktHandler    |1  |Dropping client 1727 because of ping timeout 19 0 0
+2022-02-28 07:18:03.110581|INFO    |PktHandler    |1  |Dropping client 1734 because of ping timeout 19 0 0
+2022-02-28 10:49:09.733093|INFO    |PktHandler    |1  |Dropping client 1738 because of ping timeout 19 0 0
+2022-02-28 10:50:13.713612|INFO    |PktHandler    |1  |Dropping client 1740 because of ping timeout 19 0 0
+2022-03-02 12:12:04.217516|INFO    |PktHandler    |1  |Dropping client 1753 because of ping timeout 19 0 0
+2022-03-02 12:49:52.557291|INFO    |PktHandler    |1  |Dropping client 1757 because of ping timeout 19 0 0
+2022-03-02 15:55:49.880700|INFO    |PktHandler    |1  |Dropping client 1761 because of ping timeout 19 0 0
+2022-03-05 08:54:15.864058|INFO    |PktHandler    |1  |Dropping client 1786 because of ping timeout 19 0 0
+2022-03-05 12:23:38.706180|INFO    |VirtualServer |1  |permission 'i_channel_needed_subscribe_power'(id:142) with values (value:4) was added by 'Zhuo_Yun'(id:75) to channel 'ZhuoYun的主区域'(id:18)
+2022-03-07 14:18:07.284230|INFO    |VirtualServer |1  |client 'Iakkor'(id:63) was added to servergroup 'Normal'(id:7) by client 'Zhuo_Yun'(id:75)
+2022-03-07 16:13:35.068028|INFO    |PktHandler    |1  |Dropping client 1819 because of ping timeout 19 0 0
+2022-03-08 09:04:06.163628|INFO    |PktHandler    |1  |Dropping client 1830 because of ping timeout 19 0 0
+2022-03-08 12:26:32.919420|INFO    |VirtualServer |1  |client 'Zhuo_Yun'(id:75) added privilege key for servergroup 'Server Admin'(id:6)
+2022-03-08 12:59:08.523917|INFO    |VirtualServerBase|1  |stopped

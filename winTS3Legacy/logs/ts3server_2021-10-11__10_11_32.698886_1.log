@@ -1,0 +1,6 @@
+2021-10-11 10:11:33.335465|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-10-12 13:43:32.671641|INFO    |VirtualServer |1  |client 'TS3AudioBot'(id:5) was added to channelgroup 'Bot'(id:9) by client 'ZhuoYun'(id:3) in channel 'Overwatch'(id:1)
+2021-10-14 07:10:14.749363|INFO    |PktHandler    |1  |Dropping client 14 because of ping timeout 19 0 0
+2021-10-14 08:28:19.379138|INFO    |VirtualServer |1  |client 'yun'(id:14) was added to servergroup 'Server Admin'(id:6) by client 'ZhuoYun'(id:3)
+2021-10-14 08:28:26.460174|INFO    |VirtualServer |1  |client 'yun'(id:14) was added to channelgroup 'Channel Admin'(id:5) by client 'ZhuoYun'(id:3) in channel '娱乐区'(id:6)
+2021-10-15 06:51:14.324271|INFO    |PktHandler    |1  |Dropping client 24 because of ping timeout 19 0 0

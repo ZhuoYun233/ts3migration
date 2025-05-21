@@ -1,0 +1,8 @@
+2022-03-08 12:59:44.650094|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 28), Error was: channel name is already in use
+2022-03-08 12:59:44.650094|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 6), Error was: invalid channel order
+2022-03-08 12:59:44.651077|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 34), Error was: invalid channel order
+2022-03-08 12:59:44.651077|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 5), Error was: invalid channel order
+2022-03-08 12:59:44.651077|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 19), Error was: invalid channel order
+2022-03-08 12:59:44.651077|ERROR   |ChanClients   |1  |ChanClients() unable to add channel(ID: 31), Error was: invalid channel order
+2022-03-08 12:59:44.651077|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2022-03-08 12:59:48.446012|INFO    |VirtualServerBase|1  |stopped

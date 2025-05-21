@@ -1,0 +1,3 @@
+2021-10-08 10:12:41.483802|INFO    |VirtualServerBase|1  |listening on 0.0.0.0:9987, [::]:9987
+2021-10-08 13:56:59.218717|INFO    |PktHandler    |1  |Cleaning up connection because of 15 resends of COMMAND packet
+2021-10-08 13:56:59.218717|INFO    |PktHandler    |1  |Dropping client 7 because of resend timeout
